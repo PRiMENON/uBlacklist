@@ -1,0 +1,13 @@
+*://codeday.me/*
+*://kotaeta.com/*
+*://living-sun.com/*
+*://qastack.jp/*
+*://stackoverrun.com/*
+*://www.366service.com/*
+*://www.atmarkit.co.jp/*
+*://www.codeflow.site/*
+*://www.it-swarm.dev/*
+/.+\.it-swarm-\w+\.tech/
+/\w+\.coder\.work/
+*://python5.com/*
+/\w+\.uwenku\.com/
