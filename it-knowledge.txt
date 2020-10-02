@@ -11,3 +11,4 @@
 /\w+\.coder\.work/
 *://python5.com/*
 /\w+\.uwenku\.com/
+*://w3big.com/*
