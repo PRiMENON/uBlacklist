@@ -19,3 +19,17 @@
 /.+\.naver\.jp/
 /.+\.softonic\.jp/
 *://it-kyujin.jp/*
+/.+\.uptodown\.com/
+*://www.videohelp.com/*
+*://www.downloadcrew.com/*
+*://www.softpedia.com/*
+*://fossies.org/*
+*://www.heise.de/*
+*://filecr.com/*
+*://www.instalki.pl/*
+*://www.computerbild.de/*
+*://download.com.vn/*
+*://progsoft.net/*
+*://www.softantenna.com/*
+*://www.lhaplus.org/*
+*://itnews.org/*
