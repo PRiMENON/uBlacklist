@@ -1,9 +1,7 @@
 # uBlacklist
 
 ## リスト
-* [ゴシップ系リスト](gossip.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/gossip.txt)
-* [ITナレッジ系リスト](it-knowledge.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/it-knowledge.txt)
-* [低品質コンテンツ系リスト](low-quality.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/low-quality.txt)
+* [list.txt](list.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/list.txt)
 
 ## 使い方
 
