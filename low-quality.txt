@@ -34,3 +34,4 @@
 *://www.lhaplus.org/*
 *://itnews.org/*
 *://versus.com/*
+*://gigaranking.jp/*
