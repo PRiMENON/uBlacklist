@@ -12,3 +12,4 @@
 *://python5.com/*
 /\w+\.uwenku\.com/
 *://w3big.com/*
+*://svcministry.org/*
