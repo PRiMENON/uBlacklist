@@ -35,3 +35,4 @@
 *://itnews.org/*
 *://versus.com/*
 *://gigaranking.jp/*
+*://kakakusearch.com/*
