@@ -33,3 +33,4 @@
 *://www.softantenna.com/*
 *://www.lhaplus.org/*
 *://itnews.org/*
+*://versus.com/*
