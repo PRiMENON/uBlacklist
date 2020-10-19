@@ -13,9 +13,13 @@
 /\w+\.uwenku\.com/
 *://w3big.com/*
 *://svcministry.org/*
+*://riptutorial.com/*
+*://steakrecords.com/*
+*://www.javaer101.com/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
+*://xtech.nikkei.com/*
 
 !#低品質コンテンツ
 *://kurashi-atoz.com/*
@@ -27,6 +31,8 @@
 /.+\.naver\.jp/
 *://it-kyujin.jp/*
 *://itnews.org/*
+*://zephyrnet.com/*
+*://www.nodenpm.com/*
 
 !#フリーソフト
 /.+\.softonic\.jp/
