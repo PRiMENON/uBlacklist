@@ -5,7 +5,7 @@
 *://qastack.jp/*
 *://stackoverrun.com/*
 *://www.366service.com/*
-*://www.codeflow.site/*
+/\w+\.codeflow\.site/
 *://www.it-swarm.dev/*
 *://www.it-swarm-ja.tech/*
 *://www.coder.work/*
@@ -16,6 +16,10 @@
 *://riptutorial.com/*
 *://steakrecords.com/*
 *://www.javaer101.com/*
+/\w+\.ojit\.com/
+*://tutorialmore.com/*
+*://xjavascript.com/*
+*://phppedia.com/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
@@ -33,6 +37,11 @@
 *://itnews.org/*
 *://zephyrnet.com/*
 *://www.nodenpm.com/*
+*://www.codegrepper.com/*
+
+!#更新終了したコンテンツ
+*://builder.japan.zdnet.com/*
+*://semooh.jp/*
 
 !#フリーソフト
 /.+\.softonic\.jp/
@@ -56,6 +65,7 @@
 
 !#レピュテーションリスク
 *://download.com.vn/*
+/\w+\.iownyour\.biz/*
 
 !#ゴシップ
 *://aoteen.net/*
