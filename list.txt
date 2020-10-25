@@ -53,6 +53,20 @@
 *://download.com.vn/*
 /\w+\.iownyour\.biz/*
 
+!#web proxy https://proxypy.org/html/sites.html
+/\w+\.proxypy\.org/
+*://websurfnow.appspot.com/*
+*://goo---gle.appspot.com*
+*://proxygogogo.appspot.com/*
+*://proxypycode.appspot.com/*
+*://wokaoproxy.appspot.com/*
+*://www.girlsproxy.appspot.com/*
+*://proxyscript.appspot.com/*
+*://highproxying.appspot.com/*
+*://gdeadoogle.appspot.com/*
+*://www.proxyingup.appspot.com/*
+*://proxypy-gae.appspot.com/*
+
 !#ゴシップ
 !#低品質コンテンツ
 *://kurashi-atoz.com/*
