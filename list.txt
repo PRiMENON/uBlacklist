@@ -155,3 +155,7 @@
 *://jin115.com/*
 /\w+\.hostlove\.com/
 *://twicolle.com/*
+*://career-find.jp/*
+*://entertainment-topics.jp/*
+*://leisurego.jp/*
+*://alpy-alpy.net/*
