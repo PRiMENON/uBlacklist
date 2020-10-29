@@ -159,3 +159,9 @@
 *://entertainment-topics.jp/*
 *://leisurego.jp/*
 *://alpy-alpy.net/*
+*://sn-jp.com/*
+*://announcer-news.com/*
+*://www.paimise.com/*
+*://logtube.jp/*
+*://kenny01.com/*
+*://kira-hamham.com/*
