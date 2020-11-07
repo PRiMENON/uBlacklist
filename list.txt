@@ -175,3 +175,6 @@
 *://free-workstyle.com/*
 *://www.bookservice.jp/*
 *://monokuro0210.com/*
+*://www.sejuku.net/*
+*://ceron.jp/*
+*://techacademy.jp/*
