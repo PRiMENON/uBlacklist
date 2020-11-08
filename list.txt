@@ -20,6 +20,7 @@
 *://tutorialmore.com/*
 *://xjavascript.com/*
 *://phppedia.com/*
+*://www.nuomiphp.com/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
