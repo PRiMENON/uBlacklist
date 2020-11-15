@@ -21,6 +21,8 @@
 *://xjavascript.com/*
 *://phppedia.com/*
 *://www.nuomiphp.com/*
+*://bugsdb.com/*
+*://cloudstack.ninja/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
