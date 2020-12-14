@@ -181,3 +181,4 @@
 *://www.sejuku.net/*
 *://ceron.jp/*
 *://techacademy.jp/*
+*://newshareing.com/*
