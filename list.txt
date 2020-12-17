@@ -182,3 +182,5 @@
 *://ceron.jp/*
 *://techacademy.jp/*
 *://newshareing.com/*
+*://japaneseclass.jp/*
+*://www.bousaid.com/*
