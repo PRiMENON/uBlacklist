@@ -184,3 +184,4 @@
 *://newshareing.com/*
 *://japaneseclass.jp/*
 *://www.bousaid.com/*
+*://download-campaign.com/*
