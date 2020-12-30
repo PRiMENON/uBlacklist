@@ -23,6 +23,7 @@
 *://www.nuomiphp.com/*
 *://bugsdb.com/*
 *://cloudstack.ninja/*
+/\w+\.xiaolee\.net/
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
