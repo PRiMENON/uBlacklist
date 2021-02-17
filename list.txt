@@ -186,3 +186,4 @@
 *://japaneseclass.jp/*
 *://www.bousaid.com/*
 *://download-campaign.com/*
+*://programmerstart.com/*
