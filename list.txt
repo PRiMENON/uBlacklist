@@ -198,3 +198,4 @@
 *://smartlog.jp/*
 *://www.o-uccino.jp/*
 *://osusume.mynavi.jp/*
+*://komono.me/*
