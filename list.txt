@@ -187,3 +187,14 @@
 *://www.bousaid.com/*
 *://download-campaign.com/*
 *://programmerstart.com/*
+/\w+\.gpoint\.co\.jp/
+*://moov.ooo/*
+*://bp-guide.jp/*
+*://ranking.goo.ne.jp/*
+*://cojicaji.jp/*
+*://kinarino.jp/*
+*://macaro-ni.jp/*
+*://esse-online.jp/*
+*://smartlog.jp/*
+*://www.o-uccino.jp/*
+*://osusume.mynavi.jp/*
