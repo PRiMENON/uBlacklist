@@ -6,8 +6,9 @@
 *://stackoverrun.com/*
 *://www.366service.com/*
 /\w+\.codeflow\.site/
-*://www.it-swarm.dev/*
-*://www.it-swarm-ja.tech/*
+/\w+\.it-swarm\.\w+/
+/\w+\.it-swarm-\w+\.\w+/
+/\w+\.it-swarm\.\w+\.\w+/
 *://www.coder.work/*
 *://python5.com/*
 /\w+\.uwenku\.com/
