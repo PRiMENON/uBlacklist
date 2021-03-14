@@ -26,6 +26,7 @@
 *://cloudstack.ninja/*
 /\w+\.xiaolee\.net/
 *://www.fixes.pub/*
+*://bleepcoder.com/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
