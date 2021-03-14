@@ -24,6 +24,7 @@
 *://bugsdb.com/*
 *://cloudstack.ninja/*
 /\w+\.xiaolee\.net/
+*://www.fixes.pub/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
@@ -208,4 +209,3 @@
 *://osusume.excite.co.jp/*
 *://bg-mania.jp/*
 *://xn--nckxbf7qx37l79c.com/*
-
