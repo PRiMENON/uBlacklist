@@ -16,6 +16,7 @@
 *://svcministry.org/*
 *://riptutorial.com/*
 *://steakrecords.com/*
+*://steakrecord.com/*
 *://www.javaer101.com/*
 /\w+\.ojit\.com/
 *://tutorialmore.com/*
