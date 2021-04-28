@@ -22,7 +22,8 @@
 *://tutorialmore.com/*
 *://xjavascript.com/*
 *://phppedia.com/*
-*://www.nuomiphp.com/*
+/\w+\.nuomiphp\.com/
+*://nuomiphp.com/*
 *://bugsdb.com/*
 *://cloudstack.ninja/*
 /\w+\.xiaolee\.net/
@@ -31,6 +32,15 @@
 *:/cloud6.net/*
 *://www.it-mure.jp.net/*
 /\w+\.projectbackpack\.org/
+/\w+\.tistory\.com/
+*://codehero.jp/*
+/\w+\.codehero\.jp/
+*://code-examples.net/*
+/\w+\.voidcc\.com/
+/\w+\.i-harness\.com/
+*://stackovernet.xyz/*
+/\w+\.stackovernet\.xyz/
+*://fooobar.com/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
@@ -79,7 +89,6 @@
 *://proxypy-gae.appspot.com/*
 
 !#ゴシップ
-!#低品質コンテンツ
 *://kurashi-atoz.com/*
 *://mens-modern.jp/*
 *://miuki556happy.com/*
@@ -215,3 +224,5 @@
 *://osusume.excite.co.jp/*
 *://bg-mania.jp/*
 *://xn--nckxbf7qx37l79c.com/*
+*://feizeus.com/*
+*://anincline.com/*
