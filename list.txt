@@ -28,8 +28,8 @@
 /\w+\.xiaolee\.net/
 *://www.fixes.pub/*
 *://bleepcoder.com/*
-:*//cloud6.net/*
-:*//www.it-mure.jp.net/*
+*:/cloud6.net/*
+*://www.it-mure.jp.net/*
 /\w+\.projectbackpack\.org/
 
 !#会員制コンテンツ
