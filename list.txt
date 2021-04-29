@@ -46,7 +46,7 @@
 *://www.atmarkit.co.jp/*
 *://xtech.nikkei.com/*
 
-!#更新終了したコンテンツ
+!#更新終了コンテンツ
 *://builder.japan.zdnet.com/*
 *://semooh.jp/*
 
@@ -65,10 +65,16 @@
 *://www.softantenna.com/*
 *://www.lhaplus.org/*
 
-!#価格比較
+!#比較
 *://versus.com/*
 *://gigaranking.jp/*
 *://kakakusearch.com/*
+/\w+\.smartstartechnology\.com/
+*://onihikaku.com/*
+*://www.hikaku.com/*
+*://www.kuraberu.com/*
+*://www.saiyasune.com/*
+*://www.become.co.jp/*
 
 !#レピュテーションリスク
 *://download.com.vn/*
