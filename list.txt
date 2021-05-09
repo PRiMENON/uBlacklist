@@ -75,6 +75,7 @@
 *://www.kuraberu.com/*
 *://www.saiyasune.com/*
 *://www.become.co.jp/*
+*://rank-king.jp/*
 
 !#レピュテーションリスク
 *://download.com.vn/*
