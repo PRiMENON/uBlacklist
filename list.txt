@@ -42,6 +42,9 @@
 /\w+\.stackovernet\.xyz/
 *://fooobar.com/*
 
+!#wikipedia farm
+/.+\.linkfang\.org/
+
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
 *://xtech.nikkei.com/*
