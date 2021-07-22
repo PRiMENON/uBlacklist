@@ -41,6 +41,7 @@
 *://stackovernet.xyz/*
 /\w+\.stackovernet\.xyz/
 *://fooobar.com/*
+*://www.ti-enxame.com/*
 
 !#wikipedia farm
 /.+\.linkfang\.org/
@@ -97,6 +98,9 @@
 *://gdeadoogle.appspot.com/*
 *://www.proxyingup.appspot.com/*
 *://proxypy-gae.appspot.com/*
+
+!#ドキュメント機械翻訳
+*://runebook.dev/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
