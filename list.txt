@@ -42,6 +42,7 @@
 /\w+\.stackovernet\.xyz/
 *://fooobar.com/*
 *://www.ti-enxame.com/*
+*://base64.work/*
 
 !#wikipedia farm
 /.+\.linkfang\.org/
