@@ -103,6 +103,9 @@
 !#ドキュメント機械翻訳
 *://runebook.dev/*
 
+!#アフィリエイト
+*://shirabeta.net/*
+
 !#ゴシップ
 *://kurashi-atoz.com/*
 *://mens-modern.jp/*
