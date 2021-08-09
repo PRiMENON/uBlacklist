@@ -109,6 +109,7 @@
 *://clausvisbys.com/*
 *://*.safetydetectives.com/*
 *://ik4.es/*
+*://*.railstoolkit.com/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
