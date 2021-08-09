@@ -110,6 +110,7 @@
 *://*.safetydetectives.com/*
 *://ik4.es/*
 *://*.railstoolkit.com/*
+*://*.drunkentengu.com/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
