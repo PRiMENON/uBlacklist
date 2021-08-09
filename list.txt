@@ -43,6 +43,7 @@
 *://fooobar.com/*
 *://www.ti-enxame.com/*
 *://base64.work/*
+*://stackovergo.com/*
 
 !#wikipedia farm
 /.+\.linkfang\.org/
