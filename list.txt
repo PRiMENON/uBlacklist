@@ -111,6 +111,13 @@
 *://ik4.es/*
 *://*.railstoolkit.com/*
 *://*.drunkentengu.com/*
+*://*.androideity.com/*
+*://*.gouma.org/*
+*://*.eyewated.com/*
+*://securitynavi.jp/*
+*://excesssecurity.com/*
+*://www.hebergementwebs.com/*
+*://*.ifaj-congress.org/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
