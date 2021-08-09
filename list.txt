@@ -108,6 +108,7 @@
 *://shirabeta.net/*
 *://clausvisbys.com/*
 *://*.safetydetectives.com/*
+*://ik4.es/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
