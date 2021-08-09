@@ -107,6 +107,7 @@
 !#アフィリエイト
 *://shirabeta.net/*
 *://clausvisbys.com/*
+*://*.safetydetectives.com/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
