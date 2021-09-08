@@ -124,6 +124,7 @@
 *://excesssecurity.com/*
 *://www.hebergementwebs.com/*
 *://*.ifaj-congress.org/*
+*://*.thewordcracker.com/*
 
 !#ゴシップ
 *://kurashi-atoz.com/*
