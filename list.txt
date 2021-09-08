@@ -50,6 +50,7 @@
 
 !#github
 *://*.jl-k.com/*
+*://*.yizimg.com/*
 
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
