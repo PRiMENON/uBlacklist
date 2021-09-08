@@ -48,6 +48,9 @@
 !#wikipedia farm
 /.+\.linkfang\.org/
 
+!#github
+*://*.jl-k.com/*
+
 !#会員制コンテンツ
 *://www.atmarkit.co.jp/*
 *://xtech.nikkei.com/*
