@@ -71,6 +71,7 @@
 *://www.softantenna.com/*
 *://www.lhaplus.org/*
 *://softaro.net/*
+*://www.appannie.com/*
 
 !#比較
 *://versus.com/*
