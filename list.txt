@@ -70,6 +70,7 @@
 *://progsoft.net/*
 *://www.softantenna.com/*
 *://www.lhaplus.org/*
+*://softaro.net/*
 
 !#比較
 *://versus.com/*
