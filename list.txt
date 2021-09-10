@@ -11,42 +11,42 @@
 /\w+\.it-swarm\.\w+\.\w+/
 *://www.coder.work/*
 *://python5.com/*
-/\w+\.uwenku\.com/
+*://*.uwenku.com/*
 *://w3big.com/*
 *://svcministry.org/*
 *://riptutorial.com/*
 *://steakrecords.com/*
 *://steakrecord.com/*
 *://www.javaer101.com/*
-/\w+\.ojit\.com/
+*://*.ojit.com/*
 *://tutorialmore.com/*
 *://xjavascript.com/*
 *://phppedia.com/*
-/\w+\.nuomiphp\.com/
+*://*.nuomiphp.com/*
 *://nuomiphp.com/*
 *://bugsdb.com/*
 *://cloudstack.ninja/*
-/\w+\.xiaolee\.net/
+*://*.xiaolee.net/*
 *://www.fixes.pub/*
 *://bleepcoder.com/*
 *:/cloud6.net/*
 *://www.it-mure.jp.net/*
-/\w+\.projectbackpack\.org/
-/\w+\.tistory\.com/
+*://*.projectbackpack.org/*
+*://*.tistory.com/*
 *://codehero.jp/*
-/\w+\.codehero\.jp/
+*://*.codehero.jp/*
 *://code-examples.net/*
-/\w+\.voidcc\.com/
-/\w+\.i-harness\.com/
+*://*.voidcc.com/*
+*://*.i-harness.com/*
 *://stackovernet.xyz/*
-/\w+\.stackovernet\.xyz/
+*://*.stackovernet.xyz/*
 *://fooobar.com/*
 *://www.ti-enxame.com/*
 *://base64.work/*
 *://stackovergo.com/*
 
 !#wikipedia farm
-/.+\.linkfang\.org/
+*://*.linkfang.org/*
 
 !#github
 *://*.jl-k.com/*
@@ -61,8 +61,8 @@
 *://semooh.jp/*
 
 !#フリーソフト
-/.+\.softonic\.jp/
-/.+\.uptodown\.com/
+*://*.softonic.jp/*
+*://*.uptodown.com/*
 *://www.videohelp.com/*
 *://www.downloadcrew.com/*
 *://www.softpedia.com/*
@@ -81,7 +81,7 @@
 *://versus.com/*
 *://gigaranking.jp/*
 *://kakakusearch.com/*
-/\w+\.smartstartechnology\.com/
+*://*.smartstartechnology.com/*
 *://onihikaku.com/*
 *://www.hikaku.com/*
 *://www.kuraberu.com/*
@@ -91,7 +91,7 @@
 
 !#レピュテーションリスク
 *://download.com.vn/*
-/\w+\.iownyour\.biz/*
+*://*.iownyour.biz/*
 
 !#web proxy https://proxypy.org/html/sites.html
 /\w+\.proxypy\.org/
@@ -133,7 +133,7 @@
 *://rinrenblog.com/*
 *://otonasalone.jp/*
 *://yukawanet.com/*
-/.+\.naver\.jp/
+*://*.naver.jp/*
 *://it-kyujin.jp/*
 *://itnews.org/*
 *://zephyrnet.com/*
@@ -162,7 +162,7 @@
 *://nanairomagic.net/*
 *://newsmatomedia.com/*
 *://nicevalue.xsrv.jp/*
-/\w+\.starblog\.jp/
+*://*.starblog.jp/*
 *://trend-passion-life.com/*
 *://tekutekuweb.site/*
 *://the-jet-sleeper.com/*
@@ -184,7 +184,7 @@
 *://xn--u9j5h1btf1ez99qnszei5c8ws.com/*
 *://yuyufirst.com/*
 *://blog.livedoor.jp/aoba_f/*
-/\w+\.narinari\.com/
+*://*.narinari.com/*
 *://aumo.jp/*
 *://sakumaga.sakura.ad.jp/
 *://genroq.jp/*
@@ -204,14 +204,14 @@
 *://headtopics.com/*
 *://onewordblog-maison.com/*
 *://chht7.com/*
-/\w+\.f-frontier\.com/
+*://*.f-frontier.com/*
 *://matomame.jp/*
-/\w+\.esuteru\.com/
+*://*.esuteru.com/*
 *://www.twtimez.net/*
 *://naonews.jp/*
 *://matomedane.jp/*
 *://jin115.com/*
-/\w+\.hostlove\.com/
+*://*.hostlove.com/*
 *://twicolle.com/*
 *://career-find.jp/*
 *://entertainment-topics.jp/*
@@ -241,7 +241,7 @@
 *://www.bousaid.com/*
 *://download-campaign.com/*
 *://programmerstart.com/*
-/\w+\.gpoint\.co\.jp/
+*://*.gpoint.co.jp/*
 *://moov.ooo/*
 *://bp-guide.jp/*
 *://ranking.goo.ne.jp/*
