@@ -88,6 +88,7 @@
 *://www.saiyasune.com/*
 *://www.become.co.jp/*
 *://rank-king.jp/*
+*://fashion.biglobe.ne.jp/*
 
 !#レピュテーションリスク
 *://download.com.vn/*
