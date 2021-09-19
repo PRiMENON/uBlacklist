@@ -274,3 +274,6 @@
 *://next-infonews.com/*
 *://parupunte-life.com/*
 *://mikobito.com/*
+*://rubese.net/*
+*://miyearnzzlabo.com/*
+
