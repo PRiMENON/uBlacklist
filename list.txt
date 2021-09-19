@@ -52,15 +52,21 @@
 *://*.jl-k.com/*
 *://*.yizimg.com/*
 
-!#会員制コンテンツ
-*://www.atmarkit.co.jp/*
-*://xtech.nikkei.com/*
+!#web proxy https://proxypy.org/html/sites.html
+/\w+\.proxypy\.org/
+*://websurfnow.appspot.com/*
+*://goo---gle.appspot.com*
+*://proxygogogo.appspot.com/*
+*://proxypycode.appspot.com/*
+*://wokaoproxy.appspot.com/*
+*://www.girlsproxy.appspot.com/*
+*://proxyscript.appspot.com/*
+*://highproxying.appspot.com/*
+*://gdeadoogle.appspot.com/*
+*://www.proxyingup.appspot.com/*
+*://proxypy-gae.appspot.com/*
 
-!#更新終了コンテンツ
-*://builder.japan.zdnet.com/*
-*://semooh.jp/*
-
-!#フリーソフト
+!#other low quality site
 *://*.softonic.jp/*
 *://*.uptodown.com/*
 *://www.videohelp.com/*
@@ -76,8 +82,6 @@
 *://www.lhaplus.org/*
 *://softaro.net/*
 *://www.appannie.com/*
-
-!#比較
 *://versus.com/*
 *://gigaranking.jp/*
 *://kakakusearch.com/*
@@ -90,29 +94,9 @@
 *://rank-king.jp/*
 *://fashion.biglobe.ne.jp/*
 *://919.cc/*
-
-!#レピュテーションリスク
 *://download.com.vn/*
 *://*.iownyour.biz/*
-
-!#web proxy https://proxypy.org/html/sites.html
-/\w+\.proxypy\.org/
-*://websurfnow.appspot.com/*
-*://goo---gle.appspot.com*
-*://proxygogogo.appspot.com/*
-*://proxypycode.appspot.com/*
-*://wokaoproxy.appspot.com/*
-*://www.girlsproxy.appspot.com/*
-*://proxyscript.appspot.com/*
-*://highproxying.appspot.com/*
-*://gdeadoogle.appspot.com/*
-*://www.proxyingup.appspot.com/*
-*://proxypy-gae.appspot.com/*
-
-!#ドキュメント機械翻訳
 *://runebook.dev/*
-
-!#アフィリエイト
 *://shirabeta.net/*
 *://clausvisbys.com/*
 *://*.safetydetectives.com/*
@@ -127,8 +111,10 @@
 *://www.hebergementwebs.com/*
 *://*.ifaj-congress.org/*
 *://*.thewordcracker.com/*
-
-!#ゴシップ
+*://www.atmarkit.co.jp/*
+*://xtech.nikkei.com/*
+*://builder.japan.zdnet.com/*
+*://semooh.jp/*
 *://kurashi-atoz.com/*
 *://mens-modern.jp/*
 *://miuki556happy.com/*
