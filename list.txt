@@ -265,3 +265,4 @@
 *://rubese.net/*
 *://miyearnzzlabo.com/*
 *://www.tumbex.com/*
+*://coron.tech/*
