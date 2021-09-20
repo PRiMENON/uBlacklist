@@ -52,6 +52,7 @@
 *://*.jl-k.com/*
 *://*.yizimg.com/*
 *://*.bajins.com/*
+/(.+\.)?inimaa\.us/
 
 !#web proxy https://proxypy.org/html/sites.html
 /\w+\.proxypy\.org/
