@@ -45,12 +45,13 @@
 *://base64.work/*
 *://stackovergo.com/*
 
-!#wikipedia farm
+!#wikipedia
 *://*.linkfang.org/*
 
 !#github
 *://*.jl-k.com/*
 *://*.yizimg.com/*
+*://*.bajins.com/*
 
 !#web proxy https://proxypy.org/html/sites.html
 /\w+\.proxypy\.org/
