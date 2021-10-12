@@ -54,6 +54,13 @@
 *://*.bajins.com/*
 /(.+\.)?inimaa\.us/
 
+!#twitter
+*://*.domain.glass/*
+*://*.tuxcanfly.me/*
+*://tuxcanfly.me/*
+*://*.leftic.club/*
+*://*.eternie-labs.net/*
+
 !#web proxy https://proxypy.org/html/sites.html
 /\w+\.proxypy\.org/
 *://websurfnow.appspot.com/*
