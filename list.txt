@@ -60,6 +60,7 @@
 *://tuxcanfly.me/*
 *://*.leftic.club/*
 *://*.eternie-labs.net/*
+*://*.o-k.jp/*
 
 !#web proxy https://proxypy.org/html/sites.html
 /\w+\.proxypy\.org/
@@ -74,6 +75,8 @@
 *://gdeadoogle.appspot.com/*
 *://www.proxyingup.appspot.com/*
 *://proxypy-gae.appspot.com/*
+*://*.nixnet.services/*
+*://*.moooi.jp/*
 
 !#other low quality site
 *://*.softonic.jp/*
@@ -273,3 +276,4 @@
 *://miyearnzzlabo.com/*
 *://www.tumbex.com/*
 *://coron.tech/*
+*://thenewsdoctors.com/*
