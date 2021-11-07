@@ -277,3 +277,4 @@
 *://www.tumbex.com/*
 *://coron.tech/*
 *://thenewsdoctors.com/*
+*://ichi.pro/*
