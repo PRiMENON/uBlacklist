@@ -44,6 +44,7 @@
 *://www.ti-enxame.com/*
 *://base64.work/*
 *://stackovergo.com/*
+*://www.webdevqa.jp.net/*
 
 !#wikipedia
 *://*.linkfang.org/*
