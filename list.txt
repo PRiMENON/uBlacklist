@@ -45,6 +45,7 @@
 *://base64.work/*
 *://stackovergo.com/*
 *://www.webdevqa.jp.net/*
+://www.lemar.tv/*
 
 !#wikipedia
 *://*.linkfang.org/*
