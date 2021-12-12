@@ -47,6 +47,7 @@
 *://www.webdevqa.jp.net/*
 *://*.lemar.tv/*
 *://*.pays-tarusate.org/*
+*://qapicks.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
