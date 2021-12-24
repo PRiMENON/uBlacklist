@@ -285,3 +285,9 @@
 *://www.laplascale.com/*
 *://www.tech-wiki.online/*
 *://fogsbane.dev/*
+*://stormcrow.dev/*
+*://codegear.dev/*
+*://melkia.dev/*
+*://classmethod.dev/*
+*://answer-id.com/*
+*://lycaeum.dev/*
