@@ -284,3 +284,4 @@
 *://ichi.pro/*
 *://www.laplascale.com/*
 *://www.tech-wiki.online/*
+*://fogsbane.dev/*
