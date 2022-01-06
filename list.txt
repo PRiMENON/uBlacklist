@@ -48,6 +48,7 @@
 *://*.lemar.tv/*
 *://*.pays-tarusate.org/*
 *://qapicks.com/*
+*://*.extendoffice.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
@@ -291,3 +292,4 @@
 *://classmethod.dev/*
 *://answer-id.com/*
 *://lycaeum.dev/*
+*://kaworu.jpn.org/*
