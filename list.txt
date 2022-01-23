@@ -49,6 +49,7 @@
 *://*.pays-tarusate.org/*
 *://qapicks.com/*
 *://*.extendoffice.com/*
+*://*.uebu-kaihatsu.jp.net/*
 
 !#wikipedia
 *://*.linkfang.org/*
