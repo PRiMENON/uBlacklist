@@ -294,3 +294,9 @@
 *://answer-id.com/*
 *://lycaeum.dev/*
 *://kaworu.jpn.org/*
+*://*.minitool.com/*
+*://tipstour.net/*
+*://mikasaphp.net/*
+*://johobase.com/*
+*://*.narkive.jp/
+/([a-z\.]+\.)?narkive\.com/
