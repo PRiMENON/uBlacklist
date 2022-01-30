@@ -50,6 +50,7 @@
 *://qapicks.com/*
 *://*.extendoffice.com/*
 *://*.uebu-kaihatsu.jp.net/*
+*://learntutorials.net/*
 
 !#wikipedia
 *://*.linkfang.org/*
