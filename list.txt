@@ -302,3 +302,4 @@
 *://*.narkive.jp/
 /([a-z\.]+\.)?narkive\.com/
 /([a-z\.]+\.)?thefastcode\.com/
+*://*.atsit.in/*
