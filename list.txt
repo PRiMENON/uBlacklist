@@ -51,6 +51,7 @@
 *://*.extendoffice.com/*
 *://*.uebu-kaihatsu.jp.net/*
 *://learntutorials.net/*
+*://jpcodeqa.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
