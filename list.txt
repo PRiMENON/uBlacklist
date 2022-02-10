@@ -306,3 +306,4 @@
 /([a-z\.]+\.)?thefastcode\.com/
 *://*.atsit.in/*
 *://forsenergy.com/*
+*://www.guide-faq.com/*
