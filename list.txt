@@ -52,6 +52,7 @@
 *://*.uebu-kaihatsu.jp.net/*
 *://learntutorials.net/*
 *://jpcodeqa.com/*
+*://cndgn.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
