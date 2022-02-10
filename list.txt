@@ -309,3 +309,4 @@
 *://www.guide-faq.com/*
 *://www.fenet.jp/*
 *://www.itlab51.com/*
+/([a-z\.]+\.)?step-learn\.com/
