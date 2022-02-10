@@ -308,3 +308,4 @@
 *://forsenergy.com/*
 *://www.guide-faq.com/*
 *://www.fenet.jp/*
+*://www.itlab51.com/*
