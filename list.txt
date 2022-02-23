@@ -53,6 +53,7 @@
 *://learntutorials.net/*
 *://jpcodeqa.com/*
 *://cndgn.com/*
+*://yaoply.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
