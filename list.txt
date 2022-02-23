@@ -54,6 +54,8 @@
 *://jpcodeqa.com/*
 *://cndgn.com/*
 *://yaoply.com/*
+*://isolution.pro/*
+*//www.generacodice.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
@@ -315,3 +317,4 @@
 *://tombouctou-food.com/*
 *://*.rssing.com/*
 *://mbcnet.org/*
+*://morioh.com/*
