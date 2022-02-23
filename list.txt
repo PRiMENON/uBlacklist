@@ -311,3 +311,4 @@
 *://www.itlab51.com/*
 /([a-z\.]+\.)?step-learn\.com/
 *://www.esquire.com/*
+*://tombouctou-food.com/*
