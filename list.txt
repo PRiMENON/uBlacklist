@@ -313,3 +313,5 @@
 /([a-z\.]+\.)?step-learn\.com/
 *://www.esquire.com/*
 *://tombouctou-food.com/*
+*://*.rssing.com/*
+*://mbcnet.org/*
