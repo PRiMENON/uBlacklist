@@ -318,3 +318,5 @@
 *://*.rssing.com/*
 *://mbcnet.org/*
 *://morioh.com/*
+*://websetnet.net/*
+*://neuf.tv/*
