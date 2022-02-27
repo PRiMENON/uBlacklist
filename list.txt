@@ -320,3 +320,4 @@
 *://morioh.com/*
 *://websetnet.net/*
 *://neuf.tv/*
+*://*.ula.cc/*
