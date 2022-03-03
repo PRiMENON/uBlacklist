@@ -58,6 +58,7 @@
 *//www.generacodice.com/*
 *://*.tutorialink.com/*
 *://*.delftstack.com/*
+*://jpdebug.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
