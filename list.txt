@@ -57,6 +57,7 @@
 *://isolution.pro/*
 *//www.generacodice.com/*
 *://*.tutorialink.com/*
+*://*.delftstack.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
