@@ -90,6 +90,8 @@
 *://proxypy-gae.appspot.com/*
 *://*.nixnet.services/*
 *://*.moooi.jp/*
+*://archive.md/*
+*://archive.ph/*
 
 !#other low quality site
 *://*.softonic.jp/*
@@ -319,3 +321,15 @@
 *://*.rssing.com/*
 *://mbcnet.org/*
 *://morioh.com/*
+*://websetnet.net/*
+*://neuf.tv/*
+*://*.anatol.one/*
+
+!#5ch/2ch
+*://*.5ch.net/*
+*://*.ula.cc/*
+*://*.pic2.icu/*
+*://*.2ch.sc/*
+*://*.5chb.net/*
+*://janestyle.net/*
+*://www.2nn.jp/*
