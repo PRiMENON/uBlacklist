@@ -68,6 +68,7 @@
 *://*.yizimg.com/*
 *://*.bajins.com/*
 /(.+\.)?inimaa\.us/
+*://*.phala.one/*
 
 !#twitter
 *://*.domain.glass/*
