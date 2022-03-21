@@ -327,6 +327,7 @@
 *://websetnet.net/*
 *://neuf.tv/*
 *://*.anatol.one/*
+*://koenjapan.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
