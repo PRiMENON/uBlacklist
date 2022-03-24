@@ -59,6 +59,7 @@
 *://*.tutorialink.com/*
 *://*.delftstack.com/*
 *://jpdebug.com/*
+*://dev-qa.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
