@@ -61,6 +61,7 @@
 *://jpdebug.com/*
 *://dev-qa.com/*
 *://*.arip-photo.org/*
+*://onlyhow.net/*
 
 !#wikipedia
 *://*.linkfang.org/*
