@@ -60,6 +60,7 @@
 *://*.delftstack.com/*
 *://jpdebug.com/*
 *://dev-qa.com/*
+*://*.arip-photo.org/*
 
 !#wikipedia
 *://*.linkfang.org/*
