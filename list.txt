@@ -333,6 +333,7 @@
 *://*.anatol.one/*
 *://koenjapan.com/*
 *://fibjs.org/*
+*://www.wenyanet.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
