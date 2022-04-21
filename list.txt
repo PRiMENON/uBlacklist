@@ -337,6 +337,7 @@
 *://coder-question.com/*
 *://*.flowzen.net/*
 *://*.joecomp.com/*
+*://tech-ja.netlify.app/*
 
 !#5ch/2ch
 *://*.5ch.net/*
