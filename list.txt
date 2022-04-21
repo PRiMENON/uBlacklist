@@ -334,6 +334,8 @@
 *://koenjapan.com/*
 *://fibjs.org/*
 *://www.wenyanet.com/*
+*://coder-question.com/*
+*://*.flowzen.net/*
 
 !#5ch/2ch
 *://*.5ch.net/*
