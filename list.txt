@@ -338,6 +338,7 @@
 *://*.flowzen.net/*
 *://*.joecomp.com/*
 *://tech-ja.netlify.app/*
+*://japanrow.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
