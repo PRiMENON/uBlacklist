@@ -340,6 +340,7 @@
 *://tech-ja.netlify.app/*
 *://japanrow.com/*
 *://www.codetd.com/*
+*://admx.help/*
 
 !#5ch/2ch
 *://*.5ch.net/*
