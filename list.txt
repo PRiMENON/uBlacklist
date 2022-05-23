@@ -341,6 +341,7 @@
 *://japanrow.com/*
 *://www.codetd.com/*
 *://admx.help/*
+*://manualzz.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
