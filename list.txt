@@ -342,6 +342,7 @@
 *://www.codetd.com/*
 *://admx.help/*
 *://manualzz.com/*
+*://techfeed.io/*
 
 !#5ch/2ch
 *://*.5ch.net/*
