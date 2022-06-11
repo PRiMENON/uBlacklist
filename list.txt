@@ -63,6 +63,7 @@
 *://*.arip-photo.org/*
 *://onlyhow.net/*
 *://ciksiti.com/*
+*://*.web-dev-qa-db-ja.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
