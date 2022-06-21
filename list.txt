@@ -344,6 +344,7 @@
 *://admx.help/*
 *://manualzz.com/*
 *://techfeed.io/*
+*://manuals.plus/*
 
 !#5ch/2ch
 *://*.5ch.net/*
