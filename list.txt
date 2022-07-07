@@ -64,6 +64,7 @@
 *://onlyhow.net/*
 *://ciksiti.com/*
 *://*.web-dev-qa-db-ja.com/*
+*://tagsqa.com/*
 
 !#wikipedia
 *://*.linkfang.org/*
@@ -345,6 +346,7 @@
 *://manualzz.com/*
 *://techfeed.io/*
 *://manuals.plus/*
+*://*.getdocs.org/*
 
 !#5ch/2ch
 *://*.5ch.net/*
