@@ -347,6 +347,7 @@
 *://techfeed.io/*
 *://manuals.plus/*
 *://*.getdocs.org/*
+*://*.techiedelight.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
