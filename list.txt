@@ -75,6 +75,7 @@
 *://*.bajins.com/*
 /(.+\.)?inimaa\.us/
 *://*.phala.one/*
+*://*.ioiox.com/*
 
 !#twitter
 *://*.domain.glass/*
