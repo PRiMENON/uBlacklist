@@ -349,6 +349,7 @@
 *://manuals.plus/*
 *://*.getdocs.org/*
 *://*.techiedelight.com/*
+*://*.ipingguoyuan.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
