@@ -353,6 +353,7 @@
 *://geekloving.net/*
 *://stepsboard.com/*
 *://*.partitionwizard.jp/*
+*://*.desdelinux.net/*
 
 !#5ch/2ch
 *://*.5ch.net/*
