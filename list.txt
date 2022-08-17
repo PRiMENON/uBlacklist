@@ -350,6 +350,7 @@
 *://*.getdocs.org/*
 *://*.techiedelight.com/*
 *://*.ipingguoyuan.com/*
+*://geekloving.net/*
 
 !#5ch/2ch
 *://*.5ch.net/*
