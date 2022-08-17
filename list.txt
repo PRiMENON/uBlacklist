@@ -351,6 +351,7 @@
 *://*.techiedelight.com/*
 *://*.ipingguoyuan.com/*
 *://geekloving.net/*
+*://stepsboard.com/*
 
 !#5ch/2ch
 *://*.5ch.net/*
