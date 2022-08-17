@@ -352,6 +352,7 @@
 *://*.ipingguoyuan.com/*
 *://geekloving.net/*
 *://stepsboard.com/*
+*://*.partitionwizard.jp/*
 
 !#5ch/2ch
 *://*.5ch.net/*
