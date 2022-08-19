@@ -354,6 +354,7 @@
 /([a-z\.]+\.)?stepsboard\.com/
 /([a-z\.]+\.)?partitionwizard\.jp/
 /([a-z\.]+\.)?desdelinux\.net/
+/([a-z\.]+\.)?mspoweruser\.com/
 
 !#5ch/2ch
 *://*.5ch.net/*
