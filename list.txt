@@ -355,6 +355,10 @@
 /([a-z\.]+\.)?partitionwizard\.jp/
 /([a-z\.]+\.)?desdelinux\.net/
 /([a-z\.]+\.)?mspoweruser\.com/
+/([a-z\.]+\.)?daily-gadget\.net/
+/([a-z\.]+\.)?butsuyoku-gadget\.com/
+/([a-z\.]+\.)?telektlist\.com/
+/([a-z\.]+\.)?sumahoinfo\.net/
 
 !#5ch/2ch
 *://*.5ch.net/*
