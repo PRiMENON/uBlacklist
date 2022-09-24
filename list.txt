@@ -360,6 +360,7 @@
 /([a-z\.]+\.)?telektlist\.com/
 /([a-z\.]+\.)?sumahoinfo\.net/
 /([a-z\.]+\.)?kanmuryou\.com/
+/([a-z\.]+\.)?skinandxxx\.com/
 
 !#5ch/2ch
 *://*.5ch.net/*
