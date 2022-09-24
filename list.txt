@@ -361,12 +361,14 @@
 /([a-z\.]+\.)?sumahoinfo\.net/
 /([a-z\.]+\.)?kanmuryou\.com/
 /([a-z\.]+\.)?skinandxxx\.com/
+/([a-z\.]+\.)?shigedosicks\.net/
 
 !#5ch/2ch
-*://*.5ch.net/*
-*://*.ula.cc/*
-*://*.pic2.icu/*
-*://*.2ch.sc/*
-*://*.5chb.net/*
-*://janestyle.net/*
-*://www.2nn.jp/*
+/([a-z\.]+\.)?5ch\.net/
+/([a-z\.]+\.)?ula\.cc/
+/([a-z\.]+\.)?pic2\.icu/
+/([a-z\.]+\.)?2ch\.sc/
+/([a-z\.]+\.)?5chb\.net/
+/([a-z\.]+\.)?janestyle\.net/
+/([a-z\.]+\.)?2nn\.jp/
+/([a-z\.]+\.)?img4\.cam/
