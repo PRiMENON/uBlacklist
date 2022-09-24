@@ -359,6 +359,7 @@
 /([a-z\.]+\.)?butsuyoku-gadget\.com/
 /([a-z\.]+\.)?telektlist\.com/
 /([a-z\.]+\.)?sumahoinfo\.net/
+/([a-z\.]+\.)?kanmuryou\.com/
 
 !#5ch/2ch
 *://*.5ch.net/*
