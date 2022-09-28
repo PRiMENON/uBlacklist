@@ -85,6 +85,9 @@
 *://*.eternie-labs.net/*
 *://*.o-k.jp/*
 
+!#reddit
+/([a-z\.]+\.)?r\.nf/
+
 !#web proxy https://proxypy.org/html/sites.html
 /\w+\.proxypy\.org/
 *://websurfnow.appspot.com/*
