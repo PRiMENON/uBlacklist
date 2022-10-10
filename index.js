@@ -5,18 +5,20 @@ const UBListFile = './uBlacklist.txt';
 const UBOListFile = './uBlockOrigin.txt';
 const PuppeteerFile = './puppeteer.txt';
 
-function remove_Files(path) {
-    if (fs.existsSync(path)) {
-        console.log(path + 'を削除します');
-        fs.unlink(path, (err) => {
-            if (err) throw err;
-        })
-    } else {
-        console.log(path + 'がないので削除をスキップします');
-    }
+function remove_File(paths) {
+    paths.forEach(item => {
+        if (fs.existsSync(item)) {
+            console.log(item + 'を削除します');
+            fs.unlink(item, (err) => {
+                if (err) throw err;
+            })
+        } else {
+            console.log(item + 'がないので削除をスキップします');
+        }
+    });
 }
 
-function loadYamlFile(filename) {
+function load_YamlFile(filename) {
     const yamlText = fs.readFileSync(filename, 'utf-8')
     return yaml.load(yamlText);
 }
@@ -24,7 +26,7 @@ function loadYamlFile(filename) {
 function create_UBList(arrays) {
     for (const array of arrays) {
         let domainLists = array['domain'].replace(/\./g, '\\.');
-        domainLists = domainLists.replace(/(^.+$)/g, '\/\(\[a-z\\.\]+\\.\)?$1/\n');
+        domainLists = domainLists.replace(/(^.+$)/g, '/([a-z\\.]+\\.)?$1/\n');
         fs.appendFileSync(UBListFile, domainLists, { flag: 'a+' }, err => {
             if (err) throw err;
         });
@@ -33,7 +35,7 @@ function create_UBList(arrays) {
 
 function create_UBOList(arrays) {
     for (const array of arrays) {
-        let domainLists = array['domain'].replace(/(^.+$)/g, 'www\.google\.\*##\.xpd:has\([href*=*"$1"]\)\n');
+        let domainLists = array['domain'].replace(/(^.+$)/g, 'www.google.*##.xpd:has([href*=*"$1"])\n');
 
         fs.appendFileSync(UBOListFile, domainLists, { flag: 'a+' }, err => {
             if (err) throw err;
@@ -63,11 +65,13 @@ function check_DuplicateDomain(arrays) {
 if (require.main === module) {
 
     try {
-        remove_Files(UBListFile);
-        remove_Files(UBOListFile);
-        remove_Files(PuppeteerFile);
-        let datas = loadYamlFile(path.join(__dirname, 'domain-list.yaml'));
+        let removeFiles = [UBListFile, UBOListFile, PuppeteerFile];
+        remove_File(removeFiles);
+
+        let datas = load_YamlFile(path.join(__dirname, 'domain-list.yaml'));
+
         datas = check_DuplicateDomain(datas);
+
         create_UBList(datas);
         create_UBOList(datas);
         create_PuppeteerList(datas);
