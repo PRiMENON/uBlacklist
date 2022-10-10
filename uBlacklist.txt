@@ -1,0 +1,3 @@
+/([a-z\.]+\.)?coder\.work/
+/([a-z\.]+\.)?riptutorial\.com/
+/([a-z\.]+\.)?fashion\.biglobe\.ne\.jp/
