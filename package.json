@@ -6,7 +6,8 @@
   "author": "PRiMENON",
   "license": "MIT",
   "scripts": {
-    "run": "node index.js"
+    "run": "node index.js",
+    "puppeteer": "node puppeteer.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/primenon/uBlacklist#readme",
   "devDependencies": {
     "eslint": "^8.25.0",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "puppeteer": "^18.2.1"
   }
 }
