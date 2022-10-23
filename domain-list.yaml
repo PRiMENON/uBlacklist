@@ -1,15 +1,1086 @@
-- domain: 'coder.work'
-  evidence: 'https://www.coder.work/article/3129147'
+- domain: '*://codeday.me/*'
+  evidence: '*://codeday.me/*'
   note:
-- domain: 'riptutorial.com'
-  evidence: 'https://riptutorial.com/debugging'
+- domain: '*://kotaeta.com/*'
+  evidence: '*://kotaeta.com/*'
   note:
-- domain: 'riptutorial.com'
-  evidence: 'https://riptutorial.com/debugging'
+- domain: '*://living-sun.com/*'
+  evidence: '*://living-sun.com/*'
   note:
-- domain: 'coder.work'
-  evidence: 'https://www.coder.work/article/3129147'
+- domain: '*://qastack.jp/*'
+  evidence: '*://qastack.jp/*'
   note:
-- domain: 'fashion.biglobe.ne.jp'
-  evidence: 'https://fashion.biglobe.ne.jp/ladies/'
+- domain: '*://stackoverrun.com/*'
+  evidence: '*://stackoverrun.com/*'
+  note:
+- domain: '*://www.366service.com/*'
+  evidence: '*://www.366service.com/*'
+  note:
+- domain: '/\w+\.codeflow\.site/'
+  evidence: '/\w+\.codeflow\.site/'
+  note:
+- domain: '/\w+\.it-swarm\.\w+/'
+  evidence: '/\w+\.it-swarm\.\w+/'
+  note:
+- domain: '/\w+\.it-swarm-\w+\.\w+/'
+  evidence: '/\w+\.it-swarm-\w+\.\w+/'
+  note:
+- domain: '/\w+\.it-swarm\.\w+\.\w+/'
+  evidence: '/\w+\.it-swarm\.\w+\.\w+/'
+  note:
+- domain: '*://www.coder.work/*'
+  evidence: '*://www.coder.work/*'
+  note:
+- domain: '*://python5.com/*'
+  evidence: '*://python5.com/*'
+  note:
+- domain: '*://*.uwenku.com/*'
+  evidence: '*://*.uwenku.com/*'
+  note:
+- domain: '*://w3big.com/*'
+  evidence: '*://w3big.com/*'
+  note:
+- domain: '*://svcministry.org/*'
+  evidence: '*://svcministry.org/*'
+  note:
+- domain: '*://riptutorial.com/*'
+  evidence: '*://riptutorial.com/*'
+  note:
+- domain: '*://steakrecords.com/*'
+  evidence: '*://steakrecords.com/*'
+  note:
+- domain: '*://steakrecord.com/*'
+  evidence: '*://steakrecord.com/*'
+  note:
+- domain: '*://www.javaer101.com/*'
+  evidence: '*://www.javaer101.com/*'
+  note:
+- domain: '*://*.ojit.com/*'
+  evidence: '*://*.ojit.com/*'
+  note:
+- domain: '*://tutorialmore.com/*'
+  evidence: '*://tutorialmore.com/*'
+  note:
+- domain: '*://xjavascript.com/*'
+  evidence: '*://xjavascript.com/*'
+  note:
+- domain: '*://phppedia.com/*'
+  evidence: '*://phppedia.com/*'
+  note:
+- domain: '*://*.nuomiphp.com/*'
+  evidence: '*://*.nuomiphp.com/*'
+  note:
+- domain: '*://nuomiphp.com/*'
+  evidence: '*://nuomiphp.com/*'
+  note:
+- domain: '*://bugsdb.com/*'
+  evidence: '*://bugsdb.com/*'
+  note:
+- domain: '*://cloudstack.ninja/*'
+  evidence: '*://cloudstack.ninja/*'
+  note:
+- domain: '*://*.xiaolee.net/*'
+  evidence: '*://*.xiaolee.net/*'
+  note:
+- domain: '*://www.fixes.pub/*'
+  evidence: '*://www.fixes.pub/*'
+  note:
+- domain: '*://bleepcoder.com/*'
+  evidence: '*://bleepcoder.com/*'
+  note:
+- domain: '*:/cloud6.net/*'
+  evidence: '*:/cloud6.net/*'
+  note:
+- domain: '*://www.it-mure.jp.net/*'
+  evidence: '*://www.it-mure.jp.net/*'
+  note:
+- domain: '*://*.projectbackpack.org/*'
+  evidence: '*://*.projectbackpack.org/*'
+  note:
+- domain: '*://*.tistory.com/*'
+  evidence: '*://*.tistory.com/*'
+  note:
+- domain: '*://codehero.jp/*'
+  evidence: '*://codehero.jp/*'
+  note:
+- domain: '*://*.codehero.jp/*'
+  evidence: '*://*.codehero.jp/*'
+  note:
+- domain: '*://code-examples.net/*'
+  evidence: '*://code-examples.net/*'
+  note:
+- domain: '*://*.voidcc.com/*'
+  evidence: '*://*.voidcc.com/*'
+  note:
+- domain: '*://*.i-harness.com/*'
+  evidence: '*://*.i-harness.com/*'
+  note:
+- domain: '*://stackovernet.xyz/*'
+  evidence: '*://stackovernet.xyz/*'
+  note:
+- domain: '*://*.stackovernet.xyz/*'
+  evidence: '*://*.stackovernet.xyz/*'
+  note:
+- domain: '*://fooobar.com/*'
+  evidence: '*://fooobar.com/*'
+  note:
+- domain: '*://www.ti-enxame.com/*'
+  evidence: '*://www.ti-enxame.com/*'
+  note:
+- domain: '*://base64.work/*'
+  evidence: '*://base64.work/*'
+  note:
+- domain: '*://stackovergo.com/*'
+  evidence: '*://stackovergo.com/*'
+  note:
+- domain: '*://www.webdevqa.jp.net/*'
+  evidence: '*://www.webdevqa.jp.net/*'
+  note:
+- domain: '*://*.lemar.tv/*'
+  evidence: '*://*.lemar.tv/*'
+  note:
+- domain: '*://*.pays-tarusate.org/*'
+  evidence: '*://*.pays-tarusate.org/*'
+  note:
+- domain: '*://qapicks.com/*'
+  evidence: '*://qapicks.com/*'
+  note:
+- domain: '*://*.extendoffice.com/*'
+  evidence: '*://*.extendoffice.com/*'
+  note:
+- domain: '*://*.uebu-kaihatsu.jp.net/*'
+  evidence: '*://*.uebu-kaihatsu.jp.net/*'
+  note:
+- domain: '*://learntutorials.net/*'
+  evidence: '*://learntutorials.net/*'
+  note:
+- domain: '*://jpcodeqa.com/*'
+  evidence: '*://jpcodeqa.com/*'
+  note:
+- domain: '*://cndgn.com/*'
+  evidence: '*://cndgn.com/*'
+  note:
+- domain: '*://yaoply.com/*'
+  evidence: '*://yaoply.com/*'
+  note:
+- domain: '*://isolution.pro/*'
+  evidence: '*://isolution.pro/*'
+  note:
+- domain: '*//www.generacodice.com/*'
+  evidence: '*//www.generacodice.com/*'
+  note:
+- domain: '*://*.tutorialink.com/*'
+  evidence: '*://*.tutorialink.com/*'
+  note:
+- domain: '*://*.delftstack.com/*'
+  evidence: '*://*.delftstack.com/*'
+  note:
+- domain: '*://jpdebug.com/*'
+  evidence: '*://jpdebug.com/*'
+  note:
+- domain: '*://dev-qa.com/*'
+  evidence: '*://dev-qa.com/*'
+  note:
+- domain: '*://*.arip-photo.org/*'
+  evidence: '*://*.arip-photo.org/*'
+  note:
+- domain: '*://onlyhow.net/*'
+  evidence: '*://onlyhow.net/*'
+  note:
+- domain: '*://ciksiti.com/*'
+  evidence: '*://ciksiti.com/*'
+  note:
+- domain: '*://*.web-dev-qa-db-ja.com/*'
+  evidence: '*://*.web-dev-qa-db-ja.com/*'
+  note:
+- domain: '*://tagsqa.com/*'
+  evidence: '*://tagsqa.com/*'
+  note:
+- domain: '*://*.linkfang.org/*'
+  evidence: '*://*.linkfang.org/*'
+  note:
+- domain: '*://*.jl-k.com/*'
+  evidence: '*://*.jl-k.com/*'
+  note:
+- domain: '*://*.yizimg.com/*'
+  evidence: '*://*.yizimg.com/*'
+  note:
+- domain: '*://*.bajins.com/*'
+  evidence: '*://*.bajins.com/*'
+  note:
+- domain: '/(.+\.)?inimaa\.us/'
+  evidence: '/(.+\.)?inimaa\.us/'
+  note:
+- domain: '*://*.phala.one/*'
+  evidence: '*://*.phala.one/*'
+  note:
+- domain: '*://*.ioiox.com/*'
+  evidence: '*://*.ioiox.com/*'
+  note:
+- domain: '*://*.domain.glass/*'
+  evidence: '*://*.domain.glass/*'
+  note:
+- domain: '*://*.tuxcanfly.me/*'
+  evidence: '*://*.tuxcanfly.me/*'
+  note:
+- domain: '*://tuxcanfly.me/*'
+  evidence: '*://tuxcanfly.me/*'
+  note:
+- domain: '*://*.leftic.club/*'
+  evidence: '*://*.leftic.club/*'
+  note:
+- domain: '*://*.eternie-labs.net/*'
+  evidence: '*://*.eternie-labs.net/*'
+  note:
+- domain: '*://*.o-k.jp/*'
+  evidence: '*://*.o-k.jp/*'
+  note:
+- domain: '/([a-z\.]+\.)?r\.nf/'
+  evidence: '/([a-z\.]+\.)?r\.nf/'
+  note:
+- domain: '/\w+\.proxypy\.org/'
+  evidence: '/\w+\.proxypy\.org/'
+  note:
+- domain: '*://websurfnow.appspot.com/*'
+  evidence: '*://websurfnow.appspot.com/*'
+  note:
+- domain: '*://goo---gle.appspot.com*'
+  evidence: '*://goo---gle.appspot.com*'
+  note:
+- domain: '*://proxygogogo.appspot.com/*'
+  evidence: '*://proxygogogo.appspot.com/*'
+  note:
+- domain: '*://proxypycode.appspot.com/*'
+  evidence: '*://proxypycode.appspot.com/*'
+  note:
+- domain: '*://wokaoproxy.appspot.com/*'
+  evidence: '*://wokaoproxy.appspot.com/*'
+  note:
+- domain: '*://www.girlsproxy.appspot.com/*'
+  evidence: '*://www.girlsproxy.appspot.com/*'
+  note:
+- domain: '*://proxyscript.appspot.com/*'
+  evidence: '*://proxyscript.appspot.com/*'
+  note:
+- domain: '*://highproxying.appspot.com/*'
+  evidence: '*://highproxying.appspot.com/*'
+  note:
+- domain: '*://gdeadoogle.appspot.com/*'
+  evidence: '*://gdeadoogle.appspot.com/*'
+  note:
+- domain: '*://www.proxyingup.appspot.com/*'
+  evidence: '*://www.proxyingup.appspot.com/*'
+  note:
+- domain: '*://proxypy-gae.appspot.com/*'
+  evidence: '*://proxypy-gae.appspot.com/*'
+  note:
+- domain: '*://*.nixnet.services/*'
+  evidence: '*://*.nixnet.services/*'
+  note:
+- domain: '*://*.moooi.jp/*'
+  evidence: '*://*.moooi.jp/*'
+  note:
+- domain: '*://archive.md/*'
+  evidence: '*://archive.md/*'
+  note:
+- domain: '*://archive.ph/*'
+  evidence: '*://archive.ph/*'
+  note:
+- domain: '*://*.softonic.jp/*'
+  evidence: '*://*.softonic.jp/*'
+  note:
+- domain: '*://*.uptodown.com/*'
+  evidence: '*://*.uptodown.com/*'
+  note:
+- domain: '*://www.videohelp.com/*'
+  evidence: '*://www.videohelp.com/*'
+  note:
+- domain: '*://www.downloadcrew.com/*'
+  evidence: '*://www.downloadcrew.com/*'
+  note:
+- domain: '*://www.softpedia.com/*'
+  evidence: '*://www.softpedia.com/*'
+  note:
+- domain: '*://fossies.org/*'
+  evidence: '*://fossies.org/*'
+  note:
+- domain: '*://www.heise.de/*'
+  evidence: '*://www.heise.de/*'
+  note:
+- domain: '*://filecr.com/*'
+  evidence: '*://filecr.com/*'
+  note:
+- domain: '*://www.instalki.pl/*'
+  evidence: '*://www.instalki.pl/*'
+  note:
+- domain: '*://www.computerbild.de/*'
+  evidence: '*://www.computerbild.de/*'
+  note:
+- domain: '*://progsoft.net/*'
+  evidence: '*://progsoft.net/*'
+  note:
+- domain: '*://www.softantenna.com/*'
+  evidence: '*://www.softantenna.com/*'
+  note:
+- domain: '*://www.lhaplus.org/*'
+  evidence: '*://www.lhaplus.org/*'
+  note:
+- domain: '*://softaro.net/*'
+  evidence: '*://softaro.net/*'
+  note:
+- domain: '*://www.appannie.com/*'
+  evidence: '*://www.appannie.com/*'
+  note:
+- domain: '*://versus.com/*'
+  evidence: '*://versus.com/*'
+  note:
+- domain: '*://gigaranking.jp/*'
+  evidence: '*://gigaranking.jp/*'
+  note:
+- domain: '*://kakakusearch.com/*'
+  evidence: '*://kakakusearch.com/*'
+  note:
+- domain: '*://*.smartstartechnology.com/*'
+  evidence: '*://*.smartstartechnology.com/*'
+  note:
+- domain: '*://onihikaku.com/*'
+  evidence: '*://onihikaku.com/*'
+  note:
+- domain: '*://www.hikaku.com/*'
+  evidence: '*://www.hikaku.com/*'
+  note:
+- domain: '*://www.kuraberu.com/*'
+  evidence: '*://www.kuraberu.com/*'
+  note:
+- domain: '*://www.saiyasune.com/*'
+  evidence: '*://www.saiyasune.com/*'
+  note:
+- domain: '*://www.become.co.jp/*'
+  evidence: '*://www.become.co.jp/*'
+  note:
+- domain: '*://rank-king.jp/*'
+  evidence: '*://rank-king.jp/*'
+  note:
+- domain: '*://fashion.biglobe.ne.jp/*'
+  evidence: '*://fashion.biglobe.ne.jp/*'
+  note:
+- domain: '*://919.cc/*'
+  evidence: '*://919.cc/*'
+  note:
+- domain: '*://download.com.vn/*'
+  evidence: '*://download.com.vn/*'
+  note:
+- domain: '*://*.iownyour.biz/*'
+  evidence: '*://*.iownyour.biz/*'
+  note:
+- domain: '*://runebook.dev/*'
+  evidence: '*://runebook.dev/*'
+  note:
+- domain: '*://shirabeta.net/*'
+  evidence: '*://shirabeta.net/*'
+  note:
+- domain: '*://clausvisbys.com/*'
+  evidence: '*://clausvisbys.com/*'
+  note:
+- domain: '*://*.safetydetectives.com/*'
+  evidence: '*://*.safetydetectives.com/*'
+  note:
+- domain: '*://ik4.es/*'
+  evidence: '*://ik4.es/*'
+  note:
+- domain: '*://*.railstoolkit.com/*'
+  evidence: '*://*.railstoolkit.com/*'
+  note:
+- domain: '*://*.drunkentengu.com/*'
+  evidence: '*://*.drunkentengu.com/*'
+  note:
+- domain: '*://*.androideity.com/*'
+  evidence: '*://*.androideity.com/*'
+  note:
+- domain: '*://*.gouma.org/*'
+  evidence: '*://*.gouma.org/*'
+  note:
+- domain: '*://*.eyewated.com/*'
+  evidence: '*://*.eyewated.com/*'
+  note:
+- domain: '*://securitynavi.jp/*'
+  evidence: '*://securitynavi.jp/*'
+  note:
+- domain: '*://excesssecurity.com/*'
+  evidence: '*://excesssecurity.com/*'
+  note:
+- domain: '*://www.hebergementwebs.com/*'
+  evidence: '*://www.hebergementwebs.com/*'
+  note:
+- domain: '*://*.ifaj-congress.org/*'
+  evidence: '*://*.ifaj-congress.org/*'
+  note:
+- domain: '*://*.thewordcracker.com/*'
+  evidence: '*://*.thewordcracker.com/*'
+  note:
+- domain: '*://www.atmarkit.co.jp/*'
+  evidence: '*://www.atmarkit.co.jp/*'
+  note:
+- domain: '*://xtech.nikkei.com/*'
+  evidence: '*://xtech.nikkei.com/*'
+  note:
+- domain: '*://builder.japan.zdnet.com/*'
+  evidence: '*://builder.japan.zdnet.com/*'
+  note:
+- domain: '*://semooh.jp/*'
+  evidence: '*://semooh.jp/*'
+  note:
+- domain: '*://kurashi-atoz.com/*'
+  evidence: '*://kurashi-atoz.com/*'
+  note:
+- domain: '*://mens-modern.jp/*'
+  evidence: '*://mens-modern.jp/*'
+  note:
+- domain: '*://miuki556happy.com/*'
+  evidence: '*://miuki556happy.com/*'
+  note:
+- domain: '*://rinrenblog.com/*'
+  evidence: '*://rinrenblog.com/*'
+  note:
+- domain: '*://otonasalone.jp/*'
+  evidence: '*://otonasalone.jp/*'
+  note:
+- domain: '*://yukawanet.com/*'
+  evidence: '*://yukawanet.com/*'
+  note:
+- domain: '*://*.naver.jp/*'
+  evidence: '*://*.naver.jp/*'
+  note:
+- domain: '*://it-kyujin.jp/*'
+  evidence: '*://it-kyujin.jp/*'
+  note:
+- domain: '*://itnews.org/*'
+  evidence: '*://itnews.org/*'
+  note:
+- domain: '*://zephyrnet.com/*'
+  evidence: '*://zephyrnet.com/*'
+  note:
+- domain: '*://www.nodenpm.com/*'
+  evidence: '*://www.nodenpm.com/*'
+  note:
+- domain: '*://www.codegrepper.com/*'
+  evidence: '*://www.codegrepper.com/*'
+  note:
+- domain: '*://aoteen.net/*'
+  evidence: '*://aoteen.net/*'
+  note:
+- domain: '*://asuka-shimizu.com/*'
+  evidence: '*://asuka-shimizu.com/*'
+  note:
+- domain: '*://bluestar-journal.com/*'
+  evidence: '*://bluestar-journal.com/*'
+  note:
+- domain: '*://brightchanging.com/*'
+  evidence: '*://brightchanging.com/*'
+  note:
+- domain: '*://chuumoku.net/*'
+  evidence: '*://chuumoku.net/*'
+  note:
+- domain: '*://daiki-global.work/*'
+  evidence: '*://daiki-global.work/*'
+  note:
+- domain: '*://dricho.com/*'
+  evidence: '*://dricho.com/*'
+  note:
+- domain: '*://endia.net/*'
+  evidence: '*://endia.net/*'
+  note:
+- domain: '*://entamescramble.com/*'
+  evidence: '*://entamescramble.com/*'
+  note:
+- domain: '*://f-shirushi.com/*'
+  evidence: '*://f-shirushi.com/*'
+  note:
+- domain: '*://geinou-summary666.com/*'
+  evidence: '*://geinou-summary666.com/*'
+  note:
+- domain: '*://girlschannel.net/*'
+  evidence: '*://girlschannel.net/*'
+  note:
+- domain: '*://hirokoluminous.com/*'
+  evidence: '*://hirokoluminous.com/*'
+  note:
+- domain: '*://hirosroom.com/*'
+  evidence: '*://hirosroom.com/*'
+  note:
+- domain: '*://honjitu.net/*'
+  evidence: '*://honjitu.net/*'
+  note:
+- domain: '*://kagerou-kazoku.com/*'
+  evidence: '*://kagerou-kazoku.com/*'
+  note:
+- domain: '*://kaikumikodaisuki.com/*'
+  evidence: '*://kaikumikodaisuki.com/*'
+  note:
+- domain: '*://minakoro.com/*'
+  evidence: '*://minakoro.com/*'
+  note:
+- domain: '*://modern-media.net/*'
+  evidence: '*://modern-media.net/*'
+  note:
+- domain: '*://n2-ch.com/*'
+  evidence: '*://n2-ch.com/*'
+  note:
+- domain: '*://nanairomagic.net/*'
+  evidence: '*://nanairomagic.net/*'
+  note:
+- domain: '*://newsmatomedia.com/*'
+  evidence: '*://newsmatomedia.com/*'
+  note:
+- domain: '*://nicevalue.xsrv.jp/*'
+  evidence: '*://nicevalue.xsrv.jp/*'
+  note:
+- domain: '*://*.starblog.jp/*'
+  evidence: '*://*.starblog.jp/*'
+  note:
+- domain: '*://trend-passion-life.com/*'
+  evidence: '*://trend-passion-life.com/*'
+  note:
+- domain: '*://tekutekuweb.site/*'
+  evidence: '*://tekutekuweb.site/*'
+  note:
+- domain: '*://the-jet-sleeper.com/*'
+  evidence: '*://the-jet-sleeper.com/*'
+  note:
+- domain: '*://petitwings.com/*'
+  evidence: '*://petitwings.com/*'
+  note:
+- domain: '*://noh-gakudo.jp/*'
+  evidence: '*://noh-gakudo.jp/*'
+  note:
+- domain: '*://omochituki.com/*'
+  evidence: '*://omochituki.com/*'
+  note:
+- domain: '*://www.juxtin.com/*'
+  evidence: '*://www.juxtin.com/*'
+  note:
+- domain: '*://www.koizumix.com/*'
+  evidence: '*://www.koizumix.com/*'
+  note:
+- domain: '*://hikari-iyashi.com/*'
+  evidence: '*://hikari-iyashi.com/*'
+  note:
+- domain: '*://brandnew-s.com/*'
+  evidence: '*://brandnew-s.com/*'
+  note:
+- domain: '*://robamimireport.com/*'
+  evidence: '*://robamimireport.com/*'
+  note:
+- domain: '*://sarattosokuhou.com/*'
+  evidence: '*://sarattosokuhou.com/*'
+  note:
+- domain: '*://wezz-y.com/*'
+  evidence: '*://wezz-y.com/*'
+  note:
+- domain: '*://windy-windy.net/*'
+  evidence: '*://windy-windy.net/*'
+  note:
+- domain: '*://www.hachi8.me/*'
+  evidence: '*://www.hachi8.me/*'
+  note:
+- domain: '*://www.handtify.net/*'
+  evidence: '*://www.handtify.net/*'
+  note:
+- domain: '*://www.skyqzone.com/*'
+  evidence: '*://www.skyqzone.com/*'
+  note:
+- domain: '*://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/*'
+  evidence: '*://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/*'
+  note:
+- domain: '*://xn--u9j5h1btf1ez99qnszei5c8ws.com/*'
+  evidence: '*://xn--u9j5h1btf1ez99qnszei5c8ws.com/*'
+  note:
+- domain: '*://yuyufirst.com/*'
+  evidence: '*://yuyufirst.com/*'
+  note:
+- domain: '*://blog.livedoor.jp/aoba_f/*'
+  evidence: '*://blog.livedoor.jp/aoba_f/*'
+  note:
+- domain: '*://*.narinari.com/*'
+  evidence: '*://*.narinari.com/*'
+  note:
+- domain: '*://aumo.jp/*'
+  evidence: '*://aumo.jp/*'
+  note:
+- domain: '*://sakumaga.sakura.ad.jp/'
+  evidence: '*://sakumaga.sakura.ad.jp/'
+  note:
+- domain: '*://genroq.jp/*'
+  evidence: '*://genroq.jp/*'
+  note:
+- domain: '*://autosalon.tokyo/*'
+  evidence: '*://autosalon.tokyo/*'
+  note:
+- domain: '*://bokuslog.com/*'
+  evidence: '*://bokuslog.com/*'
+  note:
+- domain: '*://buzzmag.jp/*'
+  evidence: '*://buzzmag.jp/*'
+  note:
+- domain: '*://www.furusato-s.co.jp/*'
+  evidence: '*://www.furusato-s.co.jp/*'
+  note:
+- domain: '*://ytranking.net/*'
+  evidence: '*://ytranking.net/*'
+  note:
+- domain: '*://sirabee.com/*'
+  evidence: '*://sirabee.com/*'
+  note:
+- domain: '*://fumumu.net/*'
+  evidence: '*://fumumu.net/*'
+  note:
+- domain: '*://maipenraika.com/*'
+  evidence: '*://maipenraika.com/*'
+  note:
+- domain: '*://yutakanahibi.com/*'
+  evidence: '*://yutakanahibi.com/*'
+  note:
+- domain: '*://jcc.jp/*'
+  evidence: '*://jcc.jp/*'
+  note:
+- domain: '*://portalfield.com/*'
+  evidence: '*://portalfield.com/*'
+  note:
+- domain: '*://share-mika.jp/*'
+  evidence: '*://share-mika.jp/*'
+  note:
+- domain: '*://fedo.me/*'
+  evidence: '*://fedo.me/*'
+  note:
+- domain: '*://headtopics.com/*'
+  evidence: '*://headtopics.com/*'
+  note:
+- domain: '*://onewordblog-maison.com/*'
+  evidence: '*://onewordblog-maison.com/*'
+  note:
+- domain: '*://chht7.com/*'
+  evidence: '*://chht7.com/*'
+  note:
+- domain: '*://*.f-frontier.com/*'
+  evidence: '*://*.f-frontier.com/*'
+  note:
+- domain: '*://matomame.jp/*'
+  evidence: '*://matomame.jp/*'
+  note:
+- domain: '*://*.esuteru.com/*'
+  evidence: '*://*.esuteru.com/*'
+  note:
+- domain: '*://www.twtimez.net/*'
+  evidence: '*://www.twtimez.net/*'
+  note:
+- domain: '*://naonews.jp/*'
+  evidence: '*://naonews.jp/*'
+  note:
+- domain: '*://matomedane.jp/*'
+  evidence: '*://matomedane.jp/*'
+  note:
+- domain: '*://jin115.com/*'
+  evidence: '*://jin115.com/*'
+  note:
+- domain: '*://*.hostlove.com/*'
+  evidence: '*://*.hostlove.com/*'
+  note:
+- domain: '*://twicolle.com/*'
+  evidence: '*://twicolle.com/*'
+  note:
+- domain: '*://career-find.jp/*'
+  evidence: '*://career-find.jp/*'
+  note:
+- domain: '*://entertainment-topics.jp/*'
+  evidence: '*://entertainment-topics.jp/*'
+  note:
+- domain: '*://leisurego.jp/*'
+  evidence: '*://leisurego.jp/*'
+  note:
+- domain: '*://alpy-alpy.net/*'
+  evidence: '*://alpy-alpy.net/*'
+  note:
+- domain: '*://sn-jp.com/*'
+  evidence: '*://sn-jp.com/*'
+  note:
+- domain: '*://announcer-news.com/*'
+  evidence: '*://announcer-news.com/*'
+  note:
+- domain: '*://www.paimise.com/*'
+  evidence: '*://www.paimise.com/*'
+  note:
+- domain: '*://logtube.jp/*'
+  evidence: '*://logtube.jp/*'
+  note:
+- domain: '*://kenny01.com/*'
+  evidence: '*://kenny01.com/*'
+  note:
+- domain: '*://kira-hamham.com/*'
+  evidence: '*://kira-hamham.com/*'
+  note:
+- domain: '*://toreosa.green/*'
+  evidence: '*://toreosa.green/*'
+  note:
+- domain: '*://suntoranosuke.com/*'
+  evidence: '*://suntoranosuke.com/*'
+  note:
+- domain: '*://aidoly.net/*'
+  evidence: '*://aidoly.net/*'
+  note:
+- domain: '*://science-festa.jp/*'
+  evidence: '*://science-festa.jp/*'
+  note:
+- domain: '*://japancourse.com/*'
+  evidence: '*://japancourse.com/*'
+  note:
+- domain: '*://tsuiran.jp/*'
+  evidence: '*://tsuiran.jp/*'
+  note:
+- domain: '*://media-freak.jp/*'
+  evidence: '*://media-freak.jp/*'
+  note:
+- domain: '*://free-workstyle.com/*'
+  evidence: '*://free-workstyle.com/*'
+  note:
+- domain: '*://www.bookservice.jp/*'
+  evidence: '*://www.bookservice.jp/*'
+  note:
+- domain: '*://monokuro0210.com/*'
+  evidence: '*://monokuro0210.com/*'
+  note:
+- domain: '*://www.sejuku.net/*'
+  evidence: '*://www.sejuku.net/*'
+  note:
+- domain: '*://ceron.jp/*'
+  evidence: '*://ceron.jp/*'
+  note:
+- domain: '*://techacademy.jp/*'
+  evidence: '*://techacademy.jp/*'
+  note:
+- domain: '*://newshareing.com/*'
+  evidence: '*://newshareing.com/*'
+  note:
+- domain: '*://japaneseclass.jp/*'
+  evidence: '*://japaneseclass.jp/*'
+  note:
+- domain: '*://www.bousaid.com/*'
+  evidence: '*://www.bousaid.com/*'
+  note:
+- domain: '*://download-campaign.com/*'
+  evidence: '*://download-campaign.com/*'
+  note:
+- domain: '*://programmerstart.com/*'
+  evidence: '*://programmerstart.com/*'
+  note:
+- domain: '*://*.gpoint.co.jp/*'
+  evidence: '*://*.gpoint.co.jp/*'
+  note:
+- domain: '*://moov.ooo/*'
+  evidence: '*://moov.ooo/*'
+  note:
+- domain: '*://bp-guide.jp/*'
+  evidence: '*://bp-guide.jp/*'
+  note:
+- domain: '*://ranking.goo.ne.jp/*'
+  evidence: '*://ranking.goo.ne.jp/*'
+  note:
+- domain: '*://cojicaji.jp/*'
+  evidence: '*://cojicaji.jp/*'
+  note:
+- domain: '*://kinarino.jp/*'
+  evidence: '*://kinarino.jp/*'
+  note:
+- domain: '*://macaro-ni.jp/*'
+  evidence: '*://macaro-ni.jp/*'
+  note:
+- domain: '*://esse-online.jp/*'
+  evidence: '*://esse-online.jp/*'
+  note:
+- domain: '*://smartlog.jp/*'
+  evidence: '*://smartlog.jp/*'
+  note:
+- domain: '*://www.o-uccino.jp/*'
+  evidence: '*://www.o-uccino.jp/*'
+  note:
+- domain: '*://osusume.mynavi.jp/*'
+  evidence: '*://osusume.mynavi.jp/*'
+  note:
+- domain: '*://komono.me/*'
+  evidence: '*://komono.me/*'
+  note:
+- domain: '*://yourmystar.jp/*'
+  evidence: '*://yourmystar.jp/*'
+  note:
+- domain: '*://mamari.jp/*'
+  evidence: '*://mamari.jp/*'
+  note:
+- domain: '*://iecolle.com/*'
+  evidence: '*://iecolle.com/*'
+  note:
+- domain: '*://heim.jp/*'
+  evidence: '*://heim.jp/*'
+  note:
+- domain: '*://smashop.jp/*'
+  evidence: '*://smashop.jp/*'
+  note:
+- domain: '*://sakidori.co/*'
+  evidence: '*://sakidori.co/*'
+  note:
+- domain: '*://osusume.excite.co.jp/*'
+  evidence: '*://osusume.excite.co.jp/*'
+  note:
+- domain: '*://bg-mania.jp/*'
+  evidence: '*://bg-mania.jp/*'
+  note:
+- domain: '*://xn--nckxbf7qx37l79c.com/*'
+  evidence: '*://xn--nckxbf7qx37l79c.com/*'
+  note:
+- domain: '*://feizeus.com/*'
+  evidence: '*://feizeus.com/*'
+  note:
+- domain: '*://anincline.com/*'
+  evidence: '*://anincline.com/*'
+  note:
+- domain: '*://mybouzu.info/*'
+  evidence: '*://mybouzu.info/*'
+  note:
+- domain: '*://satsueijoshikai.com/*'
+  evidence: '*://satsueijoshikai.com/*'
+  note:
+- domain: '*://javelinmitsu.com/*'
+  evidence: '*://javelinmitsu.com/*'
+  note:
+- domain: '*://www.sandarukoko.com/*'
+  evidence: '*://www.sandarukoko.com/*'
+  note:
+- domain: '*://lanikainahele.com/*'
+  evidence: '*://lanikainahele.com/*'
+  note:
+- domain: '*://next-infonews.com/*'
+  evidence: '*://next-infonews.com/*'
+  note:
+- domain: '*://parupunte-life.com/*'
+  evidence: '*://parupunte-life.com/*'
+  note:
+- domain: '*://mikobito.com/*'
+  evidence: '*://mikobito.com/*'
+  note:
+- domain: '*://rubese.net/*'
+  evidence: '*://rubese.net/*'
+  note:
+- domain: '*://miyearnzzlabo.com/*'
+  evidence: '*://miyearnzzlabo.com/*'
+  note:
+- domain: '*://www.tumbex.com/*'
+  evidence: '*://www.tumbex.com/*'
+  note:
+- domain: '*://coron.tech/*'
+  evidence: '*://coron.tech/*'
+  note:
+- domain: '*://thenewsdoctors.com/*'
+  evidence: '*://thenewsdoctors.com/*'
+  note:
+- domain: '*://ichi.pro/*'
+  evidence: '*://ichi.pro/*'
+  note:
+- domain: '*://www.laplascale.com/*'
+  evidence: '*://www.laplascale.com/*'
+  note:
+- domain: '/([a-z\.]+\.)?tech-wiki\.online/'
+  evidence: '/([a-z\.]+\.)?tech-wiki\.online/'
+  note:
+- domain: '*://fogsbane.dev/*'
+  evidence: '*://fogsbane.dev/*'
+  note:
+- domain: '*://stormcrow.dev/*'
+  evidence: '*://stormcrow.dev/*'
+  note:
+- domain: '*://codegear.dev/*'
+  evidence: '*://codegear.dev/*'
+  note:
+- domain: '*://melkia.dev/*'
+  evidence: '*://melkia.dev/*'
+  note:
+- domain: '*://classmethod.dev/*'
+  evidence: '*://classmethod.dev/*'
+  note:
+- domain: '*://answer-id.com/*'
+  evidence: '*://answer-id.com/*'
+  note:
+- domain: '*://lycaeum.dev/*'
+  evidence: '*://lycaeum.dev/*'
+  note:
+- domain: '*://kaworu.jpn.org/*'
+  evidence: '*://kaworu.jpn.org/*'
+  note:
+- domain: '*://*.minitool.com/*'
+  evidence: '*://*.minitool.com/*'
+  note:
+- domain: '*://tipstour.net/*'
+  evidence: '*://tipstour.net/*'
+  note:
+- domain: '*://mikasaphp.net/*'
+  evidence: '*://mikasaphp.net/*'
+  note:
+- domain: '*://johobase.com/*'
+  evidence: '*://johobase.com/*'
+  note:
+- domain: '*://*.narkive.jp/'
+  evidence: '*://*.narkive.jp/'
+  note:
+- domain: '/([a-z\.]+\.)?narkive\.com/'
+  evidence: '/([a-z\.]+\.)?narkive\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?thefastcode\.com/'
+  evidence: '/([a-z\.]+\.)?thefastcode\.com/'
+  note:
+- domain: '*://*.atsit.in/*'
+  evidence: '*://*.atsit.in/*'
+  note:
+- domain: '*://forsenergy.com/*'
+  evidence: '*://forsenergy.com/*'
+  note:
+- domain: '*://www.guide-faq.com/*'
+  evidence: '*://www.guide-faq.com/*'
+  note:
+- domain: '*://www.fenet.jp/*'
+  evidence: '*://www.fenet.jp/*'
+  note:
+- domain: '*://www.itlab51.com/*'
+  evidence: '*://www.itlab51.com/*'
+  note:
+- domain: '/([a-z\.]+\.)?step-learn\.com/'
+  evidence: '/([a-z\.]+\.)?step-learn\.com/'
+  note:
+- domain: '*://www.esquire.com/*'
+  evidence: '*://www.esquire.com/*'
+  note:
+- domain: '*://tombouctou-food.com/*'
+  evidence: '*://tombouctou-food.com/*'
+  note:
+- domain: '*://*.rssing.com/*'
+  evidence: '*://*.rssing.com/*'
+  note:
+- domain: '*://mbcnet.org/*'
+  evidence: '*://mbcnet.org/*'
+  note:
+- domain: '*://morioh.com/*'
+  evidence: '*://morioh.com/*'
+  note:
+- domain: '*://websetnet.net/*'
+  evidence: '*://websetnet.net/*'
+  note:
+- domain: '*://neuf.tv/*'
+  evidence: '*://neuf.tv/*'
+  note:
+- domain: '*://*.anatol.one/*'
+  evidence: '*://*.anatol.one/*'
+  note:
+- domain: '*://koenjapan.com/*'
+  evidence: '*://koenjapan.com/*'
+  note:
+- domain: '*://fibjs.org/*'
+  evidence: '*://fibjs.org/*'
+  note:
+- domain: '*://www.wenyanet.com/*'
+  evidence: '*://www.wenyanet.com/*'
+  note:
+- domain: '*://coder-question.com/*'
+  evidence: '*://coder-question.com/*'
+  note:
+- domain: '*://*.flowzen.net/*'
+  evidence: '*://*.flowzen.net/*'
+  note:
+- domain: '*://*.joecomp.com/*'
+  evidence: '*://*.joecomp.com/*'
+  note:
+- domain: '*://tech-ja.netlify.app/*'
+  evidence: '*://tech-ja.netlify.app/*'
+  note:
+- domain: '/([a-z\.]+\.)?japanrow\.com/'
+  evidence: '/([a-z\.]+\.)?japanrow\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?codetd\.com/'
+  evidence: '/([a-z\.]+\.)?codetd\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?admx\.help/'
+  evidence: '/([a-z\.]+\.)?admx\.help/'
+  note:
+- domain: '/([a-z\.]+\.)?manualzz\.com/'
+  evidence: '/([a-z\.]+\.)?manualzz\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?techfeed\.io/'
+  evidence: '/([a-z\.]+\.)?techfeed\.io/'
+  note:
+- domain: '/([a-z\.]+\.)?manuals\.plus/'
+  evidence: '/([a-z\.]+\.)?manuals\.plus/'
+  note:
+- domain: '/([a-z\.]+\.)?getdocs\.org/'
+  evidence: '/([a-z\.]+\.)?getdocs\.org/'
+  note:
+- domain: '/([a-z\.]+\.)?techiedelight\.com/'
+  evidence: '/([a-z\.]+\.)?techiedelight\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?ipingguoyuan\.com/'
+  evidence: '/([a-z\.]+\.)?ipingguoyuan\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?geekloving\.net/'
+  evidence: '/([a-z\.]+\.)?geekloving\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?stepsboard\.com/'
+  evidence: '/([a-z\.]+\.)?stepsboard\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?partitionwizard\.jp/'
+  evidence: '/([a-z\.]+\.)?partitionwizard\.jp/'
+  note:
+- domain: '/([a-z\.]+\.)?desdelinux\.net/'
+  evidence: '/([a-z\.]+\.)?desdelinux\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?mspoweruser\.com/'
+  evidence: '/([a-z\.]+\.)?mspoweruser\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?daily-gadget\.net/'
+  evidence: '/([a-z\.]+\.)?daily-gadget\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?butsuyoku-gadget\.com/'
+  evidence: '/([a-z\.]+\.)?butsuyoku-gadget\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?telektlist\.com/'
+  evidence: '/([a-z\.]+\.)?telektlist\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?sumahoinfo\.net/'
+  evidence: '/([a-z\.]+\.)?sumahoinfo\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?kanmuryou\.com/'
+  evidence: '/([a-z\.]+\.)?kanmuryou\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?skinandxxx\.com/'
+  evidence: '/([a-z\.]+\.)?skinandxxx\.com/'
+  note:
+- domain: '/([a-z\.]+\.)?shigedosicks\.net/'
+  evidence: '/([a-z\.]+\.)?shigedosicks\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?5ch\.net/'
+  evidence: '/([a-z\.]+\.)?5ch\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?ula\.cc/'
+  evidence: '/([a-z\.]+\.)?ula\.cc/'
+  note:
+- domain: '/([a-z\.]+\.)?pic2\.icu/'
+  evidence: '/([a-z\.]+\.)?pic2\.icu/'
+  note:
+- domain: '/([a-z\.]+\.)?2ch\.sc/'
+  evidence: '/([a-z\.]+\.)?2ch\.sc/'
+  note:
+- domain: '/([a-z\.]+\.)?5chb\.net/'
+  evidence: '/([a-z\.]+\.)?5chb\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?janestyle\.net/'
+  evidence: '/([a-z\.]+\.)?janestyle\.net/'
+  note:
+- domain: '/([a-z\.]+\.)?2nn\.jp/'
+  evidence: '/([a-z\.]+\.)?2nn\.jp/'
+  note:
+- domain: '/([a-z\.]+\.)?img4\.cam/'
+  evidence: '/([a-z\.]+\.)?img4\.cam/'
   note:
