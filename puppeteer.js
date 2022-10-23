@@ -1,17 +1,15 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const yaml = require('js-yaml');
 
-function load_urlFile() {
-    let a = fs.readFileSync('./puppeteer-sample.txt', 'utf-8');
-    a = a.toString().split('\n');
-    a = a.filter(value => value.match(/^http.+/g));
-    return a;
+function load_urlFile(){
+    const yamls = fs.readFileSync('./domain-list.yaml', 'utf-8');
+    return yaml.load(yamls);
 }
 
 function write_logFile(count, data) {
 
     const text = fs.readFileSync('./head.md', 'utf-8');
-    console.log(text);
 
     if (count <= 1) {
         fs.appendFile('./puppeteer.md', text, function (err) {
@@ -44,14 +42,16 @@ function write_logFile(count, data) {
     });
     const page = await browser.newPage();
     try {
-        let urls = load_urlFile();
+        let yamls = load_urlFile();
         let count = 0;
-        for (const url of urls) {
+        for (const yaml of yamls) {
             count++;
-            console.log('check => ' + url);
-            const response = await page.goto(url, { waitUntil: 'networkidle2' });
+            let yaml_domain = yaml['domain'];
+            let yaml_evidence = yaml['evidence'];
+            console.log('check => ' + yaml['domain']);
+            const response = await page.goto(yaml_evidence, { waitUntil: 'networkidle2' });
             console.log(`status: ${response.status()}`);
-            let data = '|' + count + '|`' + url + '`|' + response.status() + '|\n';
+            let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + '|\n';
             write_logFile(count, data);
         }
     }
