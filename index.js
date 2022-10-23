@@ -1,9 +1,7 @@
 const fs = require('fs');
 const yaml = require('js-yaml');
-const path = require('path');
 const UBListFile = './uBlacklist.txt';
 const UBOListFile = './uBlockOrigin.txt';
-const PuppeteerFile = './puppeteer.txt';
 
 function remove_File(paths) {
     paths.forEach(item => {
@@ -18,8 +16,8 @@ function remove_File(paths) {
     });
 }
 
-function load_YamlFile(filename) {
-    const yamlText = fs.readFileSync(filename, 'utf-8')
+function load_urlFile() {
+    const yamlText = fs.readFileSync('./domain-list.yaml', 'utf-8')
     return yaml.load(yamlText);
 }
 
@@ -43,15 +41,6 @@ function create_UBOList(arrays) {
     }
 }
 
-function create_PuppeteerList(arrays) {
-    for (const array of arrays) {
-        let urlLists = array['evidence'].replace(/(^.+$)/g, '$1\n');
-        fs.appendFileSync(PuppeteerFile, urlLists, { flag: 'a+' }, err => {
-            if (err) throw err;
-        });
-    }
-}
-
 function check_DuplicateDomain(arrays) {
     const results = arrays.filter((item, index, self) => {
         const domainList = self.map(item => item['domain']);
@@ -65,16 +54,15 @@ function check_DuplicateDomain(arrays) {
 if (require.main === module) {
 
     try {
-        let removeFiles = [UBListFile, UBOListFile, PuppeteerFile];
+        let removeFiles = [UBListFile, UBOListFile];
         remove_File(removeFiles);
 
-        let datas = load_YamlFile(path.join(__dirname, 'domain-list.yaml'));
+        let datas = load_urlFile();
 
         datas = check_DuplicateDomain(datas);
 
         create_UBList(datas);
         create_UBOList(datas);
-        create_PuppeteerList(datas);
     } catch (err) {
         console.error(err.message);
     }
