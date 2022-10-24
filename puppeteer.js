@@ -1,29 +1,44 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const yaml = require('js-yaml');
+const EvidenceFile = './evidence.md';
+const urlFile = './domain-list.yaml';
+// const urlFile = './test/domain-list.yaml';
 
-function load_urlFile(){
-    const yamls = fs.readFileSync('./domain-list.yaml', 'utf-8');
+function remove_File(paths) {
+    paths.forEach(item => {
+        if (fs.existsSync(item)) {
+            console.log('remove ' + item + 'file(s).');
+            fs.unlink(item, (err) => {
+                if (err) throw err;
+            })
+        } else {
+            console.log(item + ' is not found. skip this function. BUT no problem.');
+        }
+    });
+}
+
+function load_urlFile() {
+    const yamls = fs.readFileSync(urlFile, 'utf-8');
     return yaml.load(yamls);
 }
 
-function write_logFile(count, data) {
+function create_evidenceFile(count, data) {
 
-    const text = fs.readFileSync('./head.md', 'utf-8');
+    const text = fs.readFileSync('./src/evidence.md', 'utf-8');
 
     if (count <= 1) {
-        fs.appendFile('./puppeteer.md', text, function (err) {
+        fs.appendFile(EvidenceFile, text, function (err) {
             if (err) {
                 throw err;
             }
         });
     }
-    fs.appendFile('./puppeteer.md', data, function (err) {
+    fs.appendFile(EvidenceFile, data, function (err) {
         if (err) {
             throw err;
         }
     });
-
 }
 
 (async () => {
@@ -42,17 +57,19 @@ function write_logFile(count, data) {
     });
     const page = await browser.newPage();
     try {
+        let removeFiles = [EvidenceFile];
+        remove_File(removeFiles);
         let yamls = load_urlFile();
         let count = 0;
         for (const yaml of yamls) {
             count++;
             let yaml_domain = yaml['domain'];
             let yaml_evidence = yaml['evidence'];
-            console.log('check => ' + yaml['domain']);
+            console.log('check => ' + yaml_evidence);
             const response = await page.goto(yaml_evidence, { waitUntil: 'networkidle2' });
             console.log(`status: ${response.status()}`);
             let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + '|\n';
-            write_logFile(count, data);
+            create_evidenceFile(count, data);
         }
     }
     catch (err) {
