@@ -5,5 +5,3 @@
 ! Homepage: https://github.com/PRiMENON/uBlacklist
 ! License: MIT
 
-www.google.*##.xpd:has([href*=*"living-sun.com"])
-www.google.*##.xpd:has([href*=*"qastack.jp"])

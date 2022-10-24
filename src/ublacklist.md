@@ -1,5 +1,3 @@
 !# https://github.com/PRiMENON/uBlacklist
 !# License: MIT.
 
-/([a-z\.]+\.)?living-sun\.com/
-/([a-z\.]+\.)?qastack\.jp/

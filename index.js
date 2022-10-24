@@ -2,26 +2,34 @@ const fs = require('fs');
 const yaml = require('js-yaml');
 const UBListFile = './uBlacklist.txt';
 const UBOListFile = './uBlockOrigin.txt';
+// const urlFile = './domain-list.yaml';
+const urlFile = './test/domain-list.yaml';
 
 function remove_File(paths) {
     paths.forEach(item => {
         if (fs.existsSync(item)) {
-            console.log(item + 'を削除します');
+            console.log('remove ' + item + 'file(s).');
             fs.unlink(item, (err) => {
                 if (err) throw err;
             })
         } else {
-            console.log(item + 'がないので削除をスキップします');
+            console.log( item + ' is not found. skip this function. BUT no problem.');
         }
     });
 }
 
 function load_urlFile() {
-    const yamlText = fs.readFileSync('./domain-list.yaml', 'utf-8')
-    return yaml.load(yamlText);
+    const yamls = fs.readFileSync(urlFile, 'utf-8')
+    return yaml.load(yamls);
 }
 
-function create_UBList(arrays) {
+function create_UBLfile(arrays) {
+    const text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
+    fs.appendFileSync(UBListFile, text, function (err) {
+        if (err) {
+            throw err;
+        }
+    });
     for (const array of arrays) {
         let domainLists = array['domain'].replace(/\./g, '\\.');
         domainLists = domainLists.replace(/(^.+$)/g, '/([a-z\\.]+\\.)?$1/\n');
@@ -31,7 +39,13 @@ function create_UBList(arrays) {
     }
 }
 
-function create_UBOList(arrays) {
+function create_UBOLfile(arrays) {
+    const text = fs.readFileSync('./src/ublockorigin.md', 'utf-8');
+    fs.appendFileSync(UBOListFile, text, function (err) {
+        if (err) {
+            throw err;
+        }
+    });
     for (const array of arrays) {
         let domainLists = array['domain'].replace(/(^.+$)/g, 'www.google.*##.xpd:has([href*=*"$1"])\n');
 
@@ -52,17 +66,16 @@ function check_DuplicateDomain(arrays) {
 }
 
 if (require.main === module) {
-
     try {
         let removeFiles = [UBListFile, UBOListFile];
         remove_File(removeFiles);
 
-        let datas = load_urlFile();
+        let yamls = load_urlFile();
 
-        datas = check_DuplicateDomain(datas);
+        yamls = check_DuplicateDomain(yamls);
 
-        create_UBList(datas);
-        create_UBOList(datas);
+        create_UBLfile(yamls);
+        create_UBOLfile(yamls);
     } catch (err) {
         console.error(err.message);
     }
