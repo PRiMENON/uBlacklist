@@ -4,3 +4,9 @@
 - domain: 'qastack.jp'
   evidence: 'https://qastack.jp/travel/25667/is-there-any-region-island-mountain-or-village-in-japan-known-for-hot-spicy-local-cuisine'
   note:
+- domain: 'blog.livedoor.jp/aoba_f/'
+  evidence: 'http://blog.livedoor.jp/aoba_f/archives/57386067.html'
+  note:
+- domain: 'xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com'
+  evidence: 'https://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/page/8/'
+  note:
