@@ -1,1086 +1,1008 @@
 - domain: '*://codeday.me/*'
   evidence: '*://codeday.me/*'
+  note: 'closed?'
+- domain: 'kotaeta.com/'
+  evidence: 'https://kotaeta.com/71544800'
+  note: 'closed?'
+- domain: 'living-sun.com'
+  evidence: 'https://living-sun.com/ja/winapi/854228-findfirstfileex-wildcard-characters-winapi.html'
   note:
-- domain: '*://kotaeta.com/*'
-  evidence: '*://kotaeta.com/*'
-  note:
-- domain: '*://living-sun.com/*'
-  evidence: '*://living-sun.com/*'
-  note:
-- domain: '*://qastack.jp/*'
-  evidence: '*://qastack.jp/*'
+- domain: 'qastack.jp'
+  evidence: 'https://qastack.jp/travel/25667/is-there-any-region-island-mountain-or-village-in-japan-known-for-hot-spicy-local-cuisine'
   note:
 - domain: '*://stackoverrun.com/*'
   evidence: '*://stackoverrun.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://www.366service.com/*'
   evidence: '*://www.366service.com/*'
+  note: 'closed?'
+- domain: 'codeflow.site'
+  evidence: 'https://www.codeflow.site/ja/article/how-to-write-and-run-your-first-program-in-node-js'
   note:
-- domain: '/\w+\.codeflow\.site/'
-  evidence: '/\w+\.codeflow\.site/'
+- domain: 'it-swarm.dev'
+  evidence: 'https://www.it-swarm.dev/ja/node.js/nodejs%E3%81%A8v8%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/831456564/'
   note:
-- domain: '/\w+\.it-swarm\.\w+/'
-  evidence: '/\w+\.it-swarm\.\w+/'
+- domain: 'it-swarm-ja.com'
+  evidence: 'https://www.it-swarm-ja.com/ja/javascript/javascriptdate/967313519/'
+  note: 'redirect => web-dev-qa-db-ja.com'
+- domain: 'web-dev-qa-db-ja.com'
+  evidence: 'https://www.web-dev-qa-db-ja.com/ja/facebook/facebook-api%EF%BC%9A%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%82%92%E7%8D%B2%E5%BE%97%E3%81%99%E3%82%8B/970701389/'
   note:
 - domain: '/\w+\.it-swarm-\w+\.\w+/'
   evidence: '/\w+\.it-swarm-\w+\.\w+/'
-  note:
+  note: 'not found'
 - domain: '/\w+\.it-swarm\.\w+\.\w+/'
   evidence: '/\w+\.it-swarm\.\w+\.\w+/'
-  note:
-- domain: '*://www.coder.work/*'
-  evidence: '*://www.coder.work/*'
+  note: 'not found'
+- domain: 'coder.work'
+  evidence: 'https://www.coder.work/article/6060729'
   note:
 - domain: '*://python5.com/*'
   evidence: '*://python5.com/*'
+  note: 'closed?'
+- domain: 'uwenku.com'
+  evidence: 'http://ja.uwenku.com/question/p-rklwhgjh-kq.html'
   note:
-- domain: '*://*.uwenku.com/*'
-  evidence: '*://*.uwenku.com/*'
-  note:
-- domain: '*://w3big.com/*'
-  evidence: '*://w3big.com/*'
+- domain: 'w3big.com'
+  evidence: 'http://www.w3big.com/ja/nodejs/nodejs-install-setup.html#gsc.tab=0'
   note:
 - domain: '*://svcministry.org/*'
   evidence: '*://svcministry.org/*'
-  note:
-- domain: '*://riptutorial.com/*'
-  evidence: '*://riptutorial.com/*'
+  note: 'closed?'
+- domain: 'riptutorial.com'
+  evidence: 'https://riptutorial.com/phpunit'
   note:
 - domain: '*://steakrecords.com/*'
-  evidence: '*://steakrecords.com/*'
-  note:
+  evidence: 'https://steakrecords.com/ja/582729-how-to-reduce-3color-to-3sat-np-complete-reduction.html'
+  note: 'redirect => belia-glp.com (Malicious site)'
 - domain: '*://steakrecord.com/*'
   evidence: '*://steakrecord.com/*'
-  note:
-- domain: '*://www.javaer101.com/*'
-  evidence: '*://www.javaer101.com/*'
+  note: 'closed?'
+- domain: 'javaer101.com'
+  evidence: 'https://www.javaer101.com/ja/article/41223939.html'
   note:
 - domain: '*://*.ojit.com/*'
   evidence: '*://*.ojit.com/*'
-  note:
-- domain: '*://tutorialmore.com/*'
-  evidence: '*://tutorialmore.com/*'
+  note: 'closed?'
+- domain: 'tutorialmore.com'
+  evidence: 'https://tutorialmore.com/questions-2188780.htm'
   note:
 - domain: '*://xjavascript.com/*'
   evidence: '*://xjavascript.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://phppedia.com/*'
   evidence: '*://phppedia.com/*'
+  note: 'closed?'
+- domain: 'nuomiphp.com'
+  evidence: 'http://test.nuomiphp.com/u/653'
   note:
-- domain: '*://*.nuomiphp.com/*'
-  evidence: '*://*.nuomiphp.com/*'
-  note:
-- domain: '*://nuomiphp.com/*'
-  evidence: '*://nuomiphp.com/*'
+- domain: 'nuomiphp.com'
+  evidence: 'https://www.nuomiphp.com/d/26570-github-trending-2022-10-27'
   note:
 - domain: '*://bugsdb.com/*'
   evidence: '*://bugsdb.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://cloudstack.ninja/*'
   evidence: '*://cloudstack.ninja/*'
+  note: 'closed?'
+- domain: 'xiaolee.net'
+  evidence: 'https://blog.xiaolee.net/xiaolee/nodejs-install.html'
   note:
-- domain: '*://*.xiaolee.net/*'
-  evidence: '*://*.xiaolee.net/*'
+- domain: 'fixes.pub'
+  evidence: 'https://www.fixes.pub/program/728080.html'
   note:
-- domain: '*://www.fixes.pub/*'
-  evidence: '*://www.fixes.pub/*'
-  note:
-- domain: '*://bleepcoder.com/*'
-  evidence: '*://bleepcoder.com/*'
+- domain: 'bleepcoder.com'
+  evidence: 'https://bleepcoder.com/ja/longhorn/664117087/bug-improve-kubernetes-node-drain-support'
   note:
 - domain: '*:/cloud6.net/*'
   evidence: '*:/cloud6.net/*'
-  note:
+  note: 'closed?'
 - domain: '*://www.it-mure.jp.net/*'
   evidence: '*://www.it-mure.jp.net/*'
-  note:
-- domain: '*://*.projectbackpack.org/*'
-  evidence: '*://*.projectbackpack.org/*'
-  note:
-- domain: '*://*.tistory.com/*'
-  evidence: '*://*.tistory.com/*'
+  note: 'closed?'
+- domain: 'projectbackpack.org'
+  evidence: 'https://jpn.projectbackpack.org/646790-opening-html-from-google-drive-JQDPBB'
+  note: 'redirect => ntcdoon.org (malicous site)'
+- domain: 'tistory.com'
+  evidence: 'https://jin2rang.tistory.com/entry/nodejs-git-ignore'
   note:
 - domain: '*://codehero.jp/*'
   evidence: '*://codehero.jp/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.codehero.jp/*'
   evidence: '*://*.codehero.jp/*'
+  note: 'closed?'
+- domain: 'code-examples.net'
+  evidence: 'https://code-examples.net/ja/q/f197d7'
   note:
-- domain: '*://code-examples.net/*'
-  evidence: '*://code-examples.net/*'
-  note:
-- domain: '*://*.voidcc.com/*'
-  evidence: '*://*.voidcc.com/*'
+- domain: 'voidcc.com'
+  evidence: 'http://ja.voidcc.com/question/p-vvnteyqh-z.html'
   note:
 - domain: '*://*.i-harness.com/*'
   evidence: '*://*.i-harness.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://stackovernet.xyz/*'
   evidence: '*://stackovernet.xyz/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.stackovernet.xyz/*'
   evidence: '*://*.stackovernet.xyz/*'
-  note:
+  note: 'closed?'
 - domain: '*://fooobar.com/*'
   evidence: '*://fooobar.com/*'
-  note:
-- domain: '*://www.ti-enxame.com/*'
-  evidence: '*://www.ti-enxame.com/*'
+  note: 'closed?'
+- domain: 'ti-enxame.com'
+  evidence: 'https://www.kutombawewe.net/pt/node.js/no-fs-erro-eperm-operacao-nao-permitida-aberta/1057075674/'
   note:
 - domain: '*://base64.work/*'
   evidence: '*://base64.work/*'
-  note:
-- domain: '*://stackovergo.com/*'
-  evidence: '*://stackovergo.com/*'
+  note: 'closed?'
+- domain: 'stackovergo.com'
+  evidence: 'https://stackovergo.com/ja/q/1821229/how-would-you-check-for-undefined-property-in-ejs-for-nodejs'
   note:
 - domain: '*://www.webdevqa.jp.net/*'
   evidence: '*://www.webdevqa.jp.net/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.lemar.tv/*'
   evidence: '*://*.lemar.tv/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.pays-tarusate.org/*'
   evidence: '*://*.pays-tarusate.org/*'
-  note:
+  note: 'closed?'
 - domain: '*://qapicks.com/*'
   evidence: '*://qapicks.com/*'
-  note:
-- domain: '*://*.extendoffice.com/*'
-  evidence: '*://*.extendoffice.com/*'
+  note: 'closed?'
+- domain: 'extendoffice.com'
+  evidence: 'https://ja.extendoffice.com/product/kutools-for-excel/excel-fuzzy-lookup.html'
   note:
 - domain: '*://*.uebu-kaihatsu.jp.net/*'
   evidence: '*://*.uebu-kaihatsu.jp.net/*'
-  note:
+  note: 'closed?'
 - domain: '*://learntutorials.net/*'
   evidence: '*://learntutorials.net/*'
-  note:
+  note: 'closed?'
 - domain: '*://jpcodeqa.com/*'
   evidence: '*://jpcodeqa.com/*'
+  note: 'closed?'
+- domain: 'cndgn.com'
+  evidence: 'https://cndgn.com/question/stack/28852426/multidatespicker-adddisableddates'
   note:
-- domain: '*://cndgn.com/*'
-  evidence: '*://cndgn.com/*'
+- domain: 'yaoply.com'
+  evidence: 'https://yaoply.com/items/phpword-templateprocessor-uninitialized'
+  note: 
+- domain: 'isolution.pro'
+  evidence: 'https://isolution.pro/t/python-deep-learning'
   note:
-- domain: '*://yaoply.com/*'
-  evidence: '*://yaoply.com/*'
+- domain: 'generacodice.com'
+  evidence: 'https://www.generacodice.com/jp/articolo/28392/eclipse%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%A4%9C%E7%B4%A2%E3%81%ABsvn%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%82%92%E5%90%AB%E3%82%81%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B'
   note:
-- domain: '*://isolution.pro/*'
-  evidence: '*://isolution.pro/*'
+- domain: 'tutorialink.com'
+  evidence: 'https://java.tutorialink.com/doubly-linked-list-insert-before-a-given-node-in-java/'
   note:
-- domain: '*//www.generacodice.com/*'
-  evidence: '*//www.generacodice.com/*'
+- domain: 'delftstack.com'
+  evidence: 'https://www.delftstack.com/ja/howto/node.js/check-the-installed-version-of-node-js/'
   note:
-- domain: '*://*.tutorialink.com/*'
-  evidence: '*://*.tutorialink.com/*'
+- domain: 'jpdebug.com'
+  evidence: 'https://jpdebug.com/p/1937284'
   note:
-- domain: '*://*.delftstack.com/*'
-  evidence: '*://*.delftstack.com/*'
-  note:
-- domain: '*://jpdebug.com/*'
-  evidence: '*://jpdebug.com/*'
-  note:
-- domain: '*://dev-qa.com/*'
-  evidence: '*://dev-qa.com/*'
+- domain: 'dev-qa.com'
+  evidence: 'https://dev-qa.com/1549124/qabstracttablemodel-or-qsqltablemodel'
   note:
 - domain: '*://*.arip-photo.org/*'
-  evidence: '*://*.arip-photo.org/*'
-  note:
+  evidence: 'https://ja.arip-photo.org/604117-ping-replies-from-same-computer-XVOXRB'
+  note: 'malicious site ds6.biz'
 - domain: '*://onlyhow.net/*'
   evidence: '*://onlyhow.net/*'
   note:
-- domain: '*://ciksiti.com/*'
-  evidence: '*://ciksiti.com/*'
+- domain: 'ciksiti.com'
+  evidence: 'https://ciksiti.com/es/chapters/10360-list-iterator-c'
   note:
-- domain: '*://*.web-dev-qa-db-ja.com/*'
-  evidence: '*://*.web-dev-qa-db-ja.com/*'
+- domain: 'web-dev-qa-db-ja.com'
+  evidence: 'https://www.web-dev-qa-db-ja.com/ja/javascript/%E3%82%A8%E3%83%A9%E3%83%BC%EF%BC%9Agetaddrinfo-eaiagain/827974021/'
   note:
-- domain: '*://tagsqa.com/*'
-  evidence: '*://tagsqa.com/*'
+- domain: 'tagsqa.com'
+  evidence: 'https://tagsqa.com/detail/27264'
   note:
 - domain: '*://*.linkfang.org/*'
   evidence: '*://*.linkfang.org/*'
-  note:
-- domain: '*://*.jl-k.com/*'
-  evidence: '*://*.jl-k.com/*'
+  note: 'closed?'
+- domain: 'jl-k.com'
+  evidence: 'https://git.jl-k.com/primenon'
   note:
 - domain: '*://*.yizimg.com/*'
   evidence: '*://*.yizimg.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.bajins.com/*'
   evidence: '*://*.bajins.com/*'
-  note:
+  note: 'closed?'
 - domain: '/(.+\.)?inimaa\.us/'
   evidence: '/(.+\.)?inimaa\.us/'
+  note: 'closed?'
+- domain: 'phala.one'
+  evidence: 'https://github.phala.one/primenon'
   note:
-- domain: '*://*.phala.one/*'
-  evidence: '*://*.phala.one/*'
+- domain: 'ioiox.com'
+  evidence: 'https://github.ioiox.com/stilleshan'
   note:
-- domain: '*://*.ioiox.com/*'
-  evidence: '*://*.ioiox.com/*'
+- domain: 'domain.glass'
+  evidence: 'http://twtr.domain.glass/cityhokuto/status/1341661747132821504'
   note:
-- domain: '*://*.domain.glass/*'
-  evidence: '*://*.domain.glass/*'
+- domain: 'leftic.club'
+  evidence: 'https://nitter.leftic.club/primenon'
   note:
-- domain: '*://*.tuxcanfly.me/*'
-  evidence: '*://*.tuxcanfly.me/*'
+- domain: 'o-k.jp'
+  evidence: 'http://twiteru.o-k.jp/?id=34086'
   note:
-- domain: '*://tuxcanfly.me/*'
-  evidence: '*://tuxcanfly.me/*'
-  note:
-- domain: '*://*.leftic.club/*'
-  evidence: '*://*.leftic.club/*'
-  note:
-- domain: '*://*.eternie-labs.net/*'
-  evidence: '*://*.eternie-labs.net/*'
-  note:
-- domain: '*://*.o-k.jp/*'
-  evidence: '*://*.o-k.jp/*'
-  note:
-- domain: '/([a-z\.]+\.)?r\.nf/'
-  evidence: '/([a-z\.]+\.)?r\.nf/'
+- domain: 'postgresqlco.nf'
+  evidence: 'https://postgresqlco.nf/doc/ja/param/max_parallel_workers_per_gather/'
   note:
 - domain: '/\w+\.proxypy\.org/'
   evidence: '/\w+\.proxypy\.org/'
-  note:
+  note: 'closed?'
 - domain: '*://websurfnow.appspot.com/*'
   evidence: '*://websurfnow.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://goo---gle.appspot.com*'
   evidence: '*://goo---gle.appspot.com*'
-  note:
+  note: 'closed?'
 - domain: '*://proxygogogo.appspot.com/*'
   evidence: '*://proxygogogo.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://proxypycode.appspot.com/*'
   evidence: '*://proxypycode.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://wokaoproxy.appspot.com/*'
   evidence: '*://wokaoproxy.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://www.girlsproxy.appspot.com/*'
   evidence: '*://www.girlsproxy.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://proxyscript.appspot.com/*'
   evidence: '*://proxyscript.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://highproxying.appspot.com/*'
   evidence: '*://highproxying.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://gdeadoogle.appspot.com/*'
   evidence: '*://gdeadoogle.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://www.proxyingup.appspot.com/*'
   evidence: '*://www.proxyingup.appspot.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://proxypy-gae.appspot.com/*'
   evidence: '*://proxypy-gae.appspot.com/*'
-  note:
-- domain: '*://*.nixnet.services/*'
-  evidence: '*://*.nixnet.services/*'
+  note: 'closed?'
+- domain: 'nixnet.services'
+  evidence: 'https://git.nixnet.services/mirrors/mastodon'
   note:
 - domain: '*://*.moooi.jp/*'
   evidence: '*://*.moooi.jp/*'
-  note:
+  note: 'closed?'
 - domain: '*://archive.md/*'
   evidence: '*://archive.md/*'
+  note: 'web archive site redirect => achive.ph'
+- domain: 'archive.ph'
+  evidence: 'https://archive.ph/20200421201055/https://rt.live/'
+  note: 'web archive site'
+- domain: 'softonic.jp'
+  evidence: 'https://gnuplot.softonic.jp/'
   note:
-- domain: '*://archive.ph/*'
-  evidence: '*://archive.ph/*'
+- domain: 'uptodown.com'
+  evidence: 'https://google-japanese-input.jp.uptodown.com/android'
   note:
-- domain: '*://*.softonic.jp/*'
-  evidence: '*://*.softonic.jp/*'
+- domain: 'videohelp.com'
+  evidence: 'https://forum.videohelp.com/threads/361508-tsMuxer-error-can-t-open-stream-C-Users'
   note:
-- domain: '*://*.uptodown.com/*'
-  evidence: '*://*.uptodown.com/*'
+- domain: 'downloadcrew.com'
+  evidence: 'https://www.downloadcrew.com/article/43938/photoscape'
   note:
-- domain: '*://www.videohelp.com/*'
-  evidence: '*://www.videohelp.com/*'
+- domain: 'softpedia.com'
+  evidence: 'https://mobile.softpedia.com/apk/fingerprint-gestures/1.6/'
   note:
-- domain: '*://www.downloadcrew.com/*'
-  evidence: '*://www.downloadcrew.com/*'
+- domain: 'fossies.org'
+  evidence: 'https://fossies.org/linux/misc/openssh-9.1p1.tar.gz/'
   note:
-- domain: '*://www.softpedia.com/*'
-  evidence: '*://www.softpedia.com/*'
+- domain: 'filecr.com'
+  evidence: 'https://filecr.com/windows/vovsoft-keystroke-visualizer/'
   note:
-- domain: '*://fossies.org/*'
-  evidence: '*://fossies.org/*'
+- domain: 'progsoft.net'
+  evidence: 'https://progsoft.net/ja/software/node-js'
   note:
-- domain: '*://www.heise.de/*'
-  evidence: '*://www.heise.de/*'
+- domain: 'softantenna.com'
+  evidence: 'https://softantenna.com/blog/mancy/'
   note:
-- domain: '*://filecr.com/*'
-  evidence: '*://filecr.com/*'
+- domain: 'lhaplus.org'
+  evidence: 'https://www.lhaplus.org/peazip/'
   note:
-- domain: '*://www.instalki.pl/*'
-  evidence: '*://www.instalki.pl/*'
+- domain: 'softaro.net'
+  evidence: 'https://softaro.net/soundswitch/'
   note:
-- domain: '*://www.computerbild.de/*'
-  evidence: '*://www.computerbild.de/*'
-  note:
-- domain: '*://progsoft.net/*'
-  evidence: '*://progsoft.net/*'
-  note:
-- domain: '*://www.softantenna.com/*'
-  evidence: '*://www.softantenna.com/*'
-  note:
-- domain: '*://www.lhaplus.org/*'
-  evidence: '*://www.lhaplus.org/*'
-  note:
-- domain: '*://softaro.net/*'
-  evidence: '*://softaro.net/*'
-  note:
-- domain: '*://www.appannie.com/*'
-  evidence: '*://www.appannie.com/*'
-  note:
-- domain: '*://versus.com/*'
-  evidence: '*://versus.com/*'
-  note:
+- domain: 'appannie.com'
+  evidence: 'https://www.appannie.com/ru/apps/ios/app/learn-node-js-programming-pro/'
+  note: 'redirect to https://data.ai/'
 - domain: '*://gigaranking.jp/*'
   evidence: '*://gigaranking.jp/*'
+  note: 'closed?'
+- domain: 'kakakusearch.com'
+  evidence: 'https://kakakusearch.com/jancode/4580771740528'
   note:
-- domain: '*://kakakusearch.com/*'
-  evidence: '*://kakakusearch.com/*'
+- domain: 'smartstartechnology.com'
+  evidence: 'https://4k.smartstartechnology.com/65p635/'
   note:
-- domain: '*://*.smartstartechnology.com/*'
-  evidence: '*://*.smartstartechnology.com/*'
+- domain: 'onihikaku.com'
+  evidence: 'https://onihikaku.com/?p=45816'
   note:
-- domain: '*://onihikaku.com/*'
-  evidence: '*://onihikaku.com/*'
+- domain: 'hikaku.com'
+  evidence: 'https://www.hikaku.com/loan/'
   note:
-- domain: '*://www.hikaku.com/*'
-  evidence: '*://www.hikaku.com/*'
+- domain: 'kuraberu.com'
+  evidence: 'https://www.kuraberu.com/aircon/'
   note:
-- domain: '*://www.kuraberu.com/*'
-  evidence: '*://www.kuraberu.com/*'
+- domain: 'saiyasune.com'
+  evidence: 'https://www.saiyasune.com/J4952040150152.html'
   note:
-- domain: '*://www.saiyasune.com/*'
-  evidence: '*://www.saiyasune.com/*'
+- domain: 'become.co.jp'
+  evidence: 'https://www.become.co.jp/interior/'
   note:
-- domain: '*://www.become.co.jp/*'
-  evidence: '*://www.become.co.jp/*'
+- domain: 'rank-king.jp'
+  evidence: 'https://rank-king.jp/article/2183'
   note:
-- domain: '*://rank-king.jp/*'
-  evidence: '*://rank-king.jp/*'
+- domain: 'fashion.biglobe.ne.jp'
+  evidence: 'https://fashion.biglobe.ne.jp/kids/cate_babygoods_sling/'
   note:
-- domain: '*://fashion.biglobe.ne.jp/*'
-  evidence: '*://fashion.biglobe.ne.jp/*'
+- domain: '919.cc'
+  evidence: 'https://919.cc/sale_news/'
   note:
-- domain: '*://919.cc/*'
-  evidence: '*://919.cc/*'
-  note:
-- domain: '*://download.com.vn/*'
-  evidence: '*://download.com.vn/*'
+- domain: 'download.com.vn'
+  evidence: 'https://download.com.vn/s/notepad'
   note:
 - domain: '*://*.iownyour.biz/*'
   evidence: '*://*.iownyour.biz/*'
+  note: 'closed?'
+- domain: 'runebook.dev'
+  evidence: 'https://runebook.dev/ja/docs/mocha/'
   note:
-- domain: '*://runebook.dev/*'
-  evidence: '*://runebook.dev/*'
-  note:
-- domain: '*://shirabeta.net/*'
-  evidence: '*://shirabeta.net/*'
+- domain: 'shirabeta.net'
+  evidence: 'https://shirabeta.net/Anaconda-install-error.html'
   note:
 - domain: '*://clausvisbys.com/*'
   evidence: '*://clausvisbys.com/*'
+  note: 'closed?'
+- domain: 'safetydetectives.com'
+  evidence: 'https://ja.safetydetectives.com/best-antivirus/norton/coupons/'
   note:
-- domain: '*://*.safetydetectives.com/*'
-  evidence: '*://*.safetydetectives.com/*'
+- domain: 'ik4.es'
+  evidence: 'https://ik4.es/ja/nativefier%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6Web%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92Linux%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/'
   note:
-- domain: '*://ik4.es/*'
-  evidence: '*://ik4.es/*'
+- domain: 'railstoolkit.com'
+  evidence: 'https://ja.railstoolkit.com/download-imgur-images-bulk-with-imgur-downloader'
   note:
-- domain: '*://*.railstoolkit.com/*'
-  evidence: '*://*.railstoolkit.com/*'
+- domain: 'drunkentengu.com'
+  evidence: 'https://ja.drunkentengu.com/8d4b08d8-2a40e80e'
   note:
-- domain: '*://*.drunkentengu.com/*'
-  evidence: '*://*.drunkentengu.com/*'
+- domain: 'androideity.com'
+  evidence: 'https://ja.androideity.com/tinynvidiaupdatechecker'
+  note: 'redirect to https://jitakudesoho.jp/'
+- domain: 'gouma.org'
+  evidence: 'https://ja.gouma.org/tag_list/screen'
   note:
-- domain: '*://*.androideity.com/*'
-  evidence: '*://*.androideity.com/*'
+- domain: 'eyewated.com'
+  evidence: 'https://ja.eyewated.com/shell32/'
   note:
-- domain: '*://*.gouma.org/*'
-  evidence: '*://*.gouma.org/*'
+- domain: 'securitynavi.jp'
+  evidence: 'https://securitynavi.jp/15799'
   note:
-- domain: '*://*.eyewated.com/*'
-  evidence: '*://*.eyewated.com/*'
-  note:
-- domain: '*://securitynavi.jp/*'
-  evidence: '*://securitynavi.jp/*'
-  note:
-- domain: '*://excesssecurity.com/*'
-  evidence: '*://excesssecurity.com/*'
+- domain: 'excesssecurity.com'
+  evidence: 'https://excesssecurity.com/appsumo/'
   note:
 - domain: '*://www.hebergementwebs.com/*'
   evidence: '*://www.hebergementwebs.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.ifaj-congress.org/*'
   evidence: '*://*.ifaj-congress.org/*'
-  note:
-- domain: '*://*.thewordcracker.com/*'
-  evidence: '*://*.thewordcracker.com/*'
-  note:
-- domain: '*://www.atmarkit.co.jp/*'
-  evidence: '*://www.atmarkit.co.jp/*'
-  note:
-- domain: '*://xtech.nikkei.com/*'
-  evidence: '*://xtech.nikkei.com/*'
-  note:
-- domain: '*://builder.japan.zdnet.com/*'
-  evidence: '*://builder.japan.zdnet.com/*'
-  note:
-- domain: '*://semooh.jp/*'
-  evidence: '*://semooh.jp/*'
+  note: 'closed?'
+- domain: 'thewordcracker.com'
+  evidence: 'https://ja.thewordcracker.com/%E5%9F%BA%E6%9C%AC/%E3%82%B1%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%89%E6%8E%B2%E7%A4%BA%E6%9D%BF%E3%81%A7captcha%E6%A9%9F%E8%83%BD%E3%82%92%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B/'
   note:
 - domain: '*://kurashi-atoz.com/*'
   evidence: '*://kurashi-atoz.com/*'
+  note: 'closed?'
+- domain: 'mens-modern.jp'
+  evidence: 'https://mens-modern.jp/40354'
   note:
-- domain: '*://mens-modern.jp/*'
-  evidence: '*://mens-modern.jp/*'
+- domain: 'miuki556happy.com'
+  evidence: 'https://miuki556happy.com/archives/9526'
   note:
-- domain: '*://miuki556happy.com/*'
-  evidence: '*://miuki556happy.com/*'
+- domain: 'rinrenblog.com'
+  evidence: 'https://rinrenblog.com/entame/atumori/'
   note:
-- domain: '*://rinrenblog.com/*'
-  evidence: '*://rinrenblog.com/*'
+- domain: 'otonasalone.jp'
+  evidence: 'https://otonasalone.jp/45291/'
   note:
-- domain: '*://otonasalone.jp/*'
-  evidence: '*://otonasalone.jp/*'
+- domain: 'yukawanet.com'
+  evidence: 'https://yukawanet.com/archives/amiibo20210326.html'
   note:
-- domain: '*://yukawanet.com/*'
-  evidence: '*://yukawanet.com/*'
+- domain: 'it-kyujin.jp'
+  evidence: 'https://it-kyujin.jp/word/2/'
   note:
-- domain: '*://*.naver.jp/*'
-  evidence: '*://*.naver.jp/*'
+- domain: 'itnews.org'
+  evidence: 'https://itnews.org/news_resources/30654'
   note:
-- domain: '*://it-kyujin.jp/*'
-  evidence: '*://it-kyujin.jp/*'
-  note:
-- domain: '*://itnews.org/*'
-  evidence: '*://itnews.org/*'
-  note:
-- domain: '*://zephyrnet.com/*'
-  evidence: '*://zephyrnet.com/*'
+- domain: 'zephyrnet.com'
+  evidence: 'https://zephyrnet.com/ja/%E8%B3%AD%E5%8D%9A/'
   note:
 - domain: '*://www.nodenpm.com/*'
   evidence: '*://www.nodenpm.com/*'
-  note:
-- domain: '*://www.codegrepper.com/*'
-  evidence: '*://www.codegrepper.com/*'
+  note: 'closed?'
+- domain: 'codegrepper.com'
+  evidence: 'https://www.codegrepper.com/code-examples/php/How+to+Log+Query+in+Laravel'
   note:
 - domain: '*://aoteen.net/*'
   evidence: '*://aoteen.net/*'
-  note:
+  note: 'closed?'
 - domain: '*://asuka-shimizu.com/*'
   evidence: '*://asuka-shimizu.com/*'
+  note: 'closed?'
+- domain: 'bluestar-journal.com'
+  evidence: 'https://bluestar-journal.com/archives/9848'
   note:
-- domain: '*://bluestar-journal.com/*'
-  evidence: '*://bluestar-journal.com/*'
+- domain: 'brightchanging.com'
+  evidence: 'https://brightchanging.com/takedajyun-oneegiwaku'
   note:
-- domain: '*://brightchanging.com/*'
-  evidence: '*://brightchanging.com/*'
+- domain: 'chuumoku.net'
+  evidence: 'https://chuumoku.net/arisawayuki/'
   note:
-- domain: '*://chuumoku.net/*'
-  evidence: '*://chuumoku.net/*'
+- domain: 'mag-zou.com'
+  evidence: 'https://mag-zou.com/actress/17389/'
   note:
-- domain: '*://daiki-global.work/*'
-  evidence: '*://daiki-global.work/*'
+- domain: 'dricho.com'
+  evidence: 'https://dricho.com/20190616/'
   note:
-- domain: '*://dricho.com/*'
-  evidence: '*://dricho.com/*'
+- domain: 'endia.net'
+  evidence: 'https://endia.net/miyagimai'
   note:
-- domain: '*://endia.net/*'
-  evidence: '*://endia.net/*'
+- domain: 'entamescramble.com'
+  evidence: 'https://entamescramble.com/17289.html'
   note:
-- domain: '*://entamescramble.com/*'
-  evidence: '*://entamescramble.com/*'
+- domain: 'f-shirushi.com'
+  evidence: 'https://f-shirushi.com/archives/7722'
   note:
-- domain: '*://f-shirushi.com/*'
-  evidence: '*://f-shirushi.com/*'
+- domain: 'geinou-summary666.com'
+  evidence: 'https://geinou-summary666.com/7182.html'
   note:
-- domain: '*://geinou-summary666.com/*'
-  evidence: '*://geinou-summary666.com/*'
-  note:
-- domain: '*://girlschannel.net/*'
-  evidence: '*://girlschannel.net/*'
+- domain: 'girlschannel.net'
+  evidence: 'https://girlschannel.net/topics/2593428/'
   note:
 - domain: '*://hirokoluminous.com/*'
   evidence: '*://hirokoluminous.com/*'
+  note: 'closed?'
+- domain: 'hirosroom.com'
+  evidence: 'https://hirosroom.com/5025/'
   note:
-- domain: '*://hirosroom.com/*'
-  evidence: '*://hirosroom.com/*'
+- domain: 'honjitu.net'
+  evidence: 'https://honjitu.net/rizin-yaojanai'
   note:
-- domain: '*://honjitu.net/*'
-  evidence: '*://honjitu.net/*'
-  note:
-- domain: '*://kagerou-kazoku.com/*'
-  evidence: '*://kagerou-kazoku.com/*'
+- domain: 'kagerou-kazoku.com'
+  evidence: 'https://kagerou-kazoku.com/itokin'
   note:
 - domain: '*://kaikumikodaisuki.com/*'
   evidence: '*://kaikumikodaisuki.com/*'
+  note: 'closed?'
+- domain: 'minakoro.com'
+  evidence: 'https://minakoro.com/tendonnya-6505'
   note:
-- domain: '*://minakoro.com/*'
-  evidence: '*://minakoro.com/*'
+- domain: 'modern-media.net'
+  evidence: 'https://modern-media.net/archives/2295'
   note:
-- domain: '*://modern-media.net/*'
-  evidence: '*://modern-media.net/*'
+- domain: 'n2-ch.com'
+  evidence: 'https://n2-ch.com/douga/hikaru_sibata/'
   note:
-- domain: '*://n2-ch.com/*'
-  evidence: '*://n2-ch.com/*'
+- domain: 'nanairomagic.net'
+  evidence: 'https://nanairomagic.net/archives/215'
   note:
-- domain: '*://nanairomagic.net/*'
-  evidence: '*://nanairomagic.net/*'
+- domain: 'newsmatomedia.com'
+  evidence: 'https://newsmatomedia.com/nocchi'
   note:
-- domain: '*://newsmatomedia.com/*'
-  evidence: '*://newsmatomedia.com/*'
+- domain: 'nicevalue.xsrv.jp'
+  evidence: 'https://nicevalue.xsrv.jp/qol/darenogare/'
   note:
-- domain: '*://nicevalue.xsrv.jp/*'
-  evidence: '*://nicevalue.xsrv.jp/*'
+- domain: 'starblog.jp'
+  evidence: 'https://sp.starblog.jp/soccer.php'
   note:
-- domain: '*://*.starblog.jp/*'
-  evidence: '*://*.starblog.jp/*'
+- domain: 'trend-passion-life.com'
+  evidence: 'http://trend-passion-life.com/tamashirothina-who-429'
   note:
-- domain: '*://trend-passion-life.com/*'
-  evidence: '*://trend-passion-life.com/*'
+- domain: 'tekutekuweb.site'
+  evidence: 'https://tekutekuweb.site/kinashi_uta/'
   note:
-- domain: '*://tekutekuweb.site/*'
-  evidence: '*://tekutekuweb.site/*'
+- domain: 'the-jet-sleeper.com'
+  evidence: 'https://the-jet-sleeper.com/hondokaede-01/'
   note:
-- domain: '*://the-jet-sleeper.com/*'
-  evidence: '*://the-jet-sleeper.com/*'
+- domain: 'petitwings.com'
+  evidence: 'https://petitwings.com/archives/5723'
   note:
-- domain: '*://petitwings.com/*'
-  evidence: '*://petitwings.com/*'
-  note:
-- domain: '*://noh-gakudo.jp/*'
-  evidence: '*://noh-gakudo.jp/*'
+- domain: 'noh-gakudo.jp'
+  evidence: 'http://noh-gakudo.jp/keyaki46/'
   note:
 - domain: '*://omochituki.com/*'
   evidence: '*://omochituki.com/*'
+  note: 'closed?'
+- domain: 'juxtin.com'
+  evidence: 'https://www.juxtin.com/toyoetsu/'
   note:
-- domain: '*://www.juxtin.com/*'
-  evidence: '*://www.juxtin.com/*'
+- domain: 'koizumix.com'
+  evidence: 'https://www.koizumix.com/uzakichan2-anime/'
   note:
-- domain: '*://www.koizumix.com/*'
-  evidence: '*://www.koizumix.com/*'
+- domain: 'hikari-iyashi.com'
+  evidence: 'https://hikari-iyashi.com/enho/'
   note:
-- domain: '*://hikari-iyashi.com/*'
-  evidence: '*://hikari-iyashi.com/*'
+- domain: 'brandnew-s.com'
+  evidence: 'https://brandnew-s.com/2018/01/17/kumkuraakihiro/'
   note:
-- domain: '*://brandnew-s.com/*'
-  evidence: '*://brandnew-s.com/*'
+- domain: 'robamimireport.com'
+  evidence: 'https://robamimireport.com/ehomaki-hikaku/'
   note:
-- domain: '*://robamimireport.com/*'
-  evidence: '*://robamimireport.com/*'
+- domain: 'sarattosokuhou.com'
+  evidence: 'https://sarattosokuhou.com/entame/mcma/'
   note:
-- domain: '*://sarattosokuhou.com/*'
-  evidence: '*://sarattosokuhou.com/*'
+- domain: 'wezz-y.com'
+  evidence: 'https://wezz-y.com/archives/81034'
   note:
-- domain: '*://wezz-y.com/*'
-  evidence: '*://wezz-y.com/*'
-  note:
-- domain: '*://windy-windy.net/*'
-  evidence: '*://windy-windy.net/*'
+- domain: 'windy-windy.net'
+  evidence: 'https://windy-windy.net/saitokozue'
   note:
 - domain: '*://www.hachi8.me/*'
   evidence: '*://www.hachi8.me/*'
-  note:
+  note: 'closed?'
 - domain: '*://www.handtify.net/*'
   evidence: '*://www.handtify.net/*'
-  note:
+  note: 'closed?'
 - domain: '*://www.skyqzone.com/*'
   evidence: '*://www.skyqzone.com/*'
+  note: 'closed?'
+- domain: 'xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com'
+  evidence: 'https://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/page/8/'
   note:
-- domain: '*://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/*'
-  evidence: '*://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/*'
+- domain: 'xn--u9j5h1btf1ez99qnszei5c8ws.com'
+  evidence: 'https://xn--u9j5h1btf1ez99qnszei5c8ws.com/ayatatakeshi/'
   note:
-- domain: '*://xn--u9j5h1btf1ez99qnszei5c8ws.com/*'
-  evidence: '*://xn--u9j5h1btf1ez99qnszei5c8ws.com/*'
+- domain: 'yuyufirst.com'
+  evidence: 'https://yuyufirst.com/trend/5677/'
   note:
-- domain: '*://yuyufirst.com/*'
-  evidence: '*://yuyufirst.com/*'
+- domain: 'blog.livedoor.jp/aoba_f/'
+  evidence: 'http://blog.livedoor.jp/aoba_f/archives/57386067.html'
   note:
-- domain: '*://blog.livedoor.jp/aoba_f/*'
-  evidence: '*://blog.livedoor.jp/aoba_f/*'
+- domain: 'narinari.com'
+  evidence: 'https://clip.narinari.com/2020/07/10/3489/'
   note:
-- domain: '*://*.narinari.com/*'
-  evidence: '*://*.narinari.com/*'
+- domain: 'aumo.jp'
+  evidence: 'https://aumo.jp/articles/155142'
   note:
-- domain: '*://aumo.jp/*'
-  evidence: '*://aumo.jp/*'
-  note:
-- domain: '*://sakumaga.sakura.ad.jp/'
-  evidence: '*://sakumaga.sakura.ad.jp/'
+- domain: 'sakumaga.sakura.ad.jp'
+  evidence: 'https://sakumaga.sakura.ad.jp/entry/izumida'
   note:
 - domain: '*://genroq.jp/*'
   evidence: '*://genroq.jp/*'
-  note:
+  note: 'closed?'
 - domain: '*://autosalon.tokyo/*'
   evidence: '*://autosalon.tokyo/*'
-  note:
-- domain: '*://bokuslog.com/*'
-  evidence: '*://bokuslog.com/*'
+  note: 'closed?'
+- domain: 'bokuslog.com'
+  evidence: 'https://bokuslog.com/onishi-takuma-art-8018'
   note:
 - domain: '*://buzzmag.jp/*'
   evidence: '*://buzzmag.jp/*'
+  note: 'closed?'
+- domain: 'ytranking.net'
+  evidence: 'https://yutura.net/news/archives/84206'
   note:
-- domain: '*://www.furusato-s.co.jp/*'
-  evidence: '*://www.furusato-s.co.jp/*'
+- domain: 'sirabee.com'
+  evidence: 'https://sirabee.com/2022/09/10/20162935126/'
   note:
-- domain: '*://ytranking.net/*'
-  evidence: '*://ytranking.net/*'
+- domain: 'fumumu.net'
+  evidence: 'https://fumumu.net/363074/'
   note:
-- domain: '*://sirabee.com/*'
-  evidence: '*://sirabee.com/*'
+- domain: 'maipenraika.com'
+  evidence: 'https://maipenraika.com/okanekubariojisan/2422/'
   note:
-- domain: '*://fumumu.net/*'
-  evidence: '*://fumumu.net/*'
+- domain: 'yutakanahibi.com'
+  evidence: 'https://yutakanahibi.com/news/4553/'
   note:
-- domain: '*://maipenraika.com/*'
-  evidence: '*://maipenraika.com/*'
+- domain: 'jcc.jp'
+  evidence: 'https://jcc.jp/news/18917425/'
   note:
-- domain: '*://yutakanahibi.com/*'
-  evidence: '*://yutakanahibi.com/*'
+- domain: 'portalfield.com'
+  evidence: 'https://portalfield.com/news/hobby/674743'
   note:
-- domain: '*://jcc.jp/*'
-  evidence: '*://jcc.jp/*'
+- domain: 'share-mika.jp'
+  evidence: 'https://share-mika.jp/2022/08/31/%e5%9c%9f%e6%98%9f%e3%81%af%e5%bf%83%e8%87%93%e3%81%ab%e6%af%9b%e3%82%92%e7%94%9f%e3%82%84%e3%81%99%e3%81%9f%e3%82%81/'
   note:
-- domain: '*://portalfield.com/*'
-  evidence: '*://portalfield.com/*'
+- domain: 'alfalfalfa.com'
+  evidence: 'http://alfalfalfa.com/articles/314742.html&fedorefe='
   note:
-- domain: '*://share-mika.jp/*'
-  evidence: '*://share-mika.jp/*'
+- domain: 'headtopics.com'
+  evidence: 'https://headtopics.com/jp/309283000012398896879-31172852'
   note:
-- domain: '*://fedo.me/*'
-  evidence: '*://fedo.me/*'
+- domain: 'onewordblog-maison.com'
+  evidence: 'https://onewordblog-maison.com/archives/1021'
   note:
-- domain: '*://headtopics.com/*'
-  evidence: '*://headtopics.com/*'
+- domain: 'chht7.com'
+  evidence: 'https://chht7.com/?p=4240'
   note:
-- domain: '*://onewordblog-maison.com/*'
-  evidence: '*://onewordblog-maison.com/*'
+- domain: 'f-frontier.com'
+  evidence: 'https://anime.f-frontier.com/2022/10/28/45993/'
   note:
-- domain: '*://chht7.com/*'
-  evidence: '*://chht7.com/*'
+- domain: 'matomame.jp'
+  evidence: 'https://game.matomame.jp/user/moepapa/513975fc02341f5067c5'
   note:
-- domain: '*://*.f-frontier.com/*'
-  evidence: '*://*.f-frontier.com/*'
+- domain: 'esuteru.com'
+  evidence: 'http://blog.esuteru.com/archives/9937025.html'
   note:
-- domain: '*://matomame.jp/*'
-  evidence: '*://matomame.jp/*'
+- domain: 'twtimez.net'
+  evidence: 'http://www.twtimez.net/history/history1556203500148858881.html'
   note:
-- domain: '*://*.esuteru.com/*'
-  evidence: '*://*.esuteru.com/*'
+- domain: 'naonews.jp'
+  evidence: 'https://naonews.jp/5955'
   note:
-- domain: '*://www.twtimez.net/*'
-  evidence: '*://www.twtimez.net/*'
+- domain: 'matomedane.jp'
+  evidence: 'https://matomedane.jp/page/99803'
   note:
-- domain: '*://naonews.jp/*'
-  evidence: '*://naonews.jp/*'
+- domain: 'jin115.com'
+  evidence: 'http://jin115.com/archives/52357079.html*'
   note:
-- domain: '*://matomedane.jp/*'
-  evidence: '*://matomedane.jp/*'
+- domain: 'hostlove.com'
+  evidence: 'https://news.hostlove.com/view.cgi?a=kyusyu&topic_id=123293&topic_num=20220324183928'
   note:
-- domain: '*://jin115.com/*'
-  evidence: '*://jin115.com/*'
+- domain: 'twicolle-plus.com'
+  evidence: 'https://twicolle-plus.com/articles/727732'
   note:
-- domain: '*://*.hostlove.com/*'
-  evidence: '*://*.hostlove.com/*'
+- domain: 'career-find.jp'
+  evidence: 'https://career-find.jp/archives/601379'
   note:
-- domain: '*://twicolle.com/*'
-  evidence: '*://twicolle.com/*'
+- domain: 'entertainment-topics.jp'
+  evidence: 'https://entertainment-topics.jp/148829'
   note:
-- domain: '*://career-find.jp/*'
-  evidence: '*://career-find.jp/*'
-  note:
-- domain: '*://entertainment-topics.jp/*'
-  evidence: '*://entertainment-topics.jp/*'
-  note:
-- domain: '*://leisurego.jp/*'
-  evidence: '*://leisurego.jp/*'
+- domain: 'leisurego.jp'
+  evidence: 'https://leisurego.jp/archives/351989'
   note:
 - domain: '*://alpy-alpy.net/*'
   evidence: '*://alpy-alpy.net/*'
+  note: 'closed?'
+- domain: 'sn-jp.com'
+  evidence: 'https://sn-jp.com/archives/84851'
   note:
-- domain: '*://sn-jp.com/*'
-  evidence: '*://sn-jp.com/*'
+- domain: 'announcer-news.com'
+  evidence: 'https://announcer-news.com/terakawashunpei'
   note:
-- domain: '*://announcer-news.com/*'
-  evidence: '*://announcer-news.com/*'
+- domain: 'logtube.jp'
+  evidence: 'https://logtube.jp/entertainment/108211'
   note:
-- domain: '*://www.paimise.com/*'
-  evidence: '*://www.paimise.com/*'
-  note:
-- domain: '*://logtube.jp/*'
-  evidence: '*://logtube.jp/*'
-  note:
-- domain: '*://kenny01.com/*'
-  evidence: '*://kenny01.com/*'
+- domain: 'kenny01.com'
+  evidence: 'https://kenny01.com/midorikun/'
   note:
 - domain: '*://kira-hamham.com/*'
   evidence: '*://kira-hamham.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://toreosa.green/*'
   evidence: '*://toreosa.green/*'
+  note: 'closed?'
+- domain: 'suntoranosuke.com'
+  evidence: 'https://suntoranosuke.com/befirst-buzz-rhythm-2021/'
   note:
-- domain: '*://suntoranosuke.com/*'
-  evidence: '*://suntoranosuke.com/*'
+- domain: 'aidoly.net'
+  evidence: 'https://aidoly.net/I0004197'
   note:
-- domain: '*://aidoly.net/*'
-  evidence: '*://aidoly.net/*'
+- domain: 'tsuiran.jp'
+  evidence: 'https://tsuiran.jp/pickup/20221026/23695'
   note:
-- domain: '*://science-festa.jp/*'
-  evidence: '*://science-festa.jp/*'
+- domain: 'media-freak.jp'
+  evidence: 'https://media-freak.jp/2021/11/22/post-3072/'
   note:
-- domain: '*://japancourse.com/*'
-  evidence: '*://japancourse.com/*'
+- domain: 'myprivatecomedy.net'
+  evidence: 'https://www.myprivatecomedy.net/entry/about-movie-la-confidential'
   note:
-- domain: '*://tsuiran.jp/*'
-  evidence: '*://tsuiran.jp/*'
+- domain: 'free-workstyle.com'
+  evidence: 'https://free-workstyle.com/archives/434'
   note:
-- domain: '*://media-freak.jp/*'
-  evidence: '*://media-freak.jp/*'
+- domain: 'bookservice.jp'
+  evidence: 'https://www.bookservice.jp/2021/03/26/post-45821/'
   note:
-- domain: '*://free-workstyle.com/*'
-  evidence: '*://free-workstyle.com/*'
+- domain: 'monokuro0210.com'
+  evidence: 'https://monokuro0210.com/pcr-child/'
   note:
-- domain: '*://www.bookservice.jp/*'
-  evidence: '*://www.bookservice.jp/*'
+- domain: 'sejuku.net'
+  evidence: 'https://www.sejuku.net/blog/45745'
   note:
-- domain: '*://monokuro0210.com/*'
-  evidence: '*://monokuro0210.com/*'
+- domain: 'ceron.jp'
+  evidence: 'https://ceron.jp/url/mainichi.jp/articles/20221029/k00/00m/040/009000c'
   note:
-- domain: '*://www.sejuku.net/*'
-  evidence: '*://www.sejuku.net/*'
-  note:
-- domain: '*://ceron.jp/*'
-  evidence: '*://ceron.jp/*'
-  note:
-- domain: '*://techacademy.jp/*'
-  evidence: '*://techacademy.jp/*'
+- domain: 'techacademy.jp'
+  evidence: 'https://magazine.techacademy.jp/magazine/16050'
   note:
 - domain: '*://newshareing.com/*'
   evidence: '*://newshareing.com/*'
-  note:
-- domain: '*://japaneseclass.jp/*'
-  evidence: '*://japaneseclass.jp/*'
-  note:
-- domain: '*://www.bousaid.com/*'
-  evidence: '*://www.bousaid.com/*'
+  note: 'closed?'
+- domain: 'bousaid.com'
+  evidence: 'https://www.bousaid.com/%e6%a8%aa%e6%b5%9c%e3%81%a7%e3%81%ae%e5%ae%bf%e6%b3%8a%e3%81%8c%e6%9c%80%e5%a4%a760%ef%bc%85%e5%89%b2%e5%bc%95%e3%81%ae%e3%80%8cfind-your-yokohama-%e7%ac%ac4%e5%bc%be%e3%80%8d%e3%81%8c11%e6%9c%88/'
   note:
 - domain: '*://download-campaign.com/*'
   evidence: '*://download-campaign.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://programmerstart.com/*'
   evidence: '*://programmerstart.com/*'
+  note: 'closed?'
+- domain: 'moov.ooo'
+  evidence: 'https://moov.ooo/article/5eb253713b38e72f99af44c6?src=ranking&num=1'
   note:
-- domain: '*://*.gpoint.co.jp/*'
-  evidence: '*://*.gpoint.co.jp/*'
+- domain: 'bp-guide.jp'
+  evidence: 'https://bp-guide.jp/AX5Ga6Lx'
   note:
-- domain: '*://moov.ooo/*'
-  evidence: '*://moov.ooo/*'
+- domain: 'ranking.goo.ne.jp'
+  evidence: 'https://ranking.goo.ne.jp/column/7768/'
   note:
-- domain: '*://bp-guide.jp/*'
-  evidence: '*://bp-guide.jp/*'
+- domain: 'cojicaji.jp'
+  evidence: 'https://cojicaji.jp/laundry/how-to-wash/934'
   note:
-- domain: '*://ranking.goo.ne.jp/*'
-  evidence: '*://ranking.goo.ne.jp/*'
+- domain: 'kinarino.jp'
+  evidence: '*https://kinarino.jp/cat1/13564'
   note:
-- domain: '*://cojicaji.jp/*'
-  evidence: '*://cojicaji.jp/*'
+- domain: 'smartlog.jp'
+  evidence: 'https://smartlog.jp/218071'
   note:
-- domain: '*://kinarino.jp/*'
-  evidence: '*://kinarino.jp/*'
+- domain: 'osusume.mynavi.jp'
+  evidence: 'https://osusume.mynavi.jp/articles/88/'
   note:
-- domain: '*://macaro-ni.jp/*'
-  evidence: '*://macaro-ni.jp/*'
+- domain: 'komono.me'
+  evidence: 'https://komono.me/892166'
   note:
-- domain: '*://esse-online.jp/*'
-  evidence: '*://esse-online.jp/*'
+- domain: 'mamari.jp'
+  evidence: 'https://mamari.jp/6269'
   note:
-- domain: '*://smartlog.jp/*'
-  evidence: '*://smartlog.jp/*'
+- domain: 'iecolle.com'
+  evidence: 'https://iecolle.com/P00PA9C7TC/'
   note:
-- domain: '*://www.o-uccino.jp/*'
-  evidence: '*://www.o-uccino.jp/*'
+- domain: 'heim.jp'
+  evidence: 'https://heim.jp/magazine/7195718'
   note:
-- domain: '*://osusume.mynavi.jp/*'
-  evidence: '*://osusume.mynavi.jp/*'
+- domain: 'smashop.jp'
+  evidence: 'https://smashop.jp/dp/4535164029575'
   note:
-- domain: '*://komono.me/*'
-  evidence: '*://komono.me/*'
-  note:
-- domain: '*://yourmystar.jp/*'
-  evidence: '*://yourmystar.jp/*'
-  note:
-- domain: '*://mamari.jp/*'
-  evidence: '*://mamari.jp/*'
-  note:
-- domain: '*://iecolle.com/*'
-  evidence: '*://iecolle.com/*'
-  note:
-- domain: '*://heim.jp/*'
-  evidence: '*://heim.jp/*'
-  note:
-- domain: '*://smashop.jp/*'
-  evidence: '*://smashop.jp/*'
-  note:
-- domain: '*://sakidori.co/*'
-  evidence: '*://sakidori.co/*'
+- domain: 'sakidori.co'
+  evidence: 'https://sakidori.co/article/560594'
   note:
 - domain: '*://osusume.excite.co.jp/*'
   evidence: '*://osusume.excite.co.jp/*'
+  note: 'closed'
+- domain: 'bg-mania.jp'
+  evidence: 'https://bg-mania.jp/2022/10/29516496.html'
   note:
-- domain: '*://bg-mania.jp/*'
-  evidence: '*://bg-mania.jp/*'
+- domain: 'xn--nckxbf7qx37l79c.com'
+  evidence: 'https://xn--nckxbf7qx37l79c.com/%E8%AA%BF%E5%91%B3%E6%96%99/%E3%81%8A%E5%88%BA%E8%BA%AB%E3%81%AB%E5%90%88%E3%81%86%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E9%86%A4%E6%B2%B9/'
   note:
-- domain: '*://xn--nckxbf7qx37l79c.com/*'
-  evidence: '*://xn--nckxbf7qx37l79c.com/*'
+- domain: 'feizeus.com'
+  evidence: 'https://feizeus.com/unoshoma-niteruhito/'
   note:
-- domain: '*://feizeus.com/*'
-  evidence: '*://feizeus.com/*'
+- domain: 'anincline.com'
+  evidence: 'https://anincline.com/ohkura-shimon-2/'
   note:
-- domain: '*://anincline.com/*'
-  evidence: '*://anincline.com/*'
+- domain: 'mybouzu.info'
+  evidence: 'http://mybouzu.info/entertainment/who-is-maikos-husband'
   note:
-- domain: '*://mybouzu.info/*'
-  evidence: '*://mybouzu.info/*'
+- domain: 'satsueijoshikai.com'
+  evidence: 'https://savethecinema.jp/firststar/672/'
   note:
-- domain: '*://satsueijoshikai.com/*'
-  evidence: '*://satsueijoshikai.com/*'
+- domain: 'javelinmitsu.com'
+  evidence: 'https://javelinmitsu.com/abwameiae/'
   note:
-- domain: '*://javelinmitsu.com/*'
-  evidence: '*://javelinmitsu.com/*'
+- domain: 'sandarukoko.com'
+  evidence: 'https://sandarukoko.com/2021/10/06/post-4734/'
   note:
-- domain: '*://www.sandarukoko.com/*'
-  evidence: '*://www.sandarukoko.com/*'
+- domain: 'lanikainahele.com'
+  evidence: 'https://lanikainahele.com/?p=26416'
   note:
-- domain: '*://lanikainahele.com/*'
-  evidence: '*://lanikainahele.com/*'
+- domain: 'next-infonews.com'
+  evidence: 'https://next-infonews.com/news/43990/'
   note:
-- domain: '*://next-infonews.com/*'
-  evidence: '*://next-infonews.com/*'
+- domain: 'parupunte-life.com'
+  evidence: 'https://parupunte-life.com/archives/25169'
   note:
-- domain: '*://parupunte-life.com/*'
-  evidence: '*://parupunte-life.com/*'
+- domain: 'mikobito.com'
+  evidence: 'https://mikobito.com/satojyuniti-taiho/'
   note:
-- domain: '*://mikobito.com/*'
-  evidence: '*://mikobito.com/*'
+- domain: 'rubese.net'
+  evidence: 'https://rubese.net/twisoq/index.php?id=417737'
   note:
-- domain: '*://rubese.net/*'
-  evidence: '*://rubese.net/*'
+- domain: 'miyearnzzlabo.com'
+  evidence: 'https://miyearnzzlabo.com/archives/92915'
   note:
-- domain: '*://miyearnzzlabo.com/*'
-  evidence: '*://miyearnzzlabo.com/*'
+- domain: 'coron.tech'
+  evidence: 'https://coron.tech/news/youtube-4k-video-premium-only/'
   note:
-- domain: '*://www.tumbex.com/*'
-  evidence: '*://www.tumbex.com/*'
-  note:
-- domain: '*://coron.tech/*'
-  evidence: '*://coron.tech/*'
-  note:
-- domain: '*://thenewsdoctors.com/*'
-  evidence: '*://thenewsdoctors.com/*'
+- domain: 'thenewsdoctors.com'
+  evidence: 'https://thenewsdoctors.com/956/'
   note:
 - domain: '*://ichi.pro/*'
   evidence: '*://ichi.pro/*'
-  note:
-- domain: '*://www.laplascale.com/*'
-  evidence: '*://www.laplascale.com/*'
+  note: 'closed?'
+- domain: 'laplascale.com'
+  evidence: 'https://www.laplascale.com/sp/page-review/3996-4164224846256441/'
   note:
 - domain: '/([a-z\.]+\.)?tech-wiki\.online/'
   evidence: '/([a-z\.]+\.)?tech-wiki\.online/'
   note:
-- domain: '*://fogsbane.dev/*'
-  evidence: '*://fogsbane.dev/*'
+- domain: 'fogsbane.dev'
+  evidence: 'https://fogsbane.dev/ja/q/e561fce1c4bb7f76a89193247691fdf1602a83333bc4148f8b0e60c879642777'
   note:
 - domain: '*://stormcrow.dev/*'
   evidence: '*://stormcrow.dev/*'
+  note: 'closed'
+- domain: 'codegear.dev'
+  evidence: 'https://codegear.dev/ja/docs/671eb9f9da4d71be9d764a9d20884734f8a01b8049f4d459ddc1ce7aa9155e19'
   note:
-- domain: '*://codegear.dev/*'
-  evidence: '*://codegear.dev/*'
-  note:
-- domain: '*://melkia.dev/*'
-  evidence: '*://melkia.dev/*'
+- domain: 'melkia.dev'
+  evidence: 'https://melkia.dev/ja/docs/b63fc8c3c15667cf4702d99cd396cabcc90899191c58b5bcaf76a15b38b25aa5'
   note:
 - domain: '*://classmethod.dev/*'
   evidence: '*://classmethod.dev/*'
-  note:
-- domain: '*://answer-id.com/*'
-  evidence: '*://answer-id.com/*'
+  note: 'closed'
+- domain: 'answer-id.com'
+  evidence: 'https://de-vraag.com/ja/71822933'
   note:
 - domain: '*://lycaeum.dev/*'
   evidence: '*://lycaeum.dev/*'
+  note: 'closed'
+- domain: 'kaworu.jpn.org'
+  evidence: 'https://kaworu.jpn.org/kaworu/2020-04-13-1.php'
   note:
-- domain: '*://kaworu.jpn.org/*'
-  evidence: '*://kaworu.jpn.org/*'
+- domain: 'minitool.com'
+  evidence: 'https://videoconvert.minitool.com/'
   note:
-- domain: '*://*.minitool.com/*'
-  evidence: '*://*.minitool.com/*'
+- domain: 'tipstour.net'
+  evidence: 'https://tipstour.net/excel-x-avedev'
   note:
-- domain: '*://tipstour.net/*'
-  evidence: '*://tipstour.net/*'
+- domain: 'mikasaphp.net'
+  evidence: 'https://mikasaphp.net/avidemux.html'
   note:
-- domain: '*://mikasaphp.net/*'
-  evidence: '*://mikasaphp.net/*'
+- domain: 'johobase.com'
+  evidence: 'https://johobase.com/sass-import/'
   note:
-- domain: '*://johobase.com/*'
-  evidence: '*://johobase.com/*'
+- domain: 'narkive.jp'
+  evidence: 'https://interpersonal.narkive.jp/17uoVbhA/so'
   note:
-- domain: '*://*.narkive.jp/'
-  evidence: '*://*.narkive.jp/'
+- domain: 'narkive.com'
+  evidence: 'https://microsoft.public.jp.excel.narkive.com/Z3SUSQAL'
   note:
-- domain: '/([a-z\.]+\.)?narkive\.com/'
-  evidence: '/([a-z\.]+\.)?narkive\.com/'
+- domain: 'thefastcode.com'
+  evidence: 'https://www.thefastcode.com/ja-jpy/article/new-windows-zero-day-grants-local-admin-access'
   note:
-- domain: '/([a-z\.]+\.)?thefastcode\.com/'
-  evidence: '/([a-z\.]+\.)?thefastcode\.com/'
+- domain: 'atsit.in'
+  evidence: 'https://kpopnews.atsit.in/2022/03/25/%EC%82%AC%EC%BF%A0%EB%9D%BC%E2%86%92%EA%B9%80%EC%B1%84%EC%9B%90-%EB%8D%B0%EB%B7%94-%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4-%ED%95%98%EC%9D%B4%EB%B8%8C-%EC%B5%9C%EC%B4%88-%EA%B1%B8%EA%B7%B8/'
   note:
-- domain: '*://*.atsit.in/*'
-  evidence: '*://*.atsit.in/*'
-  note:
-- domain: '*://forsenergy.com/*'
-  evidence: '*://forsenergy.com/*'
+- domain: 'forsenergy.com'
+  evidence: 'https://forsenergy.com/ja-jp/adam/'
   note:
 - domain: '*://www.guide-faq.com/*'
   evidence: '*://www.guide-faq.com/*'
+  note: 'closed'
+- domain: 'fenet.jp'
+  evidence: 'https://www.fenet.jp/dotnet/column/language/7709/'
   note:
-- domain: '*://www.fenet.jp/*'
-  evidence: '*://www.fenet.jp/*'
+- domain: 'itlab51.com'
+  evidence: 'https://www.itlab51.com/?p=18218'
   note:
-- domain: '*://www.itlab51.com/*'
-  evidence: '*://www.itlab51.com/*'
+- domain: 'step-learn.com'
+  evidence: 'https://step-learn.com/article/html-css/index.html'
   note:
-- domain: '/([a-z\.]+\.)?step-learn\.com/'
-  evidence: '/([a-z\.]+\.)?step-learn\.com/'
+- domain: 'tombouctou-food.com'
+  evidence: 'https://tombouctou-food.com/ja/ja145127/'
   note:
-- domain: '*://www.esquire.com/*'
-  evidence: '*://www.esquire.com/*'
+- domain: 'rssing.com'
+  evidence: 'https://www.rssing.com/contact.php'
   note:
-- domain: '*://tombouctou-food.com/*'
-  evidence: '*://tombouctou-food.com/*'
+- domain: 'mbcnet.org'
+  evidence: 'https://mbcnet.org/introduction-password-less-authentication-ciso-guide/'
   note:
-- domain: '*://*.rssing.com/*'
-  evidence: '*://*.rssing.com/*'
+- domain: 'morioh.com'
+  evidence: 'https://morioh.com/topic/angular'
   note:
-- domain: '*://mbcnet.org/*'
-  evidence: '*://mbcnet.org/*'
+- domain: 'websetnet.net'
+  evidence: 'https://websetnet.net/ja/ubuntu-20-04%E3%81%AB%E3%83%8E%E3%83%BC%E3%83%89js%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/'
   note:
-- domain: '*://morioh.com/*'
-  evidence: '*://morioh.com/*'
-  note:
-- domain: '*://websetnet.net/*'
-  evidence: '*://websetnet.net/*'
-  note:
-- domain: '*://neuf.tv/*'
-  evidence: '*://neuf.tv/*'
+- domain: 'neuf.tv'
+  evidence: 'https://www.neuf.tv/ja/%E3%83%90%E3%82%A4%E3%83%87%E3%83%B3%E7%A4%BE%E9%95%B7%E3%81%8C%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%81%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%E5%90%91%E3%81%913nm%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%89%E3%82%92%E6%A4%9C%E8%A8%8E'
   note:
 - domain: '*://*.anatol.one/*'
   evidence: '*://*.anatol.one/*'
-  note:
+  note: 'closed'
 - domain: '*://koenjapan.com/*'
   evidence: '*://koenjapan.com/*'
+  note: 'closed'
+- domain: 'fibjs.org'
+  evidence: 'https://fibjs.org/ja/docs/awesome/readme.md.html'
   note:
-- domain: '*://fibjs.org/*'
-  evidence: '*://fibjs.org/*'
-  note:
-- domain: '*://www.wenyanet.com/*'
-  evidence: '*://www.wenyanet.com/*'
+- domain: 'wenyanet.com'
+  evidence: 'https://www.wenyanet.com/d/146-raspberry-pi-deisariamunohuru-nodowogou-zhu-suruniha-donokurainofei-yong-gakakarimasuka'
   note:
 - domain: '*://coder-question.com/*'
   evidence: '*://coder-question.com/*'
-  note:
+  note: 'closed?'
 - domain: '*://*.flowzen.net/*'
   evidence: '*://*.flowzen.net/*'
+  note: 'closed?'
+- domain: 'joecomp.com'
+  evidence: 'https://ja.joecomp.com/how-install-yarn-centos-7'
   note:
-- domain: '*://*.joecomp.com/*'
-  evidence: '*://*.joecomp.com/*'
-  note:
-- domain: '*://tech-ja.netlify.app/*'
-  evidence: '*://tech-ja.netlify.app/*'
+- domain: 'tech-ja.netlify.app'
+  evidence: 'https://tech-ja.netlify.app/articles/ja508758/index.html'
   note:
 - domain: '/([a-z\.]+\.)?japanrow\.com/'
   evidence: '/([a-z\.]+\.)?japanrow\.com/'
+  note: 'closed'
+- domain: 'codetd.com'
+  evidence: 'https://www.codetd.com/ja/article/14542314'
   note:
-- domain: '/([a-z\.]+\.)?codetd\.com/'
-  evidence: '/([a-z\.]+\.)?codetd\.com/'
+- domain: 'admx.help'
+  evidence: 'https://admx.help/?Category=KB160177&Policy=FullArmor.Policies.44FC7F4B_FEF4_4954_957F_96F9748401D5::NetBIOSNodeType'
   note:
-- domain: '/([a-z\.]+\.)?admx\.help/'
-  evidence: '/([a-z\.]+\.)?admx\.help/'
+- domain: 'manualzz.com'
+  evidence: 'https://manualzz.com/doc/4775777/spectralwave-u-node-bbm-%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0---%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97'
   note:
-- domain: '/([a-z\.]+\.)?manualzz\.com/'
-  evidence: '/([a-z\.]+\.)?manualzz\.com/'
+- domain: 'techfeed.io'
+  evidence: 'https://techfeed.io/channels/Node.js'
   note:
-- domain: '/([a-z\.]+\.)?techfeed\.io/'
-  evidence: '/([a-z\.]+\.)?techfeed\.io/'
+- domain: 'manuals.plus'
+  evidence: 'https://manuals.plus/ja/tag/node'
   note:
-- domain: '/([a-z\.]+\.)?manuals\.plus/'
-  evidence: '/([a-z\.]+\.)?manuals\.plus/'
+- domain: 'getdocs.org'
+  evidence: 'https://ja.getdocs.org/how-to-use-npm-to-manage-node-js-packages-on-a-linux-server'
   note:
-- domain: '/([a-z\.]+\.)?getdocs\.org/'
-  evidence: '/([a-z\.]+\.)?getdocs\.org/'
+- domain: 'techiedelight.com'
+  evidence: 'https://www.techiedelight.com/ja/determine-key-exists-javascript-object/'
   note:
-- domain: '/([a-z\.]+\.)?techiedelight\.com/'
-  evidence: '/([a-z\.]+\.)?techiedelight\.com/'
-  note:
-- domain: '/([a-z\.]+\.)?ipingguoyuan\.com/'
-  evidence: '/([a-z\.]+\.)?ipingguoyuan\.com/'
+- domain: 'ipingguoyuan.com'
+  evidence: 'https://www.ipingguoyuan.com/pl/app/io.spck.editor.node'
   note:
 - domain: '/([a-z\.]+\.)?geekloving\.net/'
   evidence: '/([a-z\.]+\.)?geekloving\.net/'
-  note:
+  note: 'closed'
 - domain: '/([a-z\.]+\.)?stepsboard\.com/'
   evidence: '/([a-z\.]+\.)?stepsboard\.com/'
+  note: 'closed'
+- domain: 'partitionwizard.jp'
+  evidence: 'https://www.partitionwizard.jp/clone-disk/signs-of-hard-drive-failure.html'
   note:
-- domain: '/([a-z\.]+\.)?partitionwizard\.jp/'
-  evidence: '/([a-z\.]+\.)?partitionwizard\.jp/'
+- domain: 'desdelinux.net'
+  evidence: 'https://blog.desdelinux.net/ja/node-js-13%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/'
   note:
-- domain: '/([a-z\.]+\.)?desdelinux\.net/'
-  evidence: '/([a-z\.]+\.)?desdelinux\.net/'
+- domain: 'mspoweruser.com'
+  evidence: 'https://mspoweruser.com/ja/microsoft-announces-experimental-support-node-chakracore-macos/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+msftnws+%28Microsoft+News%29'
   note:
-- domain: '/([a-z\.]+\.)?mspoweruser\.com/'
-  evidence: '/([a-z\.]+\.)?mspoweruser\.com/'
+- domain: 'kanmuryou.com'
+  evidence: 'https://shop.kanmuryou.com/camera/?genre=%E4%B8%89%E8%84%9A'
   note:
-- domain: '/([a-z\.]+\.)?daily-gadget\.net/'
-  evidence: '/([a-z\.]+\.)?daily-gadget\.net/'
+- domain: 'skinandxxx.com'
+  evidence: 'https://skinandxxx.com/comdot-annualincome/'
   note:
-- domain: '/([a-z\.]+\.)?butsuyoku-gadget\.com/'
-  evidence: '/([a-z\.]+\.)?butsuyoku-gadget\.com/'
+- domain: '5ch.net'
+  evidence: 'https://asahi.5ch.net/newsplus/'
   note:
-- domain: '/([a-z\.]+\.)?telektlist\.com/'
-  evidence: '/([a-z\.]+\.)?telektlist\.com/'
+- domain: 'ula.cc'
+  evidence: 'http://bintan.ula.cc/2ch/comicnews/'
   note:
-- domain: '/([a-z\.]+\.)?sumahoinfo\.net/'
-  evidence: '/([a-z\.]+\.)?sumahoinfo\.net/'
+- domain: 'pic2.icu'
+  evidence: 'http://ja.pic2.icu/r/php/1501071071/'
   note:
-- domain: '/([a-z\.]+\.)?kanmuryou\.com/'
-  evidence: '/([a-z\.]+\.)?kanmuryou\.com/'
+- domain: '2ch.sc'
+  evidence: 'http://toro.2ch.sc/test/read.cgi/tech/1582906877/l50'
   note:
-- domain: '/([a-z\.]+\.)?skinandxxx\.com/'
-  evidence: '/([a-z\.]+\.)?skinandxxx\.com/'
+- domain: '5chb.net'
+  evidence: 'http://5chb.net/2ch/hibari.2ch.net/hack/1620984411/'
   note:
-- domain: '/([a-z\.]+\.)?shigedosicks\.net/'
-  evidence: '/([a-z\.]+\.)?shigedosicks\.net/'
+- domain: 'janestyle.net'
+  evidence: 'https://janestyle.net/search/JavaScript'
   note:
-- domain: '/([a-z\.]+\.)?5ch\.net/'
-  evidence: '/([a-z\.]+\.)?5ch\.net/'
+- domain: '2nn.jp'
+  evidence: 'https://www.2nn.jp/news4plus/'
   note:
-- domain: '/([a-z\.]+\.)?ula\.cc/'
-  evidence: '/([a-z\.]+\.)?ula\.cc/'
-  note:
-- domain: '/([a-z\.]+\.)?pic2\.icu/'
-  evidence: '/([a-z\.]+\.)?pic2\.icu/'
-  note:
-- domain: '/([a-z\.]+\.)?2ch\.sc/'
-  evidence: '/([a-z\.]+\.)?2ch\.sc/'
-  note:
-- domain: '/([a-z\.]+\.)?5chb\.net/'
-  evidence: '/([a-z\.]+\.)?5chb\.net/'
-  note:
-- domain: '/([a-z\.]+\.)?janestyle\.net/'
-  evidence: '/([a-z\.]+\.)?janestyle\.net/'
-  note:
-- domain: '/([a-z\.]+\.)?2nn\.jp/'
-  evidence: '/([a-z\.]+\.)?2nn\.jp/'
-  note:
-- domain: '/([a-z\.]+\.)?img4\.cam/'
-  evidence: '/([a-z\.]+\.)?img4\.cam/'
-  note:
+- domain: 'de-vraag.com'
+  evidence: 'https://de-vraag.com/ja/68376548'
+  :note:
