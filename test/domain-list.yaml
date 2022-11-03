@@ -1,12 +1,21 @@
 - domain: 'living-sun.com'
   evidence: 'https://living-sun.com/ja/winapi/854228-findfirstfileex-wildcard-characters-winapi.html'
-  note:
+  note: 'standard'
 - domain: 'qastack.jp'
   evidence: 'https://qastack.jp/travel/25667/is-there-any-region-island-mountain-or-village-in-japan-known-for-hot-spicy-local-cuisine'
-  note:
+  note: 'long url'
 - domain: 'blog.livedoor.jp/aoba_f/'
   evidence: 'http://blog.livedoor.jp/aoba_f/archives/57386067.html'
-  note:
+  note: 'example.com/path-to-here/'
 - domain: 'xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com'
   evidence: 'https://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/page/8/'
-  note:
+  note: 'Japanese language domain'
+- domain: '/\w+\.it-swarm-\w+\.\w+/'
+  evidence: '/\w+\.it-swarm-\w+\.\w+/'
+  note: 'miss spelling url'
+- domain: 'javaer101.com'
+  evidence: 'https://www.javaer101.com/ja/article/41223939.html'
+  note: 'server not found'
+- domain: 'filecr.com'
+  evidence: 'https://filecr.com/windows/vovsoft-keystroke-visualizer/'
+  note: 'SSL failed'
