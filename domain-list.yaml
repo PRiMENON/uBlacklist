@@ -34,7 +34,7 @@
 - domain: 'riptutorial.com'
   evidence: 'https://riptutorial.com/phpunit'
   note:
-- domain: '*://steakrecords.com/*'
+- domain: 'steakrecords.com'
   evidence: 'https://steakrecords.com/ja/582729-how-to-reduce-3color-to-3sat-np-complete-reduction.html'
   note: 'redirect => belia-glp.com (Malicious site)'
 - domain: 'javaer101.com'
@@ -108,7 +108,7 @@
   note: 'malicious site ds6.biz'
 - domain: '*://onlyhow.net/*'
   evidence: '*://onlyhow.net/*'
-  note:
+  note: 'closed?'
 - domain: 'ciksiti.com'
   evidence: 'https://ciksiti.com/es/chapters/10360-list-iterator-c'
   note:
@@ -142,8 +142,8 @@
 - domain: 'nixnet.services'
   evidence: 'https://git.nixnet.services/mirrors/mastodon'
   note:
-- domain: '*://archive.md/*'
-  evidence: '*://archive.md/*'
+- domain: 'archive.md'
+  evidence: 'https://archive.md/53it'
   note: 'web archive site redirect => achive.ph'
 - domain: 'archive.ph'
   evidence: 'https://archive.ph/20200421201055/https://rt.live/'
