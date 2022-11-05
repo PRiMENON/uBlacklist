@@ -112,9 +112,9 @@ function create_evidenceFile(count, data) {
         }
     }
     catch (err) {
-        console.error('error=>', err);
+        console.error('error =>', err);
     } finally {
-        console.log('script has successfly complete.')
+        console.log('script completed.')
         await browser.close();
     }
 })();
