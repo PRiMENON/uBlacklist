@@ -2,13 +2,12 @@ const fs = require('fs');
 const yaml = require('js-yaml');
 const UBListFile = './uBlacklist.txt';
 const UBOListFile = './uBlockOrigin.txt';
-// const urlFile = './domain-list.yaml';
-const urlFile = './test/domain-list.yaml';
+const urlFile = './domain-list.yaml';
 
 function remove_File(paths) {
     paths.forEach(item => {
         if (fs.existsSync(item)) {
-            console.log('remove ' + item + 'file(s).');
+            console.log('remove ' + item + ' file(s).');
             fs.unlink(item, (err) => {
                 if (err) throw err;
             })
