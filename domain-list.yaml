@@ -626,8 +626,8 @@
   evidence: 'https://melkia.dev/ja/docs/b63fc8c3c15667cf4702d99cd396cabcc90899191c58b5bcaf76a15b38b25aa5'
   note:
 - domain: 'answer-id.com'
-  evidence: 'https://de-vraag.com/ja/71822933'
-  note:
+  evidence: 'https://answer-id.com/51962168'
+  note: 'redirect to https://de-vraag.com/'
 - domain: 'kaworu.jpn.org'
   evidence: 'https://kaworu.jpn.org/kaworu/2020-04-13-1.php'
   note:
