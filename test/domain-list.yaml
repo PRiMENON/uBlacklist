@@ -1,3 +1,6 @@
+- domain: 'filecr.com'
+  evidence: 'https://filecr.com/windows/vovsoft-keystroke-visualizer/'
+  note: 'SSL failed'
 - domain: 'living-sun.com'
   evidence: 'https://living-sun.com/ja/winapi/854228-findfirstfileex-wildcard-characters-winapi.html'
   note: 'standard'
@@ -16,6 +19,3 @@
 - domain: 'javaer101.com'
   evidence: 'https://www.javaer101.com/ja/article/41223939.html'
   note: 'server not found'
-- domain: 'filecr.com'
-  evidence: 'https://filecr.com/windows/vovsoft-keystroke-visualizer/'
-  note: 'SSL failed'
