@@ -458,7 +458,7 @@
   evidence: 'https://matomedane.jp/page/99803'
   note:
 - domain: 'jin115.com'
-  evidence: 'http://jin115.com/archives/52357079.html*'
+  evidence: 'http://jin115.com/archives/52357079.html'
   note:
 - domain: 'hostlove.com'
   evidence: 'https://news.hostlove.com/view.cgi?a=kyusyu&topic_id=123293&topic_num=20220324183928'
@@ -536,7 +536,7 @@
   evidence: 'https://cojicaji.jp/laundry/how-to-wash/934'
   note:
 - domain: 'kinarino.jp'
-  evidence: '*https://kinarino.jp/cat1/13564'
+  evidence: 'https://kinarino.jp/cat1/13564'
   note:
 - domain: 'smartlog.jp'
   evidence: 'https://smartlog.jp/218071'
@@ -613,8 +613,8 @@
 - domain: 'laplascale.com'
   evidence: 'https://www.laplascale.com/sp/page-review/3996-4164224846256441/'
   note:
-- domain: '/([a-z\.]+\.)?tech-wiki\.online/'
-  evidence: '/([a-z\.]+\.)?tech-wiki\.online/'
+- domain: 'tech-wiki.online'
+  evidence: 'https://tech-wiki.online/ru/'
   note:
 - domain: 'fogsbane.dev'
   evidence: 'https://fogsbane.dev/ja/q/e561fce1c4bb7f76a89193247691fdf1602a83333bc4148f8b0e60c879642777'
@@ -707,7 +707,7 @@
   evidence: 'https://manualzz.com/doc/4775777/spectralwave-u-node-bbm-%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0---%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97'
   note:
 - domain: 'techfeed.io'
-  evidence: 'https://techfeed.io/channels/Node.js'
+  evidence: 'https://techfeed.io/categories/Marketing'
   note:
 - domain: 'manuals.plus'
   evidence: 'https://manuals.plus/ja/tag/node'
