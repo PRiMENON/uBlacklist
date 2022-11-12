@@ -106,9 +106,6 @@
 - domain: '*://*.arip-photo.org/*'
   evidence: 'https://ja.arip-photo.org/604117-ping-replies-from-same-computer-XVOXRB'
   note: 'malicious site ds6.biz'
-- domain: '*://onlyhow.net/*'
-  evidence: '*://onlyhow.net/*'
-  note: 'closed?'
 - domain: 'ciksiti.com'
   evidence: 'https://ciksiti.com/es/chapters/10360-list-iterator-c'
   note:
