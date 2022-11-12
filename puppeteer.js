@@ -113,7 +113,7 @@ function create_evidenceFile(count, data) {
             }).catch(e => console.error(e));
 
             if (!response) {
-                let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '| net::ERR_SSL_PROTOCOL_ERROR |\n';
+                let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |\n';
                 create_evidenceFile(count, data);
                 continue;
             }
