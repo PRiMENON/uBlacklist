@@ -99,19 +99,17 @@ if (require.main === module) {
                     continue;
                 }
 
-                console.log('check => ' + yaml_evidence);
-
                 const response = await page.goto(yaml_evidence, {
                     waitUntil: 'networkidle2',
                     timeout: 0
-                }).catch(e => console.error(e));
+                }).catch(err => console.error(err));
 
                 if (!response) {
                     let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |\n';
                     create_evidenceFile(count, data);
                     continue;
                 }
-                console.log(`status: ${response.status()}`);
+                console.log('check => ' + yaml_evidence + `status: ${response.status()}`);
                 let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + '|\n';
                 create_evidenceFile(count, data);
             }
