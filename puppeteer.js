@@ -81,12 +81,6 @@ function create_evidenceFile(count, data) {
         }
     });
 
-    /*
-    page.on('response', response => {
-        console.log('page.on response.url => ' + response.url() + '     response.status => ' + response.status());
-    });
-    */
-
     try {
         let removeFiles = [EvidenceFile];
         remove_File(removeFiles);
@@ -97,7 +91,6 @@ function create_evidenceFile(count, data) {
             count++;
             let yaml_domain = yaml['domain'];
             let yaml_evidence = yaml['evidence'];
-            let restext = '';
 
             let regex = new RegExp(/^http/, 'gi');
             if (regex.test(yaml_evidence) == false) {
@@ -117,13 +110,8 @@ function create_evidenceFile(count, data) {
                 create_evidenceFile(count, data);
                 continue;
             }
-            if (response.status() == 404) {
-                restext = ' Not found';
-            } else if (response.status() == 504) {
-                restext = ' Gateway Timeout';
-            }
-            console.log(`status: ${response.status()}` + restext);
-            let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + restext + '|\n';
+            console.log(`status: ${response.status()}`);
+            let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + '|\n';
             create_evidenceFile(count, data);
         }
     }
