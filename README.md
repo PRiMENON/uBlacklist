@@ -1,18 +1,15 @@
 # uBlacklist
 
-dev ブランチは、開発中です。リポジトリ名は変更する場合があります。
-
 ## リスト
 
-* [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt)
-* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlockOrigin.txt)
+* [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/dev/uBlacklist.txt)
+* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/dev/uBlockOrigin.txt)
 
 ## エビデンス
 
+リストに含まれているURLの生存チェックリスト。
+
 * [evidence.md](evidence.md)
-
-[domain-list.yaml](domain-list.yaml) を puppeteer で巡回して Http Status Code をチェックします。
-
 
 ## 使い方
 
@@ -26,8 +23,6 @@ dev ブランチは、開発中です。リポジトリ名は変更する場合�
 
 Google Chrome は拡張機能をサポートしていません。 Firefox は、拡張機能はサポートしているものの、 uBlacklist をインストールできません。
 Firefox に uBlock Origin をインストールできますので、uBlock Origin 用のリストを読み込ませてください。
-
-このリポジトリで提供できるように準備しています。
 
 ## 追加しないサイト
 
@@ -43,6 +38,11 @@ Firefox に uBlock Origin をインストールできますので、uBlock Origi
 * qiita.com
 * quora.com
 * hatena.ne.jp
+
+## 注意
+
+[domain-list.yaml](domain-list.yaml)には、マルウェアや悪意のあるスクリプトを忍ばせているサイトが含まれます。
+puppeteer を実行する場合、注意が必要です。
 
 ## 参考文献
 
