@@ -2,7 +2,7 @@ const fs = require('fs');
 const yaml = require('js-yaml');
 const UBListFile = './uBlacklist.txt';
 const UBOListFile = './uBlockOrigin.txt';
-const urlFile = './domain-list.yaml';
+const urlFile = process.argv[2];
 
 function remove_File(paths) {
     paths.forEach(item => {

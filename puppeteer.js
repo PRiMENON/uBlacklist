@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const yaml = require('js-yaml');
 const EvidenceFile = './evidence.md';
-const urlFile = './domain-list.yaml';
+const urlFile = process.argv[2];
 
 function remove_File(paths) {
     paths.forEach(item => {

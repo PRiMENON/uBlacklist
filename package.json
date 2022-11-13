@@ -6,8 +6,10 @@
   "author": "PRiMENON",
   "license": "MIT",
   "scripts": {
-    "make": "node index.js",
-    "puppeteer": "node puppeteer.js"
+    "list": "node index.js ./domain-list.yaml",
+    "list-dev": "node index.js ./test/domain-list.yaml",
+    "pptr": "node puppeteer.js ./domain-list.yaml",
+    "pptr-dev": "node puppeteer.js ./test/domain-list.yaml"
   },
   "repository": {
     "type": "git",
