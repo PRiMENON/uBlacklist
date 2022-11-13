@@ -22,38 +22,6 @@ function load_urlFile() {
     return yaml.load(yamls);
 }
 
-function create_UBLfile(arrays) {
-    const text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
-    fs.appendFileSync(UBListFile, text, function (err) {
-        if (err) {
-            throw err;
-        }
-    });
-    for (const array of arrays) {
-        let domainLists = array['domain'].replace(/\./g, '\\.');
-        domainLists = domainLists.replace(/(^.+$)/g, '/([a-z\\.]+\\.)?$1/\n');
-        fs.appendFileSync(UBListFile, domainLists, { flag: 'a+' }, err => {
-            if (err) throw err;
-        });
-    }
-}
-
-function create_UBOLfile(arrays) {
-    const text = fs.readFileSync('./src/ublockorigin.md', 'utf-8');
-    fs.appendFileSync(UBOListFile, text, function (err) {
-        if (err) {
-            throw err;
-        }
-    });
-    for (const array of arrays) {
-        let domainLists = array['domain'].replace(/(^.+$)/g, 'www.google.*##.xpd:has([href*=*"$1"])\n');
-
-        fs.appendFileSync(UBOListFile, domainLists, { flag: 'a+' }, err => {
-            if (err) throw err;
-        });
-    }
-}
-
 function check_DuplicateDomain(arrays) {
     const results = arrays.filter((item, index, self) => {
         const domainList = self.map(item => item['domain']);
@@ -64,17 +32,59 @@ function check_DuplicateDomain(arrays) {
     return results;
 }
 
+function init_listFile(){
+    const UBL_text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
+    fs.appendFileSync(UBListFile, UBL_text, function (err) {
+        if (err) {
+            throw err;
+        }
+    });
+    const UBO_text = fs.readFileSync('./src/ublockorigin.md', 'utf-8');
+    fs.appendFileSync(UBOListFile, UBO_text, function (err) {
+        if (err) {
+            throw err;
+        }
+    });
+}
+
 if (require.main === module) {
     try {
+        //remove uBlacklist.txt, uBlockOrigin.txt
         let removeFiles = [UBListFile, UBOListFile];
         remove_File(removeFiles);
 
+        //init uBlacklist.txt, uBlockOrigin.txt
+        init_listFile();
+
+        //load domain-list.yaml
         let yamls = load_urlFile();
 
+        //check duplicate domain.
         yamls = check_DuplicateDomain(yamls);
 
-        create_UBLfile(yamls);
-        create_UBOLfile(yamls);
+        for(const yaml of yamls){
+            let yaml_domain = yaml['domain'];
+            let yaml_evidence = yaml['evidence'];
+
+            let regex = new RegExp(/^[^a-z0-0_-]+/,'gi');
+            if(regex.test(yaml_evidence) == true){
+                console.log('NOTE:' + yaml_evidence + 'is not domain format. skip it.')
+                continue;
+            }
+
+            //create uBlacklist.txt
+            let UBL_domainLists = yaml_domain.replace(/\./g, '\\.');
+            UBL_domainLists = UBL_domainLists.replace(/(^.+$)/g, '/([a-z\\.]+\\.)?$1/\n');
+            fs.appendFileSync(UBListFile, UBL_domainLists, { flag: 'a+' }, err => {
+                if (err) throw err;
+            });
+
+            //create uBlockOrigin.txt
+            let UBO_domainLists = yaml_domain.replace(/(^.+$)/g, 'www.google.*##.xpd:has([href*=*"$1"])\n');
+            fs.appendFileSync(UBOListFile, UBO_domainLists, { flag: 'a+' }, err => {
+                if (err) throw err;
+            });
+        }
     } catch (err) {
         console.error(err.message);
     }
