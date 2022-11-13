@@ -109,7 +109,7 @@ if (require.main === module) {
                     create_evidenceFile(count, data);
                     continue;
                 }
-                console.log('check => ' + yaml_evidence + `status: ${response.status()}`);
+                console.log('check => ' + yaml_evidence + ` [status: ${response.status()}]`);
                 let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + '|\n';
                 create_evidenceFile(count, data);
             }

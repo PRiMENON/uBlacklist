@@ -12,7 +12,7 @@ function remove_File(paths) {
                 if (err) throw err;
             })
         } else {
-            console.log( item + ' is not found. skip this function. BUT no problem.');
+            console.log(item + ' is not found. skip this function. BUT no problem.');
         }
     });
 }
@@ -32,7 +32,7 @@ function check_DuplicateDomain(arrays) {
     return results;
 }
 
-function init_listFile(){
+function init_listFile() {
     const UBL_text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
     fs.appendFileSync(UBListFile, UBL_text, function (err) {
         if (err) {
@@ -62,12 +62,12 @@ if (require.main === module) {
         //check duplicate domain.
         yamls = check_DuplicateDomain(yamls);
 
-        for(const yaml of yamls){
+        for (const yaml of yamls) {
             let yaml_domain = yaml['domain'];
             let yaml_evidence = yaml['evidence'];
 
-            let regex = new RegExp(/^[^a-z0-0_-]+/,'gi');
-            if(regex.test(yaml_evidence) == true){
+            let regex = new RegExp(/^[^a-z0-0_-]+/, 'gi');
+            if (regex.test(yaml_evidence) == true) {
                 console.log('NOTE:' + yaml_evidence + 'is not domain format. skip it.')
                 continue;
             }
