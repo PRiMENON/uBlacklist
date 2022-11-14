@@ -22,16 +22,17 @@ function load_urlFile() {
     return yaml.load(yamls);
 }
 
-function create_evidenceFile(count, data) {
-    const text = fs.readFileSync('./src/evidence.md', 'utf-8');
-    if (count <= 1) {
-        fs.appendFile(EvidenceFile, text, function (err) {
-            if (err) {
-                throw err;
-            }
-        });
-    }
+function output_evidenceFile(data) {
     fs.appendFile(EvidenceFile, data, function (err) {
+        if (err) {
+            throw err;
+        }
+    });
+}
+
+function init_evidenceFile() {
+    const Evidence_text = fs.readFileSync('./src/evidence.md', 'utf-8');
+    fs.appendFileSync(EvidenceFile, Evidence_text, function (err) {
         if (err) {
             throw err;
         }
@@ -83,12 +84,19 @@ if (require.main === module) {
         });
 
         try {
+            //remove evidence.md
             let removeFiles = [EvidenceFile];
             remove_File(removeFiles);
+
+            //init evidence.md
+            init_evidenceFile();
+
+            //load domain-list.yaml
             let yamls = load_urlFile();
+
+            //reset count
             let count = 0;
             for (const yaml of yamls) {
-
                 count++;
                 let yaml_domain = yaml['domain'];
                 let yaml_evidence = yaml['evidence'];
@@ -106,12 +114,12 @@ if (require.main === module) {
 
                 if (!response) {
                     let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |\n';
-                    create_evidenceFile(count, data);
+                    output_evidenceFile(data);
                     continue;
                 }
                 console.log('check => ' + yaml_evidence + ` [status: ${response.status()}]`);
                 let data = '|' + count + '|`' + yaml_domain + '`|' + yaml_evidence + '|' + response.status() + '|\n';
-                create_evidenceFile(count, data);
+                output_evidenceFile(data);
             }
         }
         catch (err) {
