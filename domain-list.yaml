@@ -97,7 +97,7 @@
 - domain: 'dev-qa.com'
   evidence: 'https://dev-qa.com/1549124/qabstracttablemodel-or-qsqltablemodel'
   note:
-- domain: '*://*.arip-photo.org/*'
+- domain: 'ja.arip-photo.org'
   evidence: 'https://ja.arip-photo.org/604117-ping-replies-from-same-computer-XVOXRB'
   note: 'malicious site ds6.biz'
 - domain: 'ciksiti.com'
