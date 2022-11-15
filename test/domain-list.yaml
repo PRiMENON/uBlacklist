@@ -19,3 +19,6 @@
 - domain: 'javaer101.com'
   evidence: 'https://www.javaer101.com/ja/article/41223939.html'
   note: 'server not found'
+- domain: '*://*.arip-photo.org/*'
+  evidence: 'https://ja.arip-photo.org/604117-ping-replies-from-same-computer-XVOXRB'
+  note: 'include regex phrase in domain'
