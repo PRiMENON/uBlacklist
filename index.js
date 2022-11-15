@@ -64,11 +64,18 @@ if (require.main === module) {
 
         for (const yaml of yamls) {
             let yaml_domain = yaml['domain'];
-            let yaml_evidence = yaml['evidence'];
 
-            let regex = new RegExp(/^[^a-z0-0_-]+/, 'gi');
-            if (regex.test(yaml_evidence) == true) {
-                console.log('NOTE:' + yaml_evidence + 'is not domain format. skip it.')
+            //validate domain format.
+            let regex_pattern2 = "\\*";
+             regex_pattern2 = new RegExp(regex_pattern2);
+            if (regex_pattern2.test(yaml_domain) == true) {
+                console.log('NOTE:"' + yaml_domain + '" is not domain format. skip it.')
+                continue;
+            }
+            let regex_pattern3 = "^/";
+            regex_pattern3 = new RegExp(regex_pattern3);
+            if (regex_pattern3.test(yaml_domain) == true) {
+                console.log('NOTE:"' + yaml_domain + '" is not domain format. skip it.')
                 continue;
             }
 
