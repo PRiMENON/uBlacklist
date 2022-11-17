@@ -21,8 +21,16 @@
 
 ### スマートフォン版
 
-Google Chrome は拡張機能をサポートしていません。 Firefox は、拡張機能はサポートしているものの、 uBlacklist をインストールできません。
-Firefox に uBlock Origin をインストールできますので、uBlock Origin 用のリストを読み込ませてください。
+Google Chrome は拡張機能をサポートしていません。Firefox は、拡張機能はサポートしているものの、 uBlacklist をインストールできません。  
+Firefox に uBlock Origin をインストールできますので、uBlock Origin 用のリストを活用できます。
+
+1. Firefox for Android を起動する
+1. 縦3点リーダーのメニューから、アドオンをタップ
+1. uBlock Originをタップ
+1. 設定をタップ
+1. 上部のフィルターリストをタップして、一番下にある「インポート」をタップ
+1. 入力フォームが表示されるので[uBlockOrigin.txt](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlockOrigin.txt)のURLを貼る
+1. 上部にある✔をタップ
 
 ## 追加しないサイト
 
