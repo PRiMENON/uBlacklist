@@ -7,8 +7,6 @@
 /([a-z\.]+\.)?it-swarm\.dev/
 /([a-z\.]+\.)?it-swarm-ja\.com/
 /([a-z\.]+\.)?web-dev-qa-db-ja\.com/
-/([a-z\.]+\.)?/\w+\\.it-swarm-\w+\\.\w+//
-/([a-z\.]+\.)?/\w+\\.it-swarm\\.\w+\\.\w+//
 /([a-z\.]+\.)?coder\.work/
 /([a-z\.]+\.)?uwenku\.com/
 /([a-z\.]+\.)?w3big\.com/
@@ -35,8 +33,7 @@
 /([a-z\.]+\.)?delftstack\.com/
 /([a-z\.]+\.)?jpdebug\.com/
 /([a-z\.]+\.)?dev-qa\.com/
-/([a-z\.]+\.)?*://*\.arip-photo\.org/*/
-/([a-z\.]+\.)?*://onlyhow\.net/*/
+/([a-z\.]+\.)?ja\.arip-photo\.org/
 /([a-z\.]+\.)?ciksiti\.com/
 /([a-z\.]+\.)?tagsqa\.com/
 /([a-z\.]+\.)?jl-k\.com/
@@ -204,7 +201,7 @@
 /([a-z\.]+\.)?coron\.tech/
 /([a-z\.]+\.)?thenewsdoctors\.com/
 /([a-z\.]+\.)?laplascale\.com/
-/([a-z\.]+\.)?/([a-z\\.]+\\.)?tech-wiki\\.online//
+/([a-z\.]+\.)?tech-wiki\.online/
 /([a-z\.]+\.)?fogsbane\.dev/
 /([a-z\.]+\.)?codegear\.dev/
 /([a-z\.]+\.)?melkia\.dev/
