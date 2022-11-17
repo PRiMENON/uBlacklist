@@ -2,8 +2,8 @@
 
 ## リスト
 
-* [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/dev/uBlacklist.txt)
-* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/dev/uBlockOrigin.txt)
+* [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt)
+* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlockOrigin.txt)
 
 ## エビデンス
 
@@ -29,7 +29,8 @@ Firefox に uBlock Origin をインストールできますので、uBlock Origi
 * Googleがウェブスパムと定義しているサイト
     * [ユーザー生成スパム](https://support.google.com/webmasters/answer/2721437?hl=ja)
     * [ハッキングウェブスパム](https://developers.google.com/web/fundamentals/security/hacked/)
-    * [自動生成](https://support.google.com/webmasters/answer/2721306?hl=ja)および[無断複製されたコンテンツ](https://support.google.com/webmasters/answer/2721312?hl=ja&ref_topic=6001971)によるスパム
+    * [自動生成](https://support.google.com/webmasters/answer/2721306?hl=ja)
+    * [無断複製されたコンテンツ](https://support.google.com/webmasters/answer/2721312?hl=ja&ref_topic=6001971)
     * [検索スパム](https://support.google.com/webmasters/answer/93713)
     * [フィッシング](https://safebrowsing.google.com/safebrowsing/report_phish/)
     * [マルウェア](https://www.google.com/safebrowsing/report_badware/)
