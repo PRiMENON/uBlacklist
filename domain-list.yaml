@@ -754,3 +754,6 @@
 - domain: 'jp.mytory.net'
   evidence: 'https://jp.mytory.net/2016/05/31/dont-mix-javascript-with-jsp-and-php.html'
   note:
+- domain: 'bunnyinside.com'
+  evidence: 'https://bunnyinside.com/?term=4c0b6e430969&lang=ja'
+  note: 'ERR_SSL_PROTOCOL_ERROR, server side issue, blocked by ESET Internet Security'
