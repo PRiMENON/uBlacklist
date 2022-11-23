@@ -1,27 +1,30 @@
 {
-  "name": "ublacklist",
-  "version": "1.0.1",
-  "description": "uBlacklist Add-on subscription list.",
-  "main": "index.js",
-  "author": "PRiMENON",
-  "license": "MIT",
-  "scripts": {
-    "list": "node index.js ./domain-list.yaml",
-    "list-dev": "node index.js ./test/domain-list.yaml",
-    "pptr": "node puppeteer.js ./domain-list.yaml",
-    "pptr-dev": "node puppeteer.js ./test/domain-list.yaml"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/primenon/uBlacklist.git"
-  },
-  "bugs": {
-    "url": "https://github.com/primenon/uBlacklist/issues"
-  },
-  "homepage": "https://github.com/primenon/uBlacklist#readme",
-  "devDependencies": {
-    "eslint": "^8.27.0",
-    "js-yaml": "^4.1.0",
-    "puppeteer": "^19.2.2"
-  }
+    "name": "ublacklist",
+    "version": "1.0.1",
+    "description": "uBlacklist Add-on subscription list.",
+    "main": "index.js",
+    "author": "PRiMENON",
+    "license": "MIT",
+    "scripts": {
+        "list": "node index.js ./domain-list.yaml",
+        "list-dev": "node index.js ./test/domain-list.yaml",
+        "pptr": "node puppeteer.js ./domain-list.yaml",
+        "pptr-dev": "node puppeteer.js ./test/domain-list.yaml"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/primenon/uBlacklist.git"
+    },
+    "bugs": {
+        "url": "https://github.com/primenon/uBlacklist/issues"
+    },
+    "homepage": "https://github.com/primenon/uBlacklist#readme",
+    "dependencies": {
+        "js-yaml": "^4.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.27.0",
+        "js-yaml": "^4.1.0",
+        "puppeteer": "^19.2.2"
+    }
 }
