@@ -250,3 +250,5 @@
 /([a-z\.]+\.)?janestyle\.net/
 /([a-z\.]+\.)?2nn\.jp/
 /([a-z\.]+\.)?de-vraag\.com/
+/([a-z\.]+\.)?jp\.mytory\.net/
+/([a-z\.]+\.)?bunnyinside\.com/
