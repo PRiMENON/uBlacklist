@@ -750,4 +750,7 @@
   note:
 - domain: 'de-vraag.com'
   evidence: 'https://de-vraag.com/ja/68376548'
-  :note:
+  note:
+- domain: 'jp.mytory.net'
+  evidence: 'https://jp.mytory.net/2016/05/31/dont-mix-javascript-with-jsp-and-php.html'
+  note:
