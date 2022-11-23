@@ -1,0 +1,38 @@
+name: Make blocklist
+run-name: Make blocklist
+on:
+    push:
+        branches:
+            - master
+        paths:
+            - 'domain-list.yaml'
+            - '.github/workflows/**'
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: checkout repository
+              uses: actions/checkout@v3
+              with:
+                  fetch-depth: 0
+            - name: setup node
+              uses: actions/setup-node@v3
+              with:
+                  node-version: "16"
+            - name: npm install
+              run: |
+                    npm install --production
+            - name: Run script
+              run: |
+                  npm run list
+            - name: Commit files
+              run: |
+                  git config --local user.email "github-actions[bot]@users.noreply.github.com"
+                  git config --local user.name "github-actions[bot]"
+                  git add .
+                  git commit -a -m "Make blocklist on github-actions[bot]"
+            - name: Push changes
+              uses: ad-m/github-push-action@master
+              with:
+                  branch: ${{ github.head_ref }}
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
