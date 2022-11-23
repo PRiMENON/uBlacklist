@@ -7,7 +7,8 @@
 
 ## エビデンス
 
-リストに含まれているURLの生存チェックリスト。
+リストに含まれているURLが生存しているかチェックしています。
+HTTP Status Code が 400 の場合でも、サイト側の SSL 設定の不備が原因で閲覧できない場合、継続してリスト化します。
 
 * [evidence.md](evidence.md)
 
@@ -32,6 +33,14 @@ Firefox に uBlock Origin をインストールできますので、uBlock Origi
 1. 入力フォームが表示されるので[uBlockOrigin.txt](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlockOrigin.txt)のURLを貼る
 1. 上部にある✔をタップ
 
+## 追加するサイト
+
+* 機械翻訳サイト
+* ウェブプロキシーサイト
+* GitHub クローンサイト
+* Twitter クローンサイト
+* ウェブアーカイブサイト
+
 ## 追加しないサイト
 
 * Googleがウェブスパムと定義しているサイト
@@ -50,8 +59,8 @@ Firefox に uBlock Origin をインストールできますので、uBlock Origi
 
 ## 注意
 
-[domain-list.yaml](domain-list.yaml)には、マルウェアや悪意のあるスクリプトを忍ばせているサイトが含まれます。
-puppeteer を実行する場合、注意が必要です。
+[domain-list.yaml](domain-list.yaml)は、マルウェアや悪意のあるスクリプトを含むサイトにリダイレクトすることがあります。  
+puppeteer を実行するとブラウザでアクセスするのと同じですので、十分注意してください。
 
 ## 参考文献
 
