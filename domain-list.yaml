@@ -757,3 +757,6 @@
 - domain: 'bunnyinside.com'
   evidence: 'https://bunnyinside.com/?term=4c0b6e430969&lang=ja'
   note: 'ERR_SSL_PROTOCOL_ERROR, server side issue, blocked by ESET Internet Security'
+- domain: 'web-dev-qa-db-ja.com'
+  evidence: 'https://www.web-dev-qa-db-ja.com/ja/node.js/nodejs%E3%81%A7%E7%B5%82%E4%BA%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/971428484/'
+  note:
