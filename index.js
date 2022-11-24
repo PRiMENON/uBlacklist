@@ -4,17 +4,15 @@ const UBListFile = './uBlacklist.txt';
 const UBOListFile = './uBlockOrigin.txt';
 const urlFile = process.argv[2];
 
-function remove_File(paths) {
-    paths.forEach(item => {
-        if (fs.existsSync(item)) {
-            console.log('remove ' + item + ' file(s).');
-            fs.unlink(item, (err) => {
-                if (err) throw err;
-            })
-        } else {
-            console.log(item + ' is not found. skip this function. BUT no problem.');
-        }
-    });
+function remove_File(path) {
+    if (fs.existsSync(path)) {
+        console.log('remove ' + path + '.');
+        fs.unlink(path, (err) => {
+            if (err) throw err;
+        })
+    } else {
+        console.log(path + ' is not found. Skip this function.');
+    }
 }
 
 function load_urlFile() {
@@ -32,14 +30,19 @@ function check_DuplicateDomain(arrays) {
     return results;
 }
 
-function init_listFile() {
-    const UBL_text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
+function init_uBlacklistFile() {
+    console.log('initilize src/uBlacklist.md.');
+    const UBL_text = fs.readFileSync('./src/uBlacklist.md', 'utf-8');
     fs.appendFileSync(UBListFile, UBL_text, function (err) {
         if (err) {
             throw err;
         }
     });
-    const UBO_text = fs.readFileSync('./src/ublockorigin.md', 'utf-8');
+}
+
+function init_uBlockOriginFile() {
+    console.log('initilize src/uBlockOrigin.md.');
+    const UBO_text = fs.readFileSync('./src/uBlockOrigin.md', 'utf-8');
     fs.appendFileSync(UBOListFile, UBO_text, function (err) {
         if (err) {
             throw err;
@@ -50,11 +53,16 @@ function init_listFile() {
 if (require.main === module) {
     try {
         //remove uBlacklist.txt, uBlockOrigin.txt
-        let removeFiles = [UBListFile, UBOListFile];
-        remove_File(removeFiles);
+        remove_File(UBListFile);
+        remove_File(UBOListFile);
 
         //init uBlacklist.txt, uBlockOrigin.txt
-        init_listFile();
+        if (!fs.existsSync(UBListFile)) {
+            init_uBlacklistFile();
+        }
+        if (!fs.existsSync(UBOListFile)) {
+            init_uBlockOriginFile();
+        }
 
         //load domain-list.yaml
         let yamls = load_urlFile();
@@ -67,7 +75,7 @@ if (require.main === module) {
 
             //validate domain format.
             let regex_pattern2 = "\\*";
-             regex_pattern2 = new RegExp(regex_pattern2);
+            regex_pattern2 = new RegExp(regex_pattern2);
             if (regex_pattern2.test(yaml_domain) == true) {
                 console.log('NOTE:"' + yaml_domain + '" is not domain format. skip it.')
                 continue;
@@ -94,5 +102,7 @@ if (require.main === module) {
         }
     } catch (err) {
         console.error(err.message);
+    } finally {
+        console.log('script completed.')
     }
 }
