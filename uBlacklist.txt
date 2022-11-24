@@ -1,3 +1,6 @@
+!# https://github.com/PRiMENON/uBlacklist
+!# License: MIT.
+
 /([a-z\.]+\.)?living-sun\.com/
 /([a-z\.]+\.)?qastack\.jp/
 /([a-z\.]+\.)?codeflow\.site/
@@ -249,3 +252,4 @@
 /([a-z\.]+\.)?de-vraag\.com/
 /([a-z\.]+\.)?jp\.mytory\.net/
 /([a-z\.]+\.)?bunnyinside\.com/
+/([a-z\.]+\.)?exefiles\.com/

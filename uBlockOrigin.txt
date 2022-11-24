@@ -1,3 +1,10 @@
+[uBlock Origin]
+! Title: uBlacklistRule for Firefox for Android
+! Description: 
+! Expires: 1 days
+! Homepage: https://github.com/PRiMENON/uBlacklist
+! License: MIT
+
 www.google.*##.xpd:has([href*=*"living-sun.com"])
 www.google.*##.xpd:has([href*=*"qastack.jp"])
 www.google.*##.xpd:has([href*=*"codeflow.site"])
@@ -249,3 +256,4 @@ www.google.*##.xpd:has([href*=*"2nn.jp"])
 www.google.*##.xpd:has([href*=*"de-vraag.com"])
 www.google.*##.xpd:has([href*=*"jp.mytory.net"])
 www.google.*##.xpd:has([href*=*"bunnyinside.com"])
+www.google.*##.xpd:has([href*=*"exefiles.com"])
