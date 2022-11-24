@@ -31,8 +31,8 @@ function check_DuplicateDomain(arrays) {
 }
 
 function init_uBlacklistFile() {
-    console.log('initilize src/uBlacklist.md.');
-    const UBL_text = fs.readFileSync('./src/uBlacklist.md', 'utf-8');
+    console.log('initilize src/ublacklist.md.');
+    const UBL_text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
     fs.appendFileSync(UBListFile, UBL_text, function (err) {
         if (err) {
             throw err;
@@ -41,8 +41,8 @@ function init_uBlacklistFile() {
 }
 
 function init_uBlockOriginFile() {
-    console.log('initilize src/uBlockOrigin.md.');
-    const UBO_text = fs.readFileSync('./src/uBlockOrigin.md', 'utf-8');
+    console.log('initilize src/ublockorigin.md.');
+    const UBO_text = fs.readFileSync('./src/ublockorigin.md', 'utf-8');
     fs.appendFileSync(UBOListFile, UBO_text, function (err) {
         if (err) {
             throw err;
