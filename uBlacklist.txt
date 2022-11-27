@@ -1,9 +1,11 @@
+!# https://github.com/PRiMENON/uBlacklist
+!# License: MIT.
+
 /([a-z\.]+\.)?living-sun\.com/
 /([a-z\.]+\.)?qastack\.jp/
 /([a-z\.]+\.)?codeflow\.site/
 /([a-z\.]+\.)?it-swarm\.dev/
 /([a-z\.]+\.)?it-swarm-ja\.com/
-/([a-z\.]+\.)?web-dev-qa-db-ja\.com/
 /([a-z\.]+\.)?coder\.work/
 /([a-z\.]+\.)?uwenku\.com/
 /([a-z\.]+\.)?w3big\.com/
@@ -32,6 +34,7 @@
 /([a-z\.]+\.)?dev-qa\.com/
 /([a-z\.]+\.)?ja\.arip-photo\.org/
 /([a-z\.]+\.)?ciksiti\.com/
+/([a-z\.]+\.)?web-dev-qa-db-ja\.com/
 /([a-z\.]+\.)?tagsqa\.com/
 /([a-z\.]+\.)?jl-k\.com/
 /([a-z\.]+\.)?phala\.one/
@@ -249,3 +252,4 @@
 /([a-z\.]+\.)?de-vraag\.com/
 /([a-z\.]+\.)?jp\.mytory\.net/
 /([a-z\.]+\.)?bunnyinside\.com/
+/([a-z\.]+\.)?exefiles\.com/

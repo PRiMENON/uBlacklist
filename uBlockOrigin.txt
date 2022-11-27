@@ -1,9 +1,15 @@
+[uBlock Origin]
+! Title: uBlacklistRule for Firefox for Android
+! Description: 
+! Expires: 1 days
+! Homepage: https://github.com/PRiMENON/uBlacklist
+! License: MIT
+
 www.google.*##.xpd:has([href*=*"living-sun.com"])
 www.google.*##.xpd:has([href*=*"qastack.jp"])
 www.google.*##.xpd:has([href*=*"codeflow.site"])
 www.google.*##.xpd:has([href*=*"it-swarm.dev"])
 www.google.*##.xpd:has([href*=*"it-swarm-ja.com"])
-www.google.*##.xpd:has([href*=*"web-dev-qa-db-ja.com"])
 www.google.*##.xpd:has([href*=*"coder.work"])
 www.google.*##.xpd:has([href*=*"uwenku.com"])
 www.google.*##.xpd:has([href*=*"w3big.com"])
@@ -32,6 +38,7 @@ www.google.*##.xpd:has([href*=*"jpdebug.com"])
 www.google.*##.xpd:has([href*=*"dev-qa.com"])
 www.google.*##.xpd:has([href*=*"ja.arip-photo.org"])
 www.google.*##.xpd:has([href*=*"ciksiti.com"])
+www.google.*##.xpd:has([href*=*"web-dev-qa-db-ja.com"])
 www.google.*##.xpd:has([href*=*"tagsqa.com"])
 www.google.*##.xpd:has([href*=*"jl-k.com"])
 www.google.*##.xpd:has([href*=*"phala.one"])
@@ -249,3 +256,4 @@ www.google.*##.xpd:has([href*=*"2nn.jp"])
 www.google.*##.xpd:has([href*=*"de-vraag.com"])
 www.google.*##.xpd:has([href*=*"jp.mytory.net"])
 www.google.*##.xpd:has([href*=*"bunnyinside.com"])
+www.google.*##.xpd:has([href*=*"exefiles.com"])
