@@ -59,11 +59,13 @@ if (require.main === module) {
             }
         });
 
+        remove_File(UBListFile);
         //init uBlacklist.txt, uBlockOrigin.txt
-        if (!fs.existsSync(UBListFile)) {
+        if (!(fs.existsSync(UBListFile))) {
             init_uBlacklistFile();
         }
-        if (!fs.existsSync(UBOListFile)) {
+
+        if (!(fs.existsSync(UBOListFile))) {
             init_uBlockOriginFile();
         }
 
