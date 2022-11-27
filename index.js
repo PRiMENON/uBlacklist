@@ -20,16 +20,6 @@ function load_urlFile() {
     return yaml.load(yamls);
 }
 
-function check_DuplicateDomain(arrays) {
-    const results = arrays.filter((item, index, self) => {
-        const domainList = self.map(item => item['domain']);
-        if (domainList.indexOf(item.domain) === index) {
-            return item;
-        }
-    });
-    return results;
-}
-
 function init_uBlacklistFile() {
     console.log('initilize src/ublacklist.md.');
     const UBL_text = fs.readFileSync('./src/ublacklist.md', 'utf-8');
@@ -52,9 +42,22 @@ function init_uBlockOriginFile() {
 
 if (require.main === module) {
     try {
+        //load domain-list.yaml
+        let yamls = load_urlFile();
+
         //remove uBlacklist.txt, uBlockOrigin.txt
         remove_File(UBListFile);
         remove_File(UBOListFile);
+
+        //check duplicate domain.
+        yamls = yamls.filter((item, index, self) => {
+            const domainList = self.map(item => item['domain']);
+            if (domainList.indexOf(item.domain) === index) {
+                return item;
+            } else {
+                throw new Error('Found duplicate domain => ' + item['domain']);
+            }
+        });
 
         //init uBlacklist.txt, uBlockOrigin.txt
         if (!fs.existsSync(UBListFile)) {
@@ -63,12 +66,6 @@ if (require.main === module) {
         if (!fs.existsSync(UBOListFile)) {
             init_uBlockOriginFile();
         }
-
-        //load domain-list.yaml
-        let yamls = load_urlFile();
-
-        //check duplicate domain.
-        yamls = check_DuplicateDomain(yamls);
 
         for (const yaml of yamls) {
             let yaml_domain = yaml['domain'];
