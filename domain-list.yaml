@@ -13,9 +13,6 @@
 - domain: 'it-swarm-ja.com'
   evidence: 'https://www.it-swarm-ja.com/ja/javascript/javascriptdate/967313519/'
   note: 'redirect => web-dev-qa-db-ja.com'
-- domain: 'web-dev-qa-db-ja.com'
-  evidence: 'https://www.web-dev-qa-db-ja.com/ja/facebook/facebook-api%EF%BC%9A%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AA%E4%BA%BA%E3%82%92%E7%8D%B2%E5%BE%97%E3%81%99%E3%82%8B/970701389/'
-  note:
 - domain: 'coder.work'
   evidence: 'https://www.coder.work/article/6060729'
   note:
@@ -36,9 +33,6 @@
   note:
 - domain: 'tutorialmore.com'
   evidence: 'https://tutorialmore.com/questions-2188780.htm'
-  note:
-- domain: 'nuomiphp.com'
-  evidence: 'http://test.nuomiphp.com/u/653'
   note:
 - domain: 'nuomiphp.com'
   evidence: 'https://www.nuomiphp.com/d/26570-github-trending-2022-10-27'
@@ -757,9 +751,6 @@
 - domain: 'bunnyinside.com'
   evidence: 'https://bunnyinside.com/?term=4c0b6e430969&lang=ja'
   note: 'ERR_SSL_PROTOCOL_ERROR, server side issue, blocked by ESET Internet Security'
-- domain: 'web-dev-qa-db-ja.com'
-  evidence: 'https://www.web-dev-qa-db-ja.com/ja/node.js/nodejs%E3%81%A7%E7%B5%82%E4%BA%86%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/971428484/'
-  note:
 - domain: 'exefiles.com'
   evidence: 'https://www.exefiles.com/ja/exe/explorer-exe/'
   note:
