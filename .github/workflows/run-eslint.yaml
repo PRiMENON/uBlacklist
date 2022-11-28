@@ -1,5 +1,5 @@
 name: Run ESLint
-run-name: RUn ESLint
+run-name: Run ESLint
 on:
     push:
         branchs:
