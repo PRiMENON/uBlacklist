@@ -7,7 +7,6 @@ on:
         paths:
             - "domain-list.yaml"
             - "index.js"
-            - ".github/workflows/**"
 jobs:
     build:
         runs-on: ubuntu-latest
