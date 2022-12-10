@@ -754,3 +754,6 @@
 - domain: 'exefiles.com'
   evidence: 'https://www.exefiles.com/ja/exe/explorer-exe/'
   note:
+- domain: 'targettrend.com'
+  evidence: 'https://targettrend.com/ja/static-site-generators/'
+  note:
