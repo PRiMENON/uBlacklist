@@ -254,3 +254,4 @@
 /([a-z\.]+\.)?bunnyinside\.com/
 /([a-z\.]+\.)?exefiles\.com/
 /([a-z\.]+\.)?targettrend\.com/
+/([a-z\.]+\.)?antennabank\.com/
