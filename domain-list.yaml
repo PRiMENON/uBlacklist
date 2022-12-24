@@ -757,3 +757,6 @@
 - domain: 'targettrend.com'
   evidence: 'https://targettrend.com/ja/static-site-generators/'
   note:
+- domain: 'antennabank.com'
+  evidence: 'http://antennabank.com/life/vigor.html'
+  note:
