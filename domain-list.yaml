@@ -760,3 +760,6 @@
 - domain: 'antennabank.com'
   evidence: 'http://antennabank.com/life/vigor.html'
   note:
+- domain: 'www.java2s.com'
+  evidence: 'http://www.java2s.com/Tutorials/Java/OCA_Java_SE_8_Operators_Statements/index.htm'
+  note:
