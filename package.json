@@ -23,7 +23,7 @@
         "js-yaml": "^4.1.0"
     },
     "devDependencies": {
-        "eslint": "^8.27.0",
-        "puppeteer": "^19.2.2"
+        "eslint": "^8.31.0",
+        "puppeteer": "^19.5.2"
     }
 }
