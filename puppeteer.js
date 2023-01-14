@@ -109,7 +109,7 @@ if (require.main === module) {
 
                 const response = await page.goto(yaml_evidence, {
                     waitUntil: 'networkidle2',
-                    timeout: 0
+                    timeout: 30000
                 }).catch(err => console.error(err));
 
                 if (!response) {
