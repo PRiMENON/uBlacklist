@@ -131,7 +131,7 @@
 /([a-z\.]+\.)?aumo\.jp/
 /([a-z\.]+\.)?sakumaga\.sakura\.ad\.jp/
 /([a-z\.]+\.)?bokuslog\.com/
-/([a-z\.]+\.)?ytranking\.net/
+/([a-z\.]+\.)?yutura\.net/
 /([a-z\.]+\.)?sirabee\.com/
 /([a-z\.]+\.)?fumumu\.net/
 /([a-z\.]+\.)?maipenraika\.com/
@@ -256,3 +256,12 @@
 /([a-z\.]+\.)?targettrend\.com/
 /([a-z\.]+\.)?antennabank\.com/
 /([a-z\.]+\.)?www\.java2s\.com/
+/([a-z\.]+\.)?www\.koregasiritai\.com/
+/([a-z\.]+\.)?www\.justanswer\.jp/
+/([a-z\.]+\.)?www\.selwan\.net/
+/([a-z\.]+\.)?gaget\.hatenablog\.com/
+/([a-z\.]+\.)?trendn\.jp/
+/([a-z\.]+\.)?seesaawiki\.jp/windows10memo/
+/([a-z\.]+\.)?jo-sys\.net/
+/([a-z\.]+\.)?nekosen\.jp/
+/([a-z\.]+\.)?2ch2\.net/
