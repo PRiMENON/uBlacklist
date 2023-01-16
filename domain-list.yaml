@@ -388,9 +388,9 @@
 - domain: 'bokuslog.com'
   evidence: 'https://bokuslog.com/onishi-takuma-art-8018'
   note:
-- domain: 'ytranking.net'
+- domain: 'yutura.net'
   evidence: 'https://yutura.net/news/archives/84206'
-  note:
+  note: 'redirect ytranking.net to yutura.net'
 - domain: 'sirabee.com'
   evidence: 'https://sirabee.com/2022/09/10/20162935126/'
   note:
@@ -762,4 +762,31 @@
   note:
 - domain: 'www.java2s.com'
   evidence: 'http://www.java2s.com/Tutorials/Java/OCA_Java_SE_8_Operators_Statements/index.htm'
+  note:
+- domain: 'www.koregasiritai.com'
+  evidence: 'https://www.koregasiritai.com/pool-kabi/'
+  note:
+- domain: 'www.justanswer.jp'
+  evidence: 'https://www.justanswer.jp/microsoft/ehrrm-pdf-0x8007007e.html'
+  note:
+- domain: 'www.selwan.net'
+  evidence: 'https://www.selwan.net/jp/%e3%81%9f%e3%81%be-%e3%82%80%e3%81%99%e3%81%b3-%e7%b5%82%e4%ba%86-%e7%90%86%e7%94%b1'
+  note:
+- domain: 'gaget.hatenablog.com'
+  evidence: 'https://gaget.hatenablog.com/entry/Windows11-dentaku'
+  note:
+- domain: 'trendn.jp'
+  evidence: 'https://trendn.jp/answer/%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95-%e6%9c%80%e5%88%9d-%e3%81%ab-%e3%82%84%e3%82%8b-%e3%81%93%e3%81%a8'
+  note:
+- domain: 'seesaawiki.jp/windows10memo'
+  evidence: 'https://seesaawiki.jp/windows10memo/d/Windows%20%c1%e0%ba%ee%20%b4%d8%cf%a2%a5%e1%a5%e2'
+  note:
+- domain: 'jo-sys.net'
+  evidence: 'https://jo-sys.net/google-search/'
+  note:
+- domain: 'nekosen.jp'
+  evidence: 'https://nekosen.jp/nagishio-kodomo/'
+  note:
+- domain: '2ch2.net'
+  evidence: 'https://b.2ch2.net/gya/i/'
   note:
