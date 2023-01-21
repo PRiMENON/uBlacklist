@@ -1,13 +1,3 @@
-[uBlock Origin]
-! Title: uBlacklistRule for Firefox for Android
-! Description: 
-! Expires: 1 days
-! Homepage: https://github.com/PRiMENON/uBlacklist
-! License: MIT
-
-www.google.*##.xpd:has([href*=*"living-sun.com"])
-www.google.*##.xpd:has([href*=*"qastack.jp"])
-www.google.*##.xpd:has([href*=*"codeflow.site"])
 www.google.*##.xpd:has([href*=*"it-swarm.dev"])
 www.google.*##.xpd:has([href*=*"it-swarm-ja.com"])
 www.google.*##.xpd:has([href*=*"coder.work"])
@@ -259,10 +249,10 @@ www.google.*##.xpd:has([href*=*"bunnyinside.com"])
 www.google.*##.xpd:has([href*=*"exefiles.com"])
 www.google.*##.xpd:has([href*=*"targettrend.com"])
 www.google.*##.xpd:has([href*=*"antennabank.com"])
-www.google.*##.xpd:has([href*=*"www.java2s.com"])
-www.google.*##.xpd:has([href*=*"www.koregasiritai.com"])
-www.google.*##.xpd:has([href*=*"www.justanswer.jp"])
-www.google.*##.xpd:has([href*=*"www.selwan.net"])
+www.google.*##.xpd:has([href*=*"java2s.com"])
+www.google.*##.xpd:has([href*=*"koregasiritai.com"])
+www.google.*##.xpd:has([href*=*"justanswer.jp"])
+www.google.*##.xpd:has([href*=*"selwan.net"])
 www.google.*##.xpd:has([href*=*"gaget.hatenablog.com"])
 www.google.*##.xpd:has([href*=*"trendn.jp"])
 www.google.*##.xpd:has([href*=*"seesaawiki.jp/windows10memo"])
@@ -273,5 +263,12 @@ www.google.*##.xpd:has([href*=*"unavailable.jp"])
 www.google.*##.xpd:has([href*=*"news.unavailable.jp"])
 www.google.*##.xpd:has([href*=*"news-agency.unavailable.jp"])
 www.google.*##.xpd:has([href*=*"twitfukuoka.com"])
-www.google.*##.xpd:has([href*=*"www.fukuokadx.com"])
-www.google.*##.xpd:has([href*=*"www.saigaitaisaku-blog.com"])
+www.google.*##.xpd:has([href*=*"fukuokadx.com"])
+www.google.*##.xpd:has([href*=*"saigaitaisaku-blog.com"])
+www.google.*##.xpd:has([href*=*"puraimureto.com"])
+www.google.*##.xpd:has([href*=*"it-trend.jp"])
+www.google.*##.xpd:has([href*=*"bb-navi.jp"])
+www.google.*##.xpd:has([href*=*"kyodotokyo.com"])
+www.google.*##.xpd:has([href*=*"toricode.com"])
+www.google.*##.xpd:has([href*=*"nodejsera.com"])
+www.google.*##.xpd:has([href*=*"chercher.tech"])
