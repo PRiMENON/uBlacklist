@@ -760,16 +760,16 @@
 - domain: 'antennabank.com'
   evidence: 'http://antennabank.com/life/vigor.html'
   note:
-- domain: 'www.java2s.com'
+- domain: 'java2s.com'
   evidence: 'http://www.java2s.com/Tutorials/Java/OCA_Java_SE_8_Operators_Statements/index.htm'
   note:
-- domain: 'www.koregasiritai.com'
+- domain: 'koregasiritai.com'
   evidence: 'https://www.koregasiritai.com/pool-kabi/'
   note:
-- domain: 'www.justanswer.jp'
+- domain: 'justanswer.jp'
   evidence: 'https://www.justanswer.jp/microsoft/ehrrm-pdf-0x8007007e.html'
   note:
-- domain: 'www.selwan.net'
+- domain: 'selwan.net'
   evidence: 'https://www.selwan.net/jp/%e3%81%9f%e3%81%be-%e3%82%80%e3%81%99%e3%81%b3-%e7%b5%82%e4%ba%86-%e7%90%86%e7%94%b1'
   note:
 - domain: 'gaget.hatenablog.com'
@@ -802,9 +802,30 @@
 - domain: 'twitfukuoka.com'
   evidence: 'https://twitfukuoka.com/?p=73337'
   note:
-- domain: 'www.fukuokadx.com'
+- domain: 'fukuokadx.com'
   evidence: 'https://www.fukuokadx.com/2023/01/blog-post_62.html'
   note:
-- domain: 'www.saigaitaisaku-blog.com'
+- domain: 'saigaitaisaku-blog.com'
   evidence: 'https://www.saigaitaisaku-blog.com/post-4/'
+  note:
+- domain: 'puraimureto.com'
+  evidence: 'https://puraimureto.com/style-%e3%81%be%e3%82%82%e3%82%b5%e3%83%bc%e3%83%812-%e5%ad%90%e4%be%9b%e3%82%92%e8%a6%8b%e5%ae%88%e3%82%8a-%e8%bf%b7%e5%ad%90%e9%98%b2%e6%ad%a2-%e9%80%9a%e7%9f%a5-gps-ip65%e9%98%b2%e6%b0%b4%e9%98%b2/'
+  note:
+- domain: 'it-trend.jp'
+  evidence: 'https://it-trend.jp/wireless-lan-controller/article/271-0008'
+  note:
+- domain: 'bb-navi.jp'
+  evidence: 'https://bb-navi.jp/column/change-smartphone-recommendation08'
+  note:
+- domain: 'kyodotokyo.com'
+  evidence: 'https://www.kyodotokyo.com/wifi/wifi-place/'
+  note:
+- domain: 'toricode.com'
+  evidence: 'https://toricode.com/nodejs-compress-file-into-gzip-format/'
+  note:
+- domain: 'nodejsera.com'
+  evidence: 'https://www.nodejsera.com/snippets/nodejs/compress-file-using-zlib.html'
+  note:
+- domain: 'chercher.tech'
+  evidence: 'https://chercher.tech/nodejs/zlib-module'
   note:
