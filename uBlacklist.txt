@@ -265,3 +265,9 @@
 /([a-z\.]+\.)?jo-sys\.net/
 /([a-z\.]+\.)?nekosen\.jp/
 /([a-z\.]+\.)?2ch2\.net/
+/([a-z\.]+\.)?unavailable\.jp/
+/([a-z\.]+\.)?news\.unavailable\.jp/
+/([a-z\.]+\.)?news-agency\.unavailable\.jp/
+/([a-z\.]+\.)?twitfukuoka\.com/
+/([a-z\.]+\.)?www\.fukuokadx\.com/
+/([a-z\.]+\.)?www\.saigaitaisaku-blog\.com/
