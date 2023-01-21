@@ -790,3 +790,21 @@
 - domain: '2ch2.net'
   evidence: 'https://b.2ch2.net/gya/i/'
   note:
+- domain: 'unavailable.jp'
+  evidence: 'https://unavailable.jp/early-weather-info-jma-20230116/'
+  note:
+- domain: 'news.unavailable.jp'
+  evidence: 'https://news.unavailable.jp/%e5%8c%97%e6%9c%9d%e9%ae%ae%e3%81%8c%e5%bc%be%e9%81%93%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e7%99%ba%e5%b0%84%e3%81%a8%e9%9f%93%e5%9b%bd%e8%bb%8d-4/'
+  note:
+- domain: 'news-agency.unavailable.jp'
+  evidence: 'https://news-agency.unavailable.jp/%e7%b1%b3%e3%83%8f%e3%83%aa%e3%82%b1%e3%83%bc%e3%83%b3%e3%80%81%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e%e3%81%ae%e6%ad%bb%e8%80%85%ef%bc%94%ef%bc%95%e4%ba%ba%e3%81%ab%e3%80%80%e7%86%b1%e5%b8%af/'
+  note:
+- domain: 'twitfukuoka.com'
+  evidence: 'https://twitfukuoka.com/?p=73337'
+  note:
+- domain: 'www.fukuokadx.com'
+  evidence: 'https://www.fukuokadx.com/2023/01/blog-post_62.html'
+  note:
+- domain: 'www.saigaitaisaku-blog.com'
+  evidence: 'https://www.saigaitaisaku-blog.com/post-4/'
+  note:
