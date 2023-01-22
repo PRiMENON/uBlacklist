@@ -829,3 +829,18 @@
 - domain: 'chercher.tech'
   evidence: 'https://chercher.tech/nodejs/zlib-module'
   note:
+- domain: 'crast.net'
+  evidence: 'https://crast.net/122059/we-tell-you-if-downloading-softonic-programs-is-safe/'
+  note:
+- domain: 'softonic.com'
+  evidence: 'https://notepad-plus.en.softonic.com/'
+  note:
+- domain: 'uirusu.jp'
+  evidence: 'https://uirusu.jp/%E5%B9%B4%E3%81%AE%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E9%99%A4%E5%8E%BB%E3%83%99%E3%82%B9%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC%E3%83%AB/'
+  note:
+- domain: 'removemalware-jp.com'
+  evidence: 'https://www.removemalware-jp.com/%e4%be%b5%e5%85%a5%e7%9c%9f%e5%ae%9f%e3%81%8capt-17%e3%82%92%e6%98%8e%e3%82%89%e3%81%8b%e3%81%ab%e3%81%99%e3%82%8b'
+  note:
+- domain: 'updatestar.com'
+  evidence: 'https://microsoft-office-professional-plus.updatestar.com/ja'
+  note:
