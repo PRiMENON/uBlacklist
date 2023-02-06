@@ -93,7 +93,7 @@ if (require.main === module) {
             });
 
             //create uBlockOrigin.txt
-            let UBO_domainLists = yaml_domain.replace(/(^.+$)/g, 'www.google.*##.xpd:has([href*=*"$1"])\n');
+            let UBO_domainLists = yaml_domain.replace(/(^.+$)/g, 'www.google.*###search .g:has([href*=*"$1"])\n');
             fs.appendFileSync(UBOListFile, UBO_domainLists, { flag: 'a+' }, err => {
                 if (err) throw err;
             });
