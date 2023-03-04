@@ -50,7 +50,7 @@ if (require.main === module) {
                 width: 1200,
                 height: 900
             },
-            timeout: 10000,
+            timeout: 1000,
             // List of Chromium Command Line Switches
             // https://peter.sh/experiments/chromium-command-line-switches/
             args: [
@@ -75,7 +75,8 @@ if (require.main === module) {
             if (request.isInterceptResolutionHandled()) return;
             if (
                 request.url().match(/\.(css|js|png|jpeg|jpg|tiff|json)$/g) ||
-                request.url().match(/.+wp-(content|includes).+/g)
+                request.url().match(/.+wp-(content|includes).+/g) || 
+                request.url().match(/.+(dr6\.biz|matomolib\.xyz|ingmar\.club).+/g)
             ) {
                 request.abort().catch(err => console.error(err));
             } else {
