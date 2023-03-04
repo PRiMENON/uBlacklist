@@ -7,10 +7,9 @@
 
 ## エビデンス
 
-リストに含まれているURLが生存しているかチェックしています。
-HTTP Status Code が 400 の場合でも、サイト側の SSL 設定の不備が原因で閲覧できない場合、継続してリスト化します。
-
 * [evidence.md](evidence.md)
+
+URLが生存しているかチェックしています。
 
 ## 使い方
 
@@ -22,8 +21,9 @@ HTTP Status Code が 400 の場合でも、サイト側の SSL 設定の不備�
 
 ### スマートフォン版
 
-Google Chrome は拡張機能をサポートしていません。Firefox は、拡張機能はサポートしているものの、 uBlacklist をインストールできません。  
-Firefox に uBlock Origin をインストールできますので、uBlock Origin 用のリストを活用できます。
+Google Chrome は拡張機能をサポートしていません。
+
+Firefox は、uBlock Origin をインストールできるので、uBlock Origin 用のリストを使用してください。
 
 1. Firefox for Android を起動する
 1. 縦3点リーダーのメニューから、アドオンをタップ
@@ -40,6 +40,7 @@ Firefox に uBlock Origin をインストールできますので、uBlock Origi
 * GitHub クローンサイト
 * Twitter クローンサイト
 * ウェブアーカイブサイト
+* ゴシップや炎上を取り扱うサイト
 
 ## 追加しないサイト
 
