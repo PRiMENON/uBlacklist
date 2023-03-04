@@ -910,3 +910,6 @@
 - domain: 'commonsense11.com'
   evidence: 'http://jp.commonsense11.com/pic_a0MwV3JaY0FFUmM9'
   note:
+- domain: 'linux-console.net'
+  evidence: 'https://ja.linux-console.net/?p=777'
+  note:
