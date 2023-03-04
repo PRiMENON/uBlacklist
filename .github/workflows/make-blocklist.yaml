@@ -5,6 +5,7 @@ on:
         branches:
             - master
         paths:
+            - "src/**"
             - "domain-list.yaml"
             - "index.js"
 jobs:
@@ -15,14 +16,15 @@ jobs:
               uses: styfle/cancel-workflow-action@0.11.0
               with:
                   access_token: ${{ github.token }}
-            - name: checkout repository
+            - name: Checkout repository
               uses: actions/checkout@v3
               with:
                   fetch-depth: 0
-            - name: setup node
+            - name: Use node.js
               uses: actions/setup-node@v3
               with:
-                  node-version: "16"
+                  node-version: "18"
+                  cache: npm
             - name: npm install
               run: |
                   npm install --omit=dev
@@ -33,7 +35,7 @@ jobs:
               run: |
                   git config --local user.email "github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
-                  git add .
+                  git add uBlacklist.txt uBlockOrigin.txt
                   git commit -a -m "Update blocklist on github-actions[bot]"
             - name: Push changes
               uses: ad-m/github-push-action@master
