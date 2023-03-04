@@ -12,7 +12,7 @@
 |8|`w3big.com`|http://www.w3big.com/ja/nodejs/nodejs-install-setup.html#gsc.tab=0|200|
 |9|`riptutorial.com`|https://riptutorial.com/phpunit|200|
 |10|`steakrecords.com`|https://steakrecords.com/ja/582729-how-to-reduce-3color-to-3sat-np-complete-reduction.html|200|
-|11|`javaer101.com`|https://www.javaer101.com/ja/article/41223939.html| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|11|`javaer101.com`|https://www.javaer101.com/ja/article/41223939.html|200|
 |12|`tutorialmore.com`|https://tutorialmore.com/questions-2188780.htm|200|
 |13|`nuomiphp.com`|https://www.nuomiphp.com/d/26570-github-trending-2022-10-27|200|
 |14|`xiaolee.net`|https://blog.xiaolee.net/xiaolee/nodejs-install.html|200|
@@ -22,7 +22,7 @@
 |18|`tistory.com`|https://jin2rang.tistory.com/entry/nodejs-git-ignore|200|
 |19|`code-examples.net`|https://code-examples.net/ja/q/f197d7|200|
 |20|`voidcc.com`|http://ja.voidcc.com/question/p-vvnteyqh-z.html|200|
-|21|`ti-enxame.com`|https://www.kutombawewe.net/pt/node.js/no-fs-erro-eperm-operacao-nao-permitida-aberta/1057075674/|200|
+|21|`ti-enxame.com`|https://www.kutombawewe.net/pt/node.js/no-fs-erro-eperm-operacao-nao-permitida-aberta/1057075674/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |22|`stackovergo.com`|https://stackovergo.com/ja/q/1821229/how-would-you-check-for-undefined-property-in-ejs-for-nodejs|200|
 |23|`extendoffice.com`|https://ja.extendoffice.com/product/kutools-for-excel/excel-fuzzy-lookup.html|200|
 |24|`cndgn.com`|https://cndgn.com/question/stack/28852426/multidatespicker-adddisableddates|404|
@@ -45,14 +45,14 @@
 |41|`o-k.jp`|http://twiteru.o-k.jp/?id=34086|403|
 |42|`postgresqlco.nf`|https://postgresqlco.nf/doc/ja/param/max_parallel_workers_per_gather/|200|
 |43|`nixnet.services`|https://git.nixnet.services/mirrors/mastodon|200|
-|44|`archive.md`|https://archive.md/53it|200|
-|45|`archive.ph`|https://archive.ph/20200421201055/https://rt.live/|200|
+|44|`archive.md`|https://archive.md/53it|429|
+|45|`archive.ph`|https://archive.ph/20200421201055/https://rt.live/|429|
 |46|`softonic.jp`|https://gnuplot.softonic.jp/|200|
 |47|`uptodown.com`|https://google-japanese-input.jp.uptodown.com/android|200|
 |48|`videohelp.com`|https://forum.videohelp.com/threads/361508-tsMuxer-error-can-t-open-stream-C-Users|200|
 |49|`downloadcrew.com`|https://www.downloadcrew.com/article/43938/photoscape|200|
 |50|`softpedia.com`|https://mobile.softpedia.com/apk/fingerprint-gestures/1.6/|403|
-|51|`fossies.org`|https://fossies.org/linux/misc/openssh-9.1p1.tar.gz/|200|
+|51|`fossies.org`|https://fossies.org/linux/misc/openssh-9.1p1.tar.gz/|410|
 |52|`filecr.com`|https://filecr.com/windows/vovsoft-keystroke-visualizer/|200|
 |53|`progsoft.net`|https://progsoft.net/ja/software/node-js|200|
 |54|`softantenna.com`|https://softantenna.com/blog/mancy/|200|
@@ -90,7 +90,7 @@
 |86|`it-kyujin.jp`|https://it-kyujin.jp/word/2/|200|
 |87|`itnews.org`|https://itnews.org/news_resources/30654| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |88|`zephyrnet.com`|https://zephyrnet.com/ja/%E8%B3%AD%E5%8D%9A/|200|
-|89|`codegrepper.com`|https://www.codegrepper.com/code-examples/php/How+to+Log+Query+in+Laravel|200|
+|89|`codegrepper.com`|https://www.codegrepper.com/code-examples/php/How+to+Log+Query+in+Laravel| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |90|`bluestar-journal.com`|https://bluestar-journal.com/archives/9848|200|
 |91|`brightchanging.com`|https://brightchanging.com/takedajyun-oneegiwaku|200|
 |92|`chuumoku.net`|https://chuumoku.net/arisawayuki/|200|
@@ -111,7 +111,7 @@
 |107|`newsmatomedia.com`|https://newsmatomedia.com/nocchi|200|
 |108|`nicevalue.xsrv.jp`|https://nicevalue.xsrv.jp/qol/darenogare/|200|
 |109|`starblog.jp`|https://sp.starblog.jp/soccer.php|200|
-|110|`trend-passion-life.com`|http://trend-passion-life.com/tamashirothina-who-429|403|
+|110|`trend-passion-life.com`|http://trend-passion-life.com/tamashirothina-who-429|200|
 |111|`tekutekuweb.site`|https://tekutekuweb.site/kinashi_uta/|200|
 |112|`the-jet-sleeper.com`|https://the-jet-sleeper.com/hondokaede-01/|200|
 |113|`petitwings.com`|https://petitwings.com/archives/5723|200|
@@ -202,12 +202,12 @@
 |198|`coron.tech`|https://coron.tech/news/youtube-4k-video-premium-only/|200|
 |199|`thenewsdoctors.com`|https://thenewsdoctors.com/956/|200|
 |200|`laplascale.com`|https://www.laplascale.com/sp/page-review/3996-4164224846256441/|200|
-|201|`tech-wiki.online`|https://tech-wiki.online/ru/|200|
+|201|`tech-wiki.online`|https://tech-wiki.online/ru/|521|
 |202|`fogsbane.dev`|https://fogsbane.dev/ja/q/e561fce1c4bb7f76a89193247691fdf1602a83333bc4148f8b0e60c879642777| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |203|`codegear.dev`|https://codegear.dev/ja/docs/671eb9f9da4d71be9d764a9d20884734f8a01b8049f4d459ddc1ce7aa9155e19| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |204|`melkia.dev`|https://melkia.dev/ja/docs/b63fc8c3c15667cf4702d99cd396cabcc90899191c58b5bcaf76a15b38b25aa5| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |205|`answer-id.com`|https://answer-id.com/51962168|200|
-|206|`kaworu.jpn.org`|https://kaworu.jpn.org/kaworu/2020-04-13-1.php| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|206|`kaworu.jpn.org`|https://kaworu.jpn.org/kaworu/2020-04-13-1.php|200|
 |207|`minitool.com`|https://videoconvert.minitool.com/|200|
 |208|`tipstour.net`|https://tipstour.net/excel-x-avedev|200|
 |209|`mikasaphp.net`|https://mikasaphp.net/avidemux.html|200|
@@ -245,9 +245,9 @@
 |241|`skinandxxx.com`|https://skinandxxx.com/comdot-annualincome/|200|
 |242|`5ch.net`|https://asahi.5ch.net/newsplus/|200|
 |243|`ula.cc`|http://bintan.ula.cc/2ch/comicnews/|200|
-|244|`pic2.icu`|http://ja.pic2.icu/r/php/1501071071/|200|
+|244|`pic2.icu`|http://ja.pic2.icu/r/php/1501071071/|530|
 |245|`2ch.sc`|http://toro.2ch.sc/test/read.cgi/tech/1582906877/l50|200|
-|246|`5chb.net`|http://5chb.net/2ch/hibari.2ch.net/hack/1620984411/|200|
+|246|`5chb.net`|http://5chb.net/2ch/hibari.2ch.net/hack/1620984411/|530|
 |247|`janestyle.net`|https://janestyle.net/search/JavaScript|200|
 |248|`2nn.jp`|https://www.2nn.jp/news4plus/|200|
 |249|`de-vraag.com`|https://de-vraag.com/ja/68376548|200|
@@ -259,7 +259,7 @@
 |255|`java2s.com`|http://www.java2s.com/Tutorials/Java/OCA_Java_SE_8_Operators_Statements/index.htm|200|
 |256|`koregasiritai.com`|https://www.koregasiritai.com/pool-kabi/|200|
 |257|`justanswer.jp`|https://www.justanswer.jp/microsoft/ehrrm-pdf-0x8007007e.html|403|
-|258|`selwan.net`|https://www.selwan.net/jp/%e3%81%9f%e3%81%be-%e3%82%80%e3%81%99%e3%81%b3-%e7%b5%82%e4%ba%86-%e7%90%86%e7%94%b1|200|
+|258|`selwan.net`|https://www.selwan.net/jp/%e3%81%9f%e3%81%be-%e3%82%80%e3%81%99%e3%81%b3-%e7%b5%82%e4%ba%86-%e7%90%86%e7%94%b1| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |259|`gaget.hatenablog.com`|https://gaget.hatenablog.com/entry/Windows11-dentaku|200|
 |260|`trendn.jp`|https://trendn.jp/answer/%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95-%e6%9c%80%e5%88%9d-%e3%81%ab-%e3%82%84%e3%82%8b-%e3%81%93%e3%81%a8|404|
 |261|`seesaawiki.jp/windows10memo`|https://seesaawiki.jp/windows10memo/d/Windows%20%c1%e0%ba%ee%20%b4%d8%cf%a2%a5%e1%a5%e2|200|
@@ -269,7 +269,7 @@
 |265|`unavailable.jp`|https://unavailable.jp/early-weather-info-jma-20230116/|200|
 |266|`news.unavailable.jp`|https://news.unavailable.jp/%e5%8c%97%e6%9c%9d%e9%ae%ae%e3%81%8c%e5%bc%be%e9%81%93%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e7%99%ba%e5%b0%84%e3%81%a8%e9%9f%93%e5%9b%bd%e8%bb%8d-4/|200|
 |267|`news-agency.unavailable.jp`|https://news-agency.unavailable.jp/%e7%b1%b3%e3%83%8f%e3%83%aa%e3%82%b1%e3%83%bc%e3%83%b3%e3%80%81%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e%e3%81%ae%e6%ad%bb%e8%80%85%ef%bc%94%ef%bc%95%e4%ba%ba%e3%81%ab%e3%80%80%e7%86%b1%e5%b8%af/|200|
-|268|`twitfukuoka.com`|https://twitfukuoka.com/?p=73337|200|
+|268|`twitfukuoka.com`|https://twitfukuoka.com/?p=73337|404|
 |269|`fukuokadx.com`|https://www.fukuokadx.com/2023/01/blog-post_62.html|200|
 |270|`saigaitaisaku-blog.com`|https://www.saigaitaisaku-blog.com/post-4/|200|
 |271|`puraimureto.com`|https://puraimureto.com/style-%e3%81%be%e3%82%82%e3%82%b5%e3%83%bc%e3%83%812-%e5%ad%90%e4%be%9b%e3%82%92%e8%a6%8b%e5%ae%88%e3%82%8a-%e8%bf%b7%e5%ad%90%e9%98%b2%e6%ad%a2-%e9%80%9a%e7%9f%a5-gps-ip65%e9%98%b2%e6%b0%b4%e9%98%b2/|200|
@@ -301,7 +301,9 @@
 |297|`deathwish.jp`|https://deathwish.jp/ishidaissei-lover/|200|
 |298|`33man.jp`|https://33man.jp/article/012696.html|200|
 |299|`encount.press`|https://encount.press/archives/355597/|200|
-|300|`yoshimasa-hosoya.com`|https://www.yoshimasa-hosoya.com/ishida-issei-kanojo/|503|
-|301|`glen-air.com`|https://glen-air.com/tokaiisdarkness_shop_ishidaissei-7369|200|
+|300|`yoshimasa-hosoya.com`|https://www.yoshimasa-hosoya.com/ishida-issei-kanojo/|200|
+|301|`glen-air.com`|https://glen-air.com/tokaiisdarkness_shop_ishidaissei-7369|404|
 |302|`cop10-origami.com`|https://www.cop10-origami.com/ishidaissei-2022girlfriend/|200|
 |303|`quick-timez.com`|https://quick-timez.com/2023/02/02/takaimikishiin9202/|200|
+|304|`commonsense11.com`|http://jp.commonsense11.com/pic_a0MwV3JaY0FFUmM9|200|
+|305|`linux-console.net`|https://ja.linux-console.net/?p=777|200|
