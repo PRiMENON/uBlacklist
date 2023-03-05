@@ -913,3 +913,6 @@
 - domain: 'linux-console.net'
   evidence: 'https://ja.linux-console.net/?p=777'
   note:
+- domain: 'taiwebs.com'
+  evidence: 'https://ja.taiwebs.com/windows/download-teamviewer-528.html'
+  note:
