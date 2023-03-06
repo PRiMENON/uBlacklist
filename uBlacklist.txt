@@ -1,6 +1,3 @@
-/([a-z\.]+\.)?qastack\.jp/
-/([a-z\.]+\.)?codeflow\.site/
-/([a-z\.]+\.)?it-swarm\.dev/
 /([a-z\.]+\.)?it-swarm-ja\.com/
 /([a-z\.]+\.)?coder\.work/
 /([a-z\.]+\.)?uwenku\.com/
