@@ -35,16 +35,16 @@ async function main() {
         let dateISO = date.toISOString()
 
         // make uBlacklist.
-        let UBL_val = fs.readFileSync('./src/ublacklist.md', 'utf-8')
+        let UBL_val = await fs.readFileSync('./src/ublacklist.md', 'utf-8')
         UBL_val = UBL_val.replace('{UPDATE}', dateISO)
-        fs.appendFileSync(UBResultFile, UBL_val, { flag: 'w' }, function (err) {
+        await fs.appendFileSync(UBResultFile, UBL_val, { flag: 'w' }, function (err) {
             if (err) throw err
         })
 
         // make uBlockOrigin.
-        let UBO_val = fs.readFileSync('./src/ublockorigin.md', 'utf-8')
+        let UBO_val = await fs.readFileSync('./src/ublockorigin.md', 'utf-8')
         UBO_val = UBO_val.replace('{UPDATE}', dateISO)
-        fs.appendFileSync(UBOResultFile, UBO_val, { flag: 'w' }, function (err) {
+        await fs.appendFileSync(UBOResultFile, UBO_val, { flag: 'w' }, function (err) {
             if (err) throw err
         })
 
@@ -66,13 +66,13 @@ async function main() {
             // append uBlacklist
             let UBL_line = yaml_domain.replace(/\./g, '\\.')
             UBL_line = UBL_line.replace(/(^.+$)/g, '/([a-z\\.]+\\.)?$1/\n')
-            fs.appendFileSync(UBResultFile, UBL_line, { flag: 'a' }, err => {
+            await fs.appendFileSync(UBResultFile, UBL_line, { flag: 'a' }, err => {
                 if (err) throw err
             })
 
             // append uBlockOrigin
             let UBO_line = yaml_domain.replace(/(^.+$)/g, 'www.google.*##.xpd:has([href*="$1"])\n')
-            fs.appendFileSync(UBOResultFile, UBO_line, { flag: 'a' }, err => {
+            await fs.appendFileSync(UBOResultFile, UBO_line, { flag: 'a' }, err => {
                 if (err) throw err
             })
         }
