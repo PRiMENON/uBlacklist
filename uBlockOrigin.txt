@@ -1,3 +1,16 @@
+[uBlock Origin]
+! Title: PRiMENON/uBlacklist filter
+! Description: PRiMENON uBlacklist uBlock Origin filter
+! Expires: 4 days
+! Last modified: 2023-03-06T13:34:17.495Z
+! Homepage: https://github.com/PRiMENON/uBlacklist
+! License: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
+
+www.google.*##.xpd:has([href*="living-sun.com"])
+www.google.*##.xpd:has([href*="qastack.jp"])
+www.google.*##.xpd:has([href*="codeflow.site"])
+www.google.*##.xpd:has([href*="it-swarm.dev"])
+www.google.*##.xpd:has([href*="it-swarm-ja.com"])
 www.google.*##.xpd:has([href*="coder.work"])
 www.google.*##.xpd:has([href*="uwenku.com"])
 www.google.*##.xpd:has([href*="w3big.com"])
