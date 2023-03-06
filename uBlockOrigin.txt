@@ -1,3 +1,6 @@
+www.google.*##.xpd:has([href*="living-sun.com"])
+www.google.*##.xpd:has([href*="qastack.jp"])
+www.google.*##.xpd:has([href*="codeflow.site"])
 www.google.*##.xpd:has([href*="it-swarm.dev"])
 www.google.*##.xpd:has([href*="it-swarm-ja.com"])
 www.google.*##.xpd:has([href*="coder.work"])
