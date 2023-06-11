@@ -916,3 +916,6 @@
 - domain: 'taiwebs.com'
   evidence: 'https://ja.taiwebs.com/windows/download-teamviewer-528.html'
   note:
+- domain: 'tacklenote.com'
+  evidence: 'https://tacklenote.com/columns/red-axis-gaming-keyboard/'
+  note:
