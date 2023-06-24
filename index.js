@@ -6,7 +6,7 @@ const urlFile = process.argv[2]
 
 function remove_File(path) {
     if (fs.existsSync(path)) {
-        fs.unlink(path, (err) => { if (err) throw err })
+        fs.unlinkSync(path, (err) => { if (err) throw err })
     }
 }
 
