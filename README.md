@@ -1,5 +1,8 @@
 # uBlacklist
 
+[![jp](https://img.shields.io/badge/lang-jp-green.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.en-US.md)
+
 ## リスト
 
 * [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt)
