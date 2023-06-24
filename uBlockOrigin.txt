@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: PRiMENON/uBlacklist filter
 ! Description: PRiMENON uBlacklist uBlock Origin filter
-! Expires: 4 days
-! Last modified: 2023-06-11T07:06:02.779Z
+! Expires: 10 days
+! Last modified: 2023-06-24T08:35:56.846Z
 ! Homepage: https://github.com/PRiMENON/uBlacklist
 ! License: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
 
