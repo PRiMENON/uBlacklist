@@ -1,7 +1,7 @@
 # uBlacklist
 
 [![jp](https://img.shields.io/badge/lang-jp-green.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.en-US.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.en-us.md)
 
 ## リスト
 
