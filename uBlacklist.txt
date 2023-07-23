@@ -1,6 +1,6 @@
 !# Homepage: https://github.com/PRiMENON/uBlacklist
 !# License: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
-!# Last modified: 2023-06-24T08:35:56.846Z
+!# Last modified: 2023-07-23T08:52:24.685Z
 
 /([a-z\.]+\.)?living-sun\.com/
 /([a-z\.]+\.)?qastack\.jp/
@@ -309,3 +309,9 @@
 /([a-z\.]+\.)?linux-console\.net/
 /([a-z\.]+\.)?taiwebs\.com/
 /([a-z\.]+\.)?tacklenote\.com/
+/([a-z\.]+\.)?drivereasy\.jp/
+/([a-z\.]+\.)?solvusoft\.com/
+/([a-z\.]+\.)?drivercan\.jp/
+/([a-z\.]+\.)?nodevice\.jp/
+/([a-z\.]+\.)?drvhub\.net/
+/([a-z\.]+\.)?webcamtests\.com/
