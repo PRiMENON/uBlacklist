@@ -919,3 +919,21 @@
 - domain: 'tacklenote.com'
   evidence: 'https://tacklenote.com/columns/red-axis-gaming-keyboard/'
   note:
+- domain: 'drivereasy.jp'
+  evidence: 'https://www.drivereasy.jp/how-to-reinstall-nvidia-driver/'
+  note:
+- domain: 'solvusoft.com'
+  evidence: 'https://www.solvusoft.com/ja/update/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90/%E3%82%B8%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/thrustmaster/models/'
+  note:
+- domain: 'drivercan.jp'
+  evidence: 'http://logitech.drivercan.jp/keyboards/'
+  note:
+- domain: 'nodevice.jp'
+  evidence: 'https://www.nodevice.jp/drivers/mouse/logitech/g100'
+  note:
+- domain: 'drvhub.net'
+  evidence: 'https://jp.drvhub.net/devices/cameras-and-scanners/logicool/qcam-3000'
+  note:
+- domain: 'webcamtests.com'
+  evidence: 'https://ja.webcamtests.com/drivers/logitech/2019-08-05-23-27-13'
+  note:
