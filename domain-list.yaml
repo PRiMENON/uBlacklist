@@ -937,3 +937,6 @@
 - domain: 'webcamtests.com'
   evidence: 'https://ja.webcamtests.com/drivers/logitech/2019-08-05-23-27-13'
   note:
+- domain: 'laptopmedia.com'
+  evidence: 'https://laptopmedia.com/jp/review/lenovo-ideapad-slim-3-14-amd-gen-8-review-good-budget-daily-driver-with-some-downsides/'
+  note:
