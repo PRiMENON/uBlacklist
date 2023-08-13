@@ -940,3 +940,9 @@
 - domain: 'laptopmedia.com'
   evidence: 'https://laptopmedia.com/jp/review/lenovo-ideapad-slim-3-14-amd-gen-8-review-good-budget-daily-driver-with-some-downsides/'
   note:
+- domain: 'gamingdeputy.com'
+  evidence: 'https://www.gamingdeputy.com/jp/windows/%e3%81%93%e3%81%ae%e9%9d%9e%e5%b8%b8%e3%81%ab%e5%af%9b%e5%a4%a7%e3%81%aa-lenovo-tab-p11-2023-%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%92%e8%a6%8b%e9%80%83%e3%81%97%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84/'
+  note:
+- domain: 'rebyusoku.com'
+  evidence: 'https://rebyusoku.com/kid0314/'
+  note:
