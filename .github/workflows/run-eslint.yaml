@@ -3,7 +3,7 @@ run-name: Run ESLint
 on:
     push:
         branchs:
-            - master
+            - main
 jobs:
     build:
         runs-on: ubuntu-latest

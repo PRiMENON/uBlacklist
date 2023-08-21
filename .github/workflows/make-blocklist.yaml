@@ -3,7 +3,7 @@ run-name: Make blocklist
 on:
     push:
         branches:
-            - master
+            - main
         paths:
             - "src/**"
             - "domain-list.yaml"
