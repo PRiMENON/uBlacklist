@@ -946,3 +946,6 @@
 - domain: 'rebyusoku.com'
   evidence: 'https://rebyusoku.com/kid0314/'
   note:
+- domain: 'gourmet-note.jp'
+  evidence: 'https://gourmet-note.jp/posts/17741'
+  note: '私の料理ツイートを使ってレシピとして公開している…'
