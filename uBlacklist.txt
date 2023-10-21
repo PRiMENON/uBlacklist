@@ -1,6 +1,6 @@
 !# Homepage: https://github.com/PRiMENON/uBlacklist
 !# License: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
-!# Last modified: 2023-09-17T13:14:29.083Z
+!# Last modified: 2023-10-21T07:15:35.693Z
 
 /([a-z\.]+\.)?living-sun\.com/
 /([a-z\.]+\.)?qastack\.jp/
@@ -322,3 +322,4 @@
 /([a-z\.]+\.)?cloudo3\.com/
 /([a-z\.]+\.)?tunesbro\.jp/
 /([a-z\.]+\.)?clickthis\.blog/
+/([a-z\.]+\.)?sotwe\.com/
