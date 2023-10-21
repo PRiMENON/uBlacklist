@@ -958,3 +958,6 @@
 - domain: 'clickthis.blog'
   evidence: 'https://clickthis.blog/ja/kak-udalit-wsl-v-windows-11/'
   note: ''
+- domain: 'sotwe.com'
+  evidence: 'https://www.sotwe.com/primenon'
+  note: 'twitter web viewer'
