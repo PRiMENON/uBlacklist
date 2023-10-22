@@ -5,17 +5,17 @@
 |1|`living-sun.com`|https://living-sun.com/ja/winapi/854228-findfirstfileex-wildcard-characters-winapi.html|200|
 |2|`qastack.jp`|https://qastack.jp/travel/25667/is-there-any-region-island-mountain-or-village-in-japan-known-for-hot-spicy-local-cuisine|200|
 |3|`codeflow.site`|https://www.codeflow.site/ja/article/how-to-write-and-run-your-first-program-in-node-js|200|
-|4|`it-swarm.dev`|https://www.it-swarm.dev/ja/node.js/nodejs%E3%81%A8v8%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/831456564/|200|
+|4|`it-swarm.dev`|https://www.it-swarm.dev/ja/node.js/nodejs%E3%81%A8v8%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/831456564/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |5|`it-swarm-ja.com`|https://www.it-swarm-ja.com/ja/javascript/javascriptdate/967313519/|200|
 |6|`coder.work`|https://www.coder.work/article/6060729|200|
 |7|`uwenku.com`|http://ja.uwenku.com/question/p-rklwhgjh-kq.html|200|
 |8|`w3big.com`|http://www.w3big.com/ja/nodejs/nodejs-install-setup.html#gsc.tab=0|200|
 |9|`riptutorial.com`|https://riptutorial.com/phpunit|200|
 |10|`steakrecords.com`|https://steakrecords.com/ja/582729-how-to-reduce-3color-to-3sat-np-complete-reduction.html|200|
-|11|`javaer101.com`|https://www.javaer101.com/ja/article/41223939.html|200|
+|11|`javaer101.com`|https://www.javaer101.com/ja/article/41223939.html|502|
 |12|`tutorialmore.com`|https://tutorialmore.com/questions-2188780.htm|200|
 |13|`nuomiphp.com`|https://www.nuomiphp.com/d/26570-github-trending-2022-10-27|200|
-|14|`xiaolee.net`|https://blog.xiaolee.net/xiaolee/nodejs-install.html|200|
+|14|`xiaolee.net`|https://blog.xiaolee.net/xiaolee/nodejs-install.html| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |15|`fixes.pub`|https://www.fixes.pub/program/728080.html|200|
 |16|`bleepcoder.com`|https://bleepcoder.com/ja/longhorn/664117087/bug-improve-kubernetes-node-drain-support|200|
 |17|`projectbackpack.org`|https://jpn.projectbackpack.org/646790-opening-html-from-google-drive-JQDPBB|200|
@@ -25,23 +25,23 @@
 |21|`ti-enxame.com`|https://www.kutombawewe.net/pt/node.js/no-fs-erro-eperm-operacao-nao-permitida-aberta/1057075674/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |22|`stackovergo.com`|https://stackovergo.com/ja/q/1821229/how-would-you-check-for-undefined-property-in-ejs-for-nodejs|200|
 |23|`extendoffice.com`|https://ja.extendoffice.com/product/kutools-for-excel/excel-fuzzy-lookup.html|200|
-|24|`cndgn.com`|https://cndgn.com/question/stack/28852426/multidatespicker-adddisableddates|404|
+|24|`cndgn.com`|https://cndgn.com/question/stack/28852426/multidatespicker-adddisableddates|503|
 |25|`yaoply.com`|https://yaoply.com/items/phpword-templateprocessor-uninitialized|200|
 |26|`isolution.pro`|https://isolution.pro/t/python-deep-learning|200|
 |27|`generacodice.com`|https://www.generacodice.com/jp/articolo/28392/eclipse%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E6%A4%9C%E7%B4%A2%E3%81%ABsvn%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%82%92%E5%90%AB%E3%82%81%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B|200|
 |28|`tutorialink.com`|https://java.tutorialink.com/doubly-linked-list-insert-before-a-given-node-in-java/|200|
 |29|`delftstack.com`|https://www.delftstack.com/ja/howto/node.js/check-the-installed-version-of-node-js/|200|
-|30|`jpdebug.com`|https://jpdebug.com/p/1937284|200|
+|30|`jpdebug.com`|https://jpdebug.com/p/1937284|404|
 |31|`dev-qa.com`|https://dev-qa.com/1549124/qabstracttablemodel-or-qsqltablemodel|200|
-|32|`ja.arip-photo.org`|https://ja.arip-photo.org/604117-ping-replies-from-same-computer-XVOXRB| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|32|`ja.arip-photo.org`|https://ja.arip-photo.org/604117-ping-replies-from-same-computer-XVOXRB|200|
 |33|`ciksiti.com`|https://ciksiti.com/es/chapters/10360-list-iterator-c|200|
 |34|`web-dev-qa-db-ja.com`|https://www.web-dev-qa-db-ja.com/ja/javascript/%E3%82%A8%E3%83%A9%E3%83%BC%EF%BC%9Agetaddrinfo-eaiagain/827974021/|200|
-|35|`tagsqa.com`|https://tagsqa.com/detail/27264| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|35|`tagsqa.com`|https://tagsqa.com/detail/27264|439|
 |36|`jl-k.com`|https://git.jl-k.com/primenon|200|
-|37|`phala.one`|https://github.phala.one/primenon|404|
+|37|`phala.one`|https://github.phala.one/primenon| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |38|`ioiox.com`|https://github.ioiox.com/stilleshan|200|
 |39|`domain.glass`|http://twtr.domain.glass/cityhokuto/status/1341661747132821504|503|
-|40|`leftic.club`|https://nitter.leftic.club/primenon|200|
+|40|`leftic.club`|https://nitter.leftic.club/primenon|502|
 |41|`o-k.jp`|http://twiteru.o-k.jp/?id=34086|403|
 |42|`postgresqlco.nf`|https://postgresqlco.nf/doc/ja/param/max_parallel_workers_per_gather/|200|
 |43|`nixnet.services`|https://git.nixnet.services/mirrors/mastodon|200|
@@ -58,7 +58,7 @@
 |54|`softantenna.com`|https://softantenna.com/blog/mancy/|200|
 |55|`lhaplus.org`|https://www.lhaplus.org/peazip/|200|
 |56|`softaro.net`|https://softaro.net/soundswitch/|200|
-|57|`appannie.com`|https://www.appannie.com/ru/apps/ios/app/learn-node-js-programming-pro/|403|
+|57|`appannie.com`|https://www.appannie.com/ru/apps/ios/app/learn-node-js-programming-pro/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |58|`kakakusearch.com`|https://kakakusearch.com/jancode/4580771740528|200|
 |59|`smartstartechnology.com`|https://4k.smartstartechnology.com/65p635/|200|
 |60|`onihikaku.com`|https://onihikaku.com/?p=45816|200|
@@ -70,7 +70,7 @@
 |66|`fashion.biglobe.ne.jp`|https://fashion.biglobe.ne.jp/kids/cate_babygoods_sling/|200|
 |67|`919.cc`|https://919.cc/sale_news/|200|
 |68|`download.com.vn`|https://download.com.vn/s/notepad|200|
-|69|`runebook.dev`|https://runebook.dev/ja/docs/mocha/|200|
+|69|`runebook.dev`|https://runebook.dev/ja/docs/mocha/|404|
 |70|`shirabeta.net`|https://shirabeta.net/Anaconda-install-error.html|200|
 |71|`safetydetectives.com`|https://ja.safetydetectives.com/best-antivirus/norton/coupons/|200|
 |72|`ik4.es`|https://ik4.es/ja/nativefier%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6Web%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92Linux%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/|200|
@@ -90,14 +90,14 @@
 |86|`it-kyujin.jp`|https://it-kyujin.jp/word/2/|200|
 |87|`itnews.org`|https://itnews.org/news_resources/30654| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |88|`zephyrnet.com`|https://zephyrnet.com/ja/%E8%B3%AD%E5%8D%9A/|200|
-|89|`codegrepper.com`|https://www.codegrepper.com/code-examples/php/How+to+Log+Query+in+Laravel| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|89|`codegrepper.com`|https://www.codegrepper.com/code-examples/php/How+to+Log+Query+in+Laravel|200|
 |90|`bluestar-journal.com`|https://bluestar-journal.com/archives/9848|200|
 |91|`brightchanging.com`|https://brightchanging.com/takedajyun-oneegiwaku|200|
 |92|`chuumoku.net`|https://chuumoku.net/arisawayuki/|200|
 |93|`mag-zou.com`|https://mag-zou.com/actress/17389/|200|
-|94|`dricho.com`|https://dricho.com/20190616/|200|
+|94|`dricho.com`|https://dricho.com/20190616/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |95|`endia.net`|https://endia.net/miyagimai|200|
-|96|`entamescramble.com`|https://entamescramble.com/17289.html|200|
+|96|`entamescramble.com`|https://entamescramble.com/17289.html| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |97|`f-shirushi.com`|https://f-shirushi.com/archives/7722|200|
 |98|`geinou-summary666.com`|https://geinou-summary666.com/7182.html|200|
 |99|`girlschannel.net`|https://girlschannel.net/topics/2593428/|200|
@@ -113,7 +113,7 @@
 |109|`starblog.jp`|https://sp.starblog.jp/soccer.php|200|
 |110|`trend-passion-life.com`|http://trend-passion-life.com/tamashirothina-who-429|200|
 |111|`tekutekuweb.site`|https://tekutekuweb.site/kinashi_uta/|200|
-|112|`the-jet-sleeper.com`|https://the-jet-sleeper.com/hondokaede-01/|200|
+|112|`the-jet-sleeper.com`|https://the-jet-sleeper.com/hondokaede-01/|404|
 |113|`petitwings.com`|https://petitwings.com/archives/5723|200|
 |114|`noh-gakudo.jp`|http://noh-gakudo.jp/keyaki46/|200|
 |115|`juxtin.com`|https://www.juxtin.com/toyoetsu/|200|
@@ -122,7 +122,7 @@
 |118|`brandnew-s.com`|https://brandnew-s.com/2018/01/17/kumkuraakihiro/|404|
 |119|`robamimireport.com`|https://robamimireport.com/ehomaki-hikaku/|200|
 |120|`sarattosokuhou.com`|https://sarattosokuhou.com/entame/mcma/|200|
-|121|`wezz-y.com`|https://wezz-y.com/archives/81034|200|
+|121|`wezz-y.com`|https://wezz-y.com/archives/81034|404|
 |122|`windy-windy.net`|https://windy-windy.net/saitokozue|200|
 |123|`xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com`|https://xn--n8j3azcmckmhu6nxb0gr698btbwag18eo49cffg.com/page/8/|200|
 |124|`xn--u9j5h1btf1ez99qnszei5c8ws.com`|https://xn--u9j5h1btf1ez99qnszei5c8ws.com/ayatatakeshi/|200|
@@ -140,14 +140,14 @@
 |136|`jcc.jp`|https://jcc.jp/news/18917425/|404|
 |137|`portalfield.com`|https://portalfield.com/news/hobby/674743|404|
 |138|`share-mika.jp`|https://share-mika.jp/2022/08/31/%e5%9c%9f%e6%98%9f%e3%81%af%e5%bf%83%e8%87%93%e3%81%ab%e6%af%9b%e3%82%92%e7%94%9f%e3%82%84%e3%81%99%e3%81%9f%e3%82%81/|200|
-|139|`alfalfalfa.com`|http://alfalfalfa.com/articles/314742.html&fedorefe=|200|
+|139|`alfalfalfa.com`|http://alfalfalfa.com/articles/314742.html&fedorefe=|404|
 |140|`headtopics.com`|https://headtopics.com/jp/309283000012398896879-31172852|200|
 |141|`onewordblog-maison.com`|https://onewordblog-maison.com/archives/1021|200|
 |142|`chht7.com`|https://chht7.com/?p=4240|200|
 |143|`f-frontier.com`|https://anime.f-frontier.com/2022/10/28/45993/|200|
 |144|`matomame.jp`|https://game.matomame.jp/user/moepapa/513975fc02341f5067c5|200|
 |145|`esuteru.com`|http://blog.esuteru.com/archives/9937025.html|200|
-|146|`twtimez.net`|http://www.twtimez.net/history/history1556203500148858881.html|200|
+|146|`twtimez.net`|http://www.twtimez.net/history/history1556203500148858881.html|404|
 |147|`naonews.jp`|https://naonews.jp/5955|200|
 |148|`matomedane.jp`|https://matomedane.jp/page/99803|200|
 |149|`jin115.com`|http://jin115.com/archives/52357079.html|200|
@@ -157,19 +157,19 @@
 |153|`entertainment-topics.jp`|https://entertainment-topics.jp/148829|200|
 |154|`leisurego.jp`|https://leisurego.jp/archives/351989|200|
 |155|`sn-jp.com`|https://sn-jp.com/archives/84851|200|
-|156|`announcer-news.com`|https://announcer-news.com/terakawashunpei|200|
+|156|`announcer-news.com`|https://announcer-news.com/terakawashunpei|404|
 |157|`logtube.jp`|https://logtube.jp/entertainment/108211|200|
 |158|`kenny01.com`|https://kenny01.com/midorikun/|200|
 |159|`suntoranosuke.com`|https://suntoranosuke.com/befirst-buzz-rhythm-2021/|200|
 |160|`aidoly.net`|https://aidoly.net/I0004197|200|
 |161|`tsuiran.jp`|https://tsuiran.jp/pickup/20221026/23695|200|
-|162|`media-freak.jp`|https://media-freak.jp/2021/11/22/post-3072/|200|
+|162|`media-freak.jp`|https://media-freak.jp/2021/11/22/post-3072/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |163|`myprivatecomedy.net`|https://www.myprivatecomedy.net/entry/about-movie-la-confidential|200|
 |164|`free-workstyle.com`|https://free-workstyle.com/archives/434|200|
 |165|`bookservice.jp`|https://www.bookservice.jp/2021/03/26/post-45821/|200|
 |166|`monokuro0210.com`|https://monokuro0210.com/pcr-child/|200|
 |167|`sejuku.net`|https://www.sejuku.net/blog/45745|200|
-|168|`ceron.jp`|https://ceron.jp/url/mainichi.jp/articles/20221029/k00/00m/040/009000c|403|
+|168|`ceron.jp`|https://ceron.jp/url/mainichi.jp/articles/20221029/k00/00m/040/009000c|404|
 |169|`techacademy.jp`|https://magazine.techacademy.jp/magazine/16050|200|
 |170|`bousaid.com`|https://www.bousaid.com/%e6%a8%aa%e6%b5%9c%e3%81%a7%e3%81%ae%e5%ae%bf%e6%b3%8a%e3%81%8c%e6%9c%80%e5%a4%a760%ef%bc%85%e5%89%b2%e5%bc%95%e3%81%ae%e3%80%8cfind-your-yokohama-%e7%ac%ac4%e5%bc%be%e3%80%8d%e3%81%8c11%e6%9c%88/|200|
 |171|`moov.ooo`|https://moov.ooo/article/5eb253713b38e72f99af44c6?src=ranking&num=1|200|
@@ -183,7 +183,7 @@
 |179|`mamari.jp`|https://mamari.jp/6269|200|
 |180|`iecolle.com`|https://iecolle.com/P00PA9C7TC/|200|
 |181|`heim.jp`|https://heim.jp/magazine/7195718|200|
-|182|`smashop.jp`|https://smashop.jp/dp/4535164029575|200|
+|182|`smashop.jp`|https://smashop.jp/dp/4535164029575|404|
 |183|`sakidori.co`|https://sakidori.co/article/560594|200|
 |184|`bg-mania.jp`|https://bg-mania.jp/2022/10/29516496.html|200|
 |185|`xn--nckxbf7qx37l79c.com`|https://xn--nckxbf7qx37l79c.com/%E8%AA%BF%E5%91%B3%E6%96%99/%E3%81%8A%E5%88%BA%E8%BA%AB%E3%81%AB%E5%90%88%E3%81%86%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E9%86%A4%E6%B2%B9/|200|
@@ -197,16 +197,16 @@
 |193|`next-infonews.com`|https://next-infonews.com/news/43990/|200|
 |194|`parupunte-life.com`|https://parupunte-life.com/archives/25169|200|
 |195|`mikobito.com`|https://mikobito.com/satojyuniti-taiho/|404|
-|196|`rubese.net`|https://rubese.net/twisoq/index.php?id=417737|200|
+|196|`rubese.net`|https://rubese.net/twisoq/index.php?id=417737|404|
 |197|`miyearnzzlabo.com`|https://miyearnzzlabo.com/archives/92915|200|
 |198|`coron.tech`|https://coron.tech/news/youtube-4k-video-premium-only/|200|
 |199|`thenewsdoctors.com`|https://thenewsdoctors.com/956/|200|
 |200|`laplascale.com`|https://www.laplascale.com/sp/page-review/3996-4164224846256441/|200|
-|201|`tech-wiki.online`|https://tech-wiki.online/ru/|521|
-|202|`fogsbane.dev`|https://fogsbane.dev/ja/q/e561fce1c4bb7f76a89193247691fdf1602a83333bc4148f8b0e60c879642777| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|201|`tech-wiki.online`|https://tech-wiki.online/ru/|404|
+|202|`fogsbane.dev`|https://fogsbane.dev/ja/q/e561fce1c4bb7f76a89193247691fdf1602a83333bc4148f8b0e60c879642777|200|
 |203|`codegear.dev`|https://codegear.dev/ja/docs/671eb9f9da4d71be9d764a9d20884734f8a01b8049f4d459ddc1ce7aa9155e19| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |204|`melkia.dev`|https://melkia.dev/ja/docs/b63fc8c3c15667cf4702d99cd396cabcc90899191c58b5bcaf76a15b38b25aa5| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
-|205|`answer-id.com`|https://answer-id.com/51962168|200|
+|205|`answer-id.com`|https://answer-id.com/51962168| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |206|`kaworu.jpn.org`|https://kaworu.jpn.org/kaworu/2020-04-13-1.php|200|
 |207|`minitool.com`|https://videoconvert.minitool.com/|200|
 |208|`tipstour.net`|https://tipstour.net/excel-x-avedev|200|
@@ -221,10 +221,10 @@
 |217|`itlab51.com`|https://www.itlab51.com/?p=18218|200|
 |218|`step-learn.com`|https://step-learn.com/article/html-css/index.html|200|
 |219|`tombouctou-food.com`|https://tombouctou-food.com/ja/ja145127/|200|
-|220|`rssing.com`|https://www.rssing.com/contact.php|502|
-|221|`mbcnet.org`|https://mbcnet.org/introduction-password-less-authentication-ciso-guide/|200|
+|220|`rssing.com`|https://www.rssing.com/contact.php|200|
+|221|`mbcnet.org`|https://mbcnet.org/introduction-password-less-authentication-ciso-guide/|439|
 |222|`morioh.com`|https://morioh.com/topic/angular|200|
-|223|`websetnet.net`|https://websetnet.net/ja/ubuntu-20-04%E3%81%AB%E3%83%8E%E3%83%BC%E3%83%89js%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/|200|
+|223|`websetnet.net`|https://websetnet.net/ja/ubuntu-20-04%E3%81%AB%E3%83%8E%E3%83%BC%E3%83%89js%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/|403|
 |224|`neuf.tv`|https://www.neuf.tv/ja/%E3%83%90%E3%82%A4%E3%83%87%E3%83%B3%E7%A4%BE%E9%95%B7%E3%81%8C%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%81%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%E5%90%91%E3%81%913nm%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%89%E3%82%92%E6%A4%9C%E8%A8%8E|200|
 |225|`fibjs.org`|https://fibjs.org/ja/docs/awesome/readme.md.html|200|
 |226|`wenyanet.com`|https://www.wenyanet.com/d/146-raspberry-pi-deisariamunohuru-nodowogou-zhu-suruniha-donokurainofei-yong-gakakarimasuka|200|
@@ -237,14 +237,14 @@
 |233|`manuals.plus`|https://manuals.plus/ja/tag/node|200|
 |234|`getdocs.org`|https://ja.getdocs.org/how-to-use-npm-to-manage-node-js-packages-on-a-linux-server|200|
 |235|`techiedelight.com`|https://www.techiedelight.com/ja/determine-key-exists-javascript-object/|200|
-|236|`ipingguoyuan.com`|https://www.ipingguoyuan.com/pl/app/io.spck.editor.node|200|
+|236|`ipingguoyuan.com`|https://www.ipingguoyuan.com/pl/app/io.spck.editor.node| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |237|`partitionwizard.jp`|https://www.partitionwizard.jp/clone-disk/signs-of-hard-drive-failure.html|200|
-|238|`desdelinux.net`|https://blog.desdelinux.net/ja/node-js-13%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/|200|
-|239|`mspoweruser.com`|https://mspoweruser.com/ja/microsoft-announces-experimental-support-node-chakracore-macos/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+msftnws+%28Microsoft+News%29|200|
+|238|`desdelinux.net`|https://blog.desdelinux.net/ja/node-js-13%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
+|239|`mspoweruser.com`|https://mspoweruser.com/ja/microsoft-announces-experimental-support-node-chakracore-macos/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+msftnws+%28Microsoft+News%29|410|
 |240|`kanmuryou.com`|https://shop.kanmuryou.com/camera/?genre=%E4%B8%89%E8%84%9A|200|
 |241|`skinandxxx.com`|https://skinandxxx.com/comdot-annualincome/|200|
 |242|`5ch.net`|https://asahi.5ch.net/newsplus/|200|
-|243|`ula.cc`|http://bintan.ula.cc/2ch/comicnews/|200|
+|243|`ula.cc`|http://bintan.ula.cc/2ch/comicnews/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |244|`pic2.icu`|http://ja.pic2.icu/r/php/1501071071/|530|
 |245|`2ch.sc`|http://toro.2ch.sc/test/read.cgi/tech/1582906877/l50|200|
 |246|`5chb.net`|http://5chb.net/2ch/hibari.2ch.net/hack/1620984411/|530|
@@ -261,14 +261,14 @@
 |257|`justanswer.jp`|https://www.justanswer.jp/microsoft/ehrrm-pdf-0x8007007e.html|403|
 |258|`selwan.net`|https://www.selwan.net/jp/%e3%81%9f%e3%81%be-%e3%82%80%e3%81%99%e3%81%b3-%e7%b5%82%e4%ba%86-%e7%90%86%e7%94%b1| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |259|`gaget.hatenablog.com`|https://gaget.hatenablog.com/entry/Windows11-dentaku|200|
-|260|`trendn.jp`|https://trendn.jp/answer/%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95-%e6%9c%80%e5%88%9d-%e3%81%ab-%e3%82%84%e3%82%8b-%e3%81%93%e3%81%a8|404|
+|260|`trendn.jp`|https://trendn.jp/answer/%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95-%e6%9c%80%e5%88%9d-%e3%81%ab-%e3%82%84%e3%82%8b-%e3%81%93%e3%81%a8| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |261|`seesaawiki.jp/windows10memo`|https://seesaawiki.jp/windows10memo/d/Windows%20%c1%e0%ba%ee%20%b4%d8%cf%a2%a5%e1%a5%e2|200|
 |262|`jo-sys.net`|https://jo-sys.net/google-search/|200|
-|263|`nekosen.jp`|https://nekosen.jp/nagishio-kodomo/|200|
+|263|`nekosen.jp`|https://nekosen.jp/nagishio-kodomo/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |264|`2ch2.net`|https://b.2ch2.net/gya/i/|200|
 |265|`unavailable.jp`|https://unavailable.jp/early-weather-info-jma-20230116/|200|
-|266|`news.unavailable.jp`|https://news.unavailable.jp/%e5%8c%97%e6%9c%9d%e9%ae%ae%e3%81%8c%e5%bc%be%e9%81%93%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e7%99%ba%e5%b0%84%e3%81%a8%e9%9f%93%e5%9b%bd%e8%bb%8d-4/|200|
-|267|`news-agency.unavailable.jp`|https://news-agency.unavailable.jp/%e7%b1%b3%e3%83%8f%e3%83%aa%e3%82%b1%e3%83%bc%e3%83%b3%e3%80%81%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e%e3%81%ae%e6%ad%bb%e8%80%85%ef%bc%94%ef%bc%95%e4%ba%ba%e3%81%ab%e3%80%80%e7%86%b1%e5%b8%af/|200|
+|266|`news.unavailable.jp`|https://news.unavailable.jp/%e5%8c%97%e6%9c%9d%e9%ae%ae%e3%81%8c%e5%bc%be%e9%81%93%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e7%99%ba%e5%b0%84%e3%81%a8%e9%9f%93%e5%9b%bd%e8%bb%8d-4/|404|
+|267|`news-agency.unavailable.jp`|https://news-agency.unavailable.jp/%e7%b1%b3%e3%83%8f%e3%83%aa%e3%82%b1%e3%83%bc%e3%83%b3%e3%80%81%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e%e3%81%ae%e6%ad%bb%e8%80%85%ef%bc%94%ef%bc%95%e4%ba%ba%e3%81%ab%e3%80%80%e7%86%b1%e5%b8%af/| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |268|`twitfukuoka.com`|https://twitfukuoka.com/?p=73337|404|
 |269|`fukuokadx.com`|https://www.fukuokadx.com/2023/01/blog-post_62.html|200|
 |270|`saigaitaisaku-blog.com`|https://www.saigaitaisaku-blog.com/post-4/|200|
@@ -282,21 +282,21 @@
 |278|`crast.net`|https://crast.net/122059/we-tell-you-if-downloading-softonic-programs-is-safe/|403|
 |279|`softonic.com`|https://notepad-plus.en.softonic.com/|200|
 |280|`uirusu.jp`|https://uirusu.jp/%E5%B9%B4%E3%81%AE%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E9%99%A4%E5%8E%BB%E3%83%99%E3%82%B9%E3%83%88%E3%83%BB%E3%83%84%E3%83%BC%E3%83%AB/|200|
-|281|`removemalware-jp.com`|https://www.removemalware-jp.com/%e4%be%b5%e5%85%a5%e7%9c%9f%e5%ae%9f%e3%81%8capt-17%e3%82%92%e6%98%8e%e3%82%89%e3%81%8b%e3%81%ab%e3%81%99%e3%82%8b|200|
+|281|`removemalware-jp.com`|https://www.removemalware-jp.com/%e4%be%b5%e5%85%a5%e7%9c%9f%e5%ae%9f%e3%81%8capt-17%e3%82%92%e6%98%8e%e3%82%89%e3%81%8b%e3%81%ab%e3%81%99%e3%82%8b| net::ERR_SSL_PROTOCOL_ERROR,or ERR_CONECTION_TIMED_OUT |
 |282|`updatestar.com`|https://microsoft-office-professional-plus.updatestar.com/ja|200|
 |283|`spinaltap.jp`|https://spinaltap.jp/watamabe-oitachi/|200|
 |284|`turntablefilms.com`|https://turntablefilms.com/watanabeyuki-kanechikadaiki/|200|
-|285|`50daidemofiremezasu.com`|https://50daidemofiremezasu.com/watanabeyuuki-kazoku/|200|
+|285|`50daidemofiremezasu.com`|https://50daidemofiremezasu.com/watanabeyuuki-kazoku/|404|
 |286|`miyawaki-sakura-hkt48.jp`|https://miyawaki-sakura-hkt48.jp/mitate-shinichi-rufi/|200|
 |287|`moratorium32.com`|https://moratorium32.com/yuki-watanabe-highschool/|200|
 |288|`awesome1213.com`|https://awesome1213.com/watanabe/|200|
-|289|`boku-koi.com`|https://www.boku-koi.com/kanechika-3reasons/6973/|200|
+|289|`boku-koi.com`|https://www.boku-koi.com/kanechika-3reasons/6973/|404|
 |290|`saisin-news.com`|https://saisin-news.com/2023/01/watanabeyuki-kanetikadaiki/|200|
-|291|`yakusokunosora.com`|https://yakusokunosora.com/watanabeyuuki-kanechika/|200|
+|291|`yakusokunosora.com`|https://yakusokunosora.com/watanabeyuuki-kanechika/|404|
 |292|`shufu-eyes.com`|https://shufu-eyes.com/watanabeyuki-kanechikadaiki/|200|
 |293|`sanyonews.jp`|https://www.sanyonews.jp/sp/article/1357387|200|
 |294|`sug-web.jp`|https://sug-web.jp/kanetika-watanabe/|200|
-|295|`wt-musicexpo.com`|https://wt-musicexpo.com/ishidaissei-former-wife/|200|
+|295|`wt-musicexpo.com`|https://wt-musicexpo.com/ishidaissei-former-wife/|404|
 |296|`fukuoka-fa.com`|https://www.fukuoka-fa.com/isida/|200|
 |297|`deathwish.jp`|https://deathwish.jp/ishidaissei-lover/|200|
 |298|`33man.jp`|https://33man.jp/article/012696.html|200|
@@ -307,3 +307,19 @@
 |303|`quick-timez.com`|https://quick-timez.com/2023/02/02/takaimikishiin9202/|200|
 |304|`commonsense11.com`|http://jp.commonsense11.com/pic_a0MwV3JaY0FFUmM9|200|
 |305|`linux-console.net`|https://ja.linux-console.net/?p=777|200|
+|306|`taiwebs.com`|https://ja.taiwebs.com/windows/download-teamviewer-528.html|200|
+|307|`tacklenote.com`|https://tacklenote.com/columns/red-axis-gaming-keyboard/|200|
+|308|`drivereasy.jp`|https://www.drivereasy.jp/how-to-reinstall-nvidia-driver/|200|
+|309|`solvusoft.com`|https://www.solvusoft.com/ja/update/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90/%E3%82%B8%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF/thrustmaster/models/|200|
+|310|`drivercan.jp`|http://logitech.drivercan.jp/keyboards/|200|
+|311|`nodevice.jp`|https://www.nodevice.jp/drivers/mouse/logitech/g100|200|
+|312|`drvhub.net`|https://jp.drvhub.net/devices/cameras-and-scanners/logicool/qcam-3000|200|
+|313|`webcamtests.com`|https://ja.webcamtests.com/drivers/logitech/2019-08-05-23-27-13|200|
+|314|`laptopmedia.com`|https://laptopmedia.com/jp/review/lenovo-ideapad-slim-3-14-amd-gen-8-review-good-budget-daily-driver-with-some-downsides/|403|
+|315|`gamingdeputy.com`|https://www.gamingdeputy.com/jp/windows/%e3%81%93%e3%81%ae%e9%9d%9e%e5%b8%b8%e3%81%ab%e5%af%9b%e5%a4%a7%e3%81%aa-lenovo-tab-p11-2023-%e3%82%bb%e3%83%bc%e3%83%ab%e3%82%92%e8%a6%8b%e9%80%83%e3%81%97%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84/|200|
+|316|`rebyusoku.com`|https://rebyusoku.com/kid0314/|200|
+|317|`gourmet-note.jp`|https://gourmet-note.jp/posts/17741|200|
+|318|`cloudo3.com`|https://cloudo3.com/ja/windows/windows-11-%E3%81%A6%E3%82%99-wsl-%E3%82%92%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/11241537|200|
+|319|`tunesbro.jp`|https://www.tunesbro.jp/blog/how-to-completely-uninstall-wsl-on-windows-10-11.html|200|
+|320|`clickthis.blog`|https://clickthis.blog/ja/kak-udalit-wsl-v-windows-11/|200|
+|321|`sotwe.com`|https://www.sotwe.com/primenon|403|
