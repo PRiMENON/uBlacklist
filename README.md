@@ -1,12 +1,12 @@
 # uBlacklist
 
-[![jp](https://img.shields.io/badge/lang-jp-green.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PRiMENON/uBlacklist/blob/master/README.en-us.md)
+[![jp](https://img.shields.io/badge/lang-jp-green.svg)](https://github.com/PRiMENON/uBlacklist/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PRiMENON/uBlacklist/blob/main/README.en-us.md)
 
 ## リスト
 
-* [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlacklist.txt)
-* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlockOrigin.txt)
+* [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/main/uBlacklist.txt)
+* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/main/uBlockOrigin.txt)
 
 ## エビデンス
 
@@ -33,7 +33,7 @@ Firefox は、uBlock Origin をインストールできるので、uBlock Origin
 1. uBlock Originをタップ
 1. 設定をタップ
 1. 上部のフィルターリストをタップして、一番下にある「インポート」をタップ
-1. 入力フォームが表示されるので[uBlockOrigin.txt](https://raw.githubusercontent.com/primenon/uBlacklist/master/uBlockOrigin.txt)のURLを貼る
+1. 入力フォームが表示されるので[uBlockOrigin.txt](https://raw.githubusercontent.com/primenon/uBlacklist/main/uBlockOrigin.txt)のURLを貼る
 1. 上部にある✔をタップ
 
 ## 追加するサイト
@@ -64,7 +64,7 @@ Firefox は、uBlock Origin をインストールできるので、uBlock Origin
 ## 注意
 
 [domain-list.yaml](domain-list.yaml)は、マルウェアや悪意のあるスクリプトを含むサイトにリダイレクトすることがあります。  
-puppeteer を実行するとブラウザでアクセスするのと同じですので、十分注意してください。
+puppeteer を実行するとブラウザでアクセスするのと同じですので、注意してください。
 
 ## 参考文献
 
