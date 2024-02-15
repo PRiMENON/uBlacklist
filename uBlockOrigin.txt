@@ -2,7 +2,7 @@
 ! Title: PRiMENON/uBlacklist filter
 ! Description: PRiMENON uBlacklist uBlock Origin filter
 ! Expires: 30 days
-! Last modified: 2023-12-17T11:56:51.034Z
+! Last modified: 2024-02-15T13:38:16.825Z
 ! Homepage: https://github.com/PRiMENON/uBlacklist
 ! License: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
 
@@ -330,3 +330,4 @@ www.google.*##.xpd:has([href*="sotwe.com"])
 www.google.*##.xpd:has([href*="qaafunny.com"])
 www.google.*##.xpd:has([href*="health-wonderful.com"])
 www.google.*##.xpd:has([href*="bjudyz.com"])
+www.google.*##.xpd:has([href*="pentanews.net"])
