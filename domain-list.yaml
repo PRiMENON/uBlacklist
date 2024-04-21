@@ -982,3 +982,6 @@
 - domain: 'cheeese.monex.co.jp'
   evidence: 'https://cheeese.monex.co.jp/shops/vc__2429038/detail'
   note: ''
+- domain: 'discord.do'
+  evidence: 'https://discord.do/download/'
+  note: ''
