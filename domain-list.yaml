@@ -985,3 +985,6 @@
 - domain: 'discord.do'
   evidence: 'https://discord.do/download/'
   note: ''
+- domain: 'monoqlo.tokyo'
+  evidence: 'https://monoqlo.tokyo/pc/32445/'
+  note: ''
