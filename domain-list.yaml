@@ -988,3 +988,6 @@
 - domain: 'monoqlo.tokyo'
   evidence: 'https://monoqlo.tokyo/pc/32445/'
   note: ''
+- domain: 'kurashi.biglobe.ne.jp'
+  evidence: 'https://kurashi.biglobe.ne.jp/rankings/3147/'
+  note: ''
