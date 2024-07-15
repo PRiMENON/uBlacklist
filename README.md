@@ -6,13 +6,7 @@
 ## リスト
 
 * [uBlacklist.txt](uBlacklist.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/main/uBlacklist.txt)
-* [uBlockOrigin.txt](uBlockOrigin.txt) [購読](https://raw.githubusercontent.com/primenon/uBlacklist/main/uBlockOrigin.txt)
-
-## エビデンス
-
-* [evidence.md](evidence.md)
-
-URLが生存しているかチェックしています。
+* uBlockOrigin.txt - Android版 Firefox で uBlacklist が利用可能になったので不要となりました。
 
 ## 使い方
 
@@ -48,13 +42,13 @@ Firefox は、uBlock Origin をインストールできるので、uBlock Origin
 ## 追加しないサイト
 
 * Googleがウェブスパムと定義しているサイト
-    * [ユーザー生成スパム](https://support.google.com/webmasters/answer/2721437?hl=ja)
-    * [ハッキングウェブスパム](https://developers.google.com/web/fundamentals/security/hacked/)
-    * [自動生成](https://support.google.com/webmasters/answer/2721306?hl=ja)
-    * [無断複製されたコンテンツ](https://support.google.com/webmasters/answer/2721312?hl=ja&ref_topic=6001971)
-    * [検索スパム](https://support.google.com/webmasters/answer/93713)
-    * [フィッシング](https://safebrowsing.google.com/safebrowsing/report_phish/)
-    * [マルウェア](https://www.google.com/safebrowsing/report_badware/)
+  * [ユーザー生成スパム](https://support.google.com/webmasters/answer/2721437?hl=ja)
+  * [ハッキングウェブスパム](https://developers.google.com/web/fundamentals/security/hacked/)
+  * [自動生成](https://support.google.com/webmasters/answer/2721306?hl=ja)
+  * [無断複製されたコンテンツ](https://support.google.com/webmasters/answer/2721312?hl=ja&ref_topic=6001971)
+  * [検索スパム](https://support.google.com/webmasters/answer/93713)
+  * [フィッシング](https://safebrowsing.google.com/safebrowsing/report_phish/)
+  * [マルウェア](https://www.google.com/safebrowsing/report_badware/)
 * stackoverflow.com
 * stackexchange.com
 * qiita.com
@@ -74,7 +68,13 @@ puppeteer を実行するとブラウザでアクセスするのと同じです�
 * https://github.com/arosh/ublacklist-stackoverflow-translation
 * https://github.com/108EAA0A/ublacklist-programming-school
 * https://github.com/ncaq/uBlacklistRule
-* (archived by the owner) https://github.com/tats-u/tech-spam-filter
+* https://github.com/tats-u/tech-spam-filter (archived by the owner)
+
+## エビデンス
+
+* [evidence.md](evidence.md)
+
+URLが生存しているかチェックしています。
 
 ## 謝辞
 
