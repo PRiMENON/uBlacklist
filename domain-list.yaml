@@ -778,7 +778,7 @@
 - domain: 'trendn.jp'
   evidence: 'https://trendn.jp/answer/%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95-%e6%9c%80%e5%88%9d-%e3%81%ab-%e3%82%84%e3%82%8b-%e3%81%93%e3%81%a8'
   note:
-- domain: 'seesaawiki.jp/windows10memo'
+- domain: 'seesaawiki.jp/windows10memo/'
   evidence: 'https://seesaawiki.jp/windows10memo/d/Windows%20%c1%e0%ba%ee%20%b4%d8%cf%a2%a5%e1%a5%e2'
   note:
 - domain: 'jo-sys.net'
