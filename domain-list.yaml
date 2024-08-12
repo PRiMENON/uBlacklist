@@ -991,3 +991,6 @@
 - domain: 'kurashi.biglobe.ne.jp'
   evidence: 'https://kurashi.biglobe.ne.jp/rankings/3147/'
   note: ''
+- domain: 'php.cn'
+  evidence: 'https://www.php.cn/ja/faq/495553.html'
+  note: ''
