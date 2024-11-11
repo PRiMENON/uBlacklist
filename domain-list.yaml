@@ -994,3 +994,6 @@
 - domain: 'php.cn'
   evidence: 'https://www.php.cn/ja/faq/495553.html'
   note: ''
+  - domain: 'twicopy.com'
+  evidence: 'https://twicopy.com/de/mii1227371/'
+  note: ''
