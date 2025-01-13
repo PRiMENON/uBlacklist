@@ -1000,3 +1000,6 @@
 - domain: 'bullbearstrategy.website'
   evidence: 'https://bullbearstrategy.website/?_=%2Fgithub%2F%23zcf4CwmpuGTvRWDj75PyZsKm'
   note: 'github clone'
+- domain: 'winginx.com'
+  evidence: 'https://winginx.com/ja/htaccess'
+  note: ''
