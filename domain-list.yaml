@@ -1096,3 +1096,6 @@
 - domain: 'note.com/haken_se_30manen/'
   evidence: 'https://note.com/haken_se_30manen/n/nda9a5aadb200'
   note: 'fake review'
+- domain: 'note.com/kumasann_muttsu/'
+  evidence: 'https://note.com/kumasann_muttsu/n/n16e9fd9c5223'
+  note: 'fake review'
