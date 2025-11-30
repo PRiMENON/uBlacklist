@@ -10,7 +10,7 @@ function remove_File(path) {
 }
 
 try {
-    // read YAML
+    // read YAML file
     let yamls = fs.readFileSync(urlFile, 'utf-8')
     yamls = yaml.load(yamls)
 
@@ -30,6 +30,11 @@ try {
                 d = d.replace(/(^.+$)/g, '*://$1*')
             }
 
+            // Top Level Domain
+            if (d.match(/^\.[a-z0-9]+/g)) {
+                d = d.replace(/(^.+$)/g, '*://$1/*')
+            }
+
             // replace regex
             if (d.match()) {
                 d = d.replace(/(^[^*]+)/g, '/([a-z0-9.]+.)?$1/')
@@ -38,24 +43,24 @@ try {
             return { ...item, domain: d };
         })
 
-    // check duplicate domain.
+    // check duplicate domain
     yamls = yamls.filter((item, index, self) => {
         const domainList = self.map(item => item['domain'])
         if (domainList.indexOf(item.domain) === index) {
             return item
         } else {
-            throw new Error('Found duplicate domain => ' + item['domain'])
+            throw new Error('Duplicate domain => ' + item['domain'])
         }
     })
 
-    // remove files.
+    // remove files
     remove_File(UBResultFile)
     
-    // get time.
+    // get current date
     const date = new Date()
     let dateISO = date.toISOString()
 
-    // create uBlacklist.
+    // create uBlacklist
     let UBL_val = fs.readFileSync('./src/ublacklist.md', 'utf-8')
     UBL_val = UBL_val.replace('{UPDATE}', dateISO)
     fs.appendFileSync(UBResultFile, UBL_val, { flag: 'w' }, function (err) {
@@ -71,8 +76,9 @@ try {
             if (err) throw err
         })
     }
+    console.log('The script completely finished.')
 } catch (err) {
     console.error('Error:' + err.message)
-} finally {
-    console.log('script finished.')
+    console.error('The script failed.')
+    process.exit(1);
 }
