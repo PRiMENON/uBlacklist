@@ -1096,3 +1096,6 @@
 - domain: 'note.com/kumasann_muttsu/'
   evidence: 'https://note.com/kumasann_muttsu/n/n16e9fd9c5223'
   note: 'fake review'
+- domain: 'hmyselect-aw3.com'
+  evidence: 'https://hmyselect-aw3.com/steamer4/'
+  note: ''
