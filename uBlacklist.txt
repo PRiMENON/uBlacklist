@@ -2,7 +2,7 @@
 name: PRiMENON uBlacklist
 homepage: https://github.com/PRiMENON/uBlacklist
 license: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
-Last modified: 2025-11-30T08:43:45.476Z
+Last modified: 2025-11-30T09:08:25.645Z
 ---
 /([a-z0-9.]+.)?living-sun.com/
 /([a-z0-9.]+.)?qastack.jp/
@@ -371,3 +371,14 @@ Last modified: 2025-11-30T08:43:45.476Z
 *://note.com/haken_se_30manen/*
 *://note.com/kumasann_muttsu/*
 /([a-z0-9.]+.)?hmyselect-aw3.com/
+/([a-z0-9.]+.)?entame-now.hatenablog.com/
+/([a-z0-9.]+.)?mangalearn.com/
+/([a-z0-9.]+.)?matsuchiyomuu.com/
+/([a-z0-9.]+.)?coki.jp/
+/([a-z0-9.]+.)?geinou.sakuraweb.com/
+/([a-z0-9.]+.)?mika-blog28.com/
+/([a-z0-9.]+.)?randomviews.net/
+/([a-z0-9.]+.)?t1p.de/
+*://.br/*
+*://.fr/*
+*://.il/*
