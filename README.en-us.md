@@ -42,6 +42,7 @@ Firefox can install uBlock Origin, so use the list for uBlock origin.
 * Twitter clone site
 * Web archive site
 * Gossip and blow up site
+* Fake review site
 
 ## Not add site
 
