@@ -2,7 +2,7 @@
 name: PRiMENON uBlacklist
 homepage: https://github.com/PRiMENON/uBlacklist
 license: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
-Last modified: 2025-11-30T09:08:25.645Z
+Last modified: 2026-07-01T13:17:45.965Z
 ---
 /([a-z0-9.]+.)?living-sun.com/
 /([a-z0-9.]+.)?qastack.jp/
@@ -382,3 +382,9 @@ Last modified: 2025-11-30T09:08:25.645Z
 *://.br/*
 *://.fr/*
 *://.il/*
+/([a-z0-9.]+.)?linhasgerais.pt/
+/([a-z0-9.]+.)?atlevitko.cz/
+/([a-z0-9.]+.)?portepn.org/
+/([a-z0-9.]+.)?angra.pl/
+/([a-z0-9.]+.)?daveschneider.de/
+/([a-z0-9.]+.)?simax.cl/
