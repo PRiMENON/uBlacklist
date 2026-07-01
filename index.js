@@ -32,7 +32,7 @@ try {
 
             // Top Level Domain
             if (d.match(/^\.[a-z0-9]+/g)) {
-                d = d.replace(/(^.+$)/g, '*://$1/*')
+                d = d.replace(/(^.+$)/g, '*://*.$1/*')
             }
 
             // replace regex
