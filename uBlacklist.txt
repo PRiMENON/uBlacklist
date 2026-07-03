@@ -2,7 +2,7 @@
 name: PRiMENON uBlacklist
 homepage: https://github.com/PRiMENON/uBlacklist
 license: https://github.com/PRiMENON/uBlacklist/blob/master/LICENSE
-Last modified: 2026-07-01T13:42:15.737Z
+Last modified: 2026-07-03T13:11:50.448Z
 ---
 /([a-z0-9.]+.)?living-sun.com/
 /([a-z0-9.]+.)?qastack.jp/
@@ -396,3 +396,10 @@ Last modified: 2026-07-01T13:42:15.737Z
 /([a-z0-9.]+.)?dandyfreshmarketblooms.com/
 /([a-z0-9.]+.)?oranje-genuss.de/
 /([a-z0-9.]+.)?schmidtcustomcabinetry.com/
+/([a-z0-9.]+.)?energys.com.au/
+/([a-z0-9.]+.)?mw.hmtm.de/
+/([a-z0-9.]+.)?weberplastics.co.uk/
+/([a-z0-9.]+.)?longvalleywomansclub.org/
+/([a-z0-9.]+.)?stanczykkancelaria.pl/
+/([a-z0-9.]+.)?koellejan.de/
+/([a-z0-9.]+.)?creativewalks.co.uk/
